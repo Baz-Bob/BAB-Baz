@@ -1,5 +1,5 @@
 {
-  "name": "echobird-openai-cn",
+  "name": "echobird-cn",
   "interface": {
     "displayName": "OpenAI 官方插件(国内线路)"
   },

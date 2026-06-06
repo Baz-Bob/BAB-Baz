@@ -10,7 +10,7 @@ OpenAI Codex 官方插件市场（[`openai/plugins`](https://github.com/openai/p
 编辑 `~/.codex/config.toml`（Windows：`C:\Users\<你>\.codex\config.toml`），新增一节：
 
 ```toml
-[marketplaces.echobird-openai-cn]
+[marketplaces.echobird-cn]
 source_type = "git"
 source = "https://gitcode.com/<账号>/<仓库>.git"
 ```
