@@ -1,21 +1,24 @@
-# OpenAI 官方插件全量 · 国内直连镜像
+# OpenAI 官方插件全量 · 国内线路镜像
 
-OpenAI Codex 官方插件市场（[`openai/plugins`](https://github.com/openai/plugins)，共 **172** 个）的**完整原样镜像**，托管在国内可直连的 Git 站点上，方便 **Codex 桌面端**在大陆**无需翻墙**即可添加该市场并安装插件。
+OpenAI Codex 官方插件市场（[`openai/plugins`](https://github.com/openai/plugins)，共 **172** 个）的**完整原样镜像**，托管在腾讯 CNB（国内主线），方便 **Codex 桌面端**在大陆**无需翻墙**直连添加并安装插件。
 
-> 本仓库只做镜像与说明，**不翻译、不改动**任何插件内容，与官方逐一对应。
-> 仅改了市场标题（避免与 Codex 内置的同名市场冲突）。详见 [NOTICE.md](./NOTICE.md)。
+> 本仓库只做镜像，**不翻译、不改动**任何插件内容；仅改了市场标题（避免与 Codex 内置同名）。详见 [NOTICE.md](./NOTICE.md)。
+>
+> EchoBird 提供两条线路，内容相同，任选其一：
+> - **国内线路**（本仓，腾讯 CNB，主线）：`https://cnb.cool/echobird/codex-plugins.git`
+> - **川渝线路**（备线，重庆节点）：`https://gitcode.com/edison7009/EchoBird.git`
 
-## 在 Codex 桌面端添加
+## 在 Codex 桌面端添加（国内线路）
 
 编辑 `~/.codex/config.toml`（Windows：`C:\Users\<你>\.codex\config.toml`），新增一节：
 
 ```toml
 [marketplaces.echobird-cn]
 source_type = "git"
-source = "https://gitcode.com/<账号>/<仓库>.git"
+source = "https://cnb.cool/echobird/codex-plugins.git"
 ```
 
-然后**完全退出并重启 Codex 桌面端**，它会 clone 本市场并同步；之后在「插件 → 市场下拉 → 安装」中选择即可。
+然后**完全退出并重启 Codex 桌面端**，市场「**OpenAI 官方插件(国内线路)**」会出现并带全部 172 个插件。
 
 ## 国内开箱即用的插件（推荐优先）
 
