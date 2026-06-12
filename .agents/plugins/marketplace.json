@@ -1,7 +1,7 @@
 {
   "name": "echobird-cn",
   "interface": {
-    "displayName": "OpenAI 官方插件 中文版(国内线路)"
+    "displayName": "Codex 中文插件市场(国内线路)"
   },
   "plugins": [
     {
