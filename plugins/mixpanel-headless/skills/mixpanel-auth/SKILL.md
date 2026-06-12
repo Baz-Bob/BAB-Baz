@@ -1,6 +1,6 @@
 ---
 name: mixpanel-auth
-description: "Manage Mixpanel Headless authentication: check session state, list/add/use accounts, run OAuth login, switch projects/workspaces, manage targets, and check bridge credentials."
+description: "管理 Mixpanel Headless 身份验证：检查会话状态、列出/添加/使用账号、运行 OAuth 登录、切换项目/工作区、管理目标，以及检查 bridge 凭证。"
 ---
 
 # Mixpanel Authentication Management

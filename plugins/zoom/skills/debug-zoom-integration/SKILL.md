@@ -1,6 +1,6 @@
 ---
 name: debug-zoom-integration
-description: Use when isolating failures.
+description: "定位集成故障时使用。"
 ---
 
 # Debug Zoom Integration

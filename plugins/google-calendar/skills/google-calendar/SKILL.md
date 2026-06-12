@@ -1,6 +1,6 @@
 ---
 name: google-calendar
-description: Manage scheduling and conflicts in connected Google Calendar data. Use when the user wants to inspect calendars, compare availability, review conflicts, find a meeting room, review event notes or attachments, add or adjust reminders, place temporary holds, or draft exact create, update, reschedule, or cancel changes with timezone-aware details.
+description: "管理已连接 Google Calendar 数据中的日程和冲突。适用于查看日历、比较空闲时段、审查冲突、查找会议室、查看活动备注或附件、添加或调整提醒、设置临时占位，以及起草含时区信息的创建、更新、改期或取消变更。"
 ---
 
 # Google Calendar

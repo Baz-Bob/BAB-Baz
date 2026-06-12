@@ -1,6 +1,6 @@
 ---
 name: dcf
-description: Discounted cash flow valuation with sensitivity analysis
+description: "含敏感性分析的折现现金流（DCF）估值"
 ---
 
 Build a discounted cash flow (DCF) valuation for the company named in the user's request. If no ticker or company is provided, ask for one before proceeding.

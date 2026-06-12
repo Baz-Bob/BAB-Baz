@@ -1,12 +1,6 @@
 ---
 name: twilio-notifications-alerts-advisor
-description: >
-  Planning skill for transactional notifications, alerts, and
-  reminders. Qualifies the developer's needs across urgency, channel
-  selection, delivery confirmation, and fallback patterns to recommend
-  the right Twilio notification architecture. Handles both "send
-  shipping updates to customers" and "build a multi-channel alert
-  system with delivery confirmation and fallback."
+description: "事务性通知、告警和提醒规划技能。根据开发者在紧迫性、渠道选择、投递确认和降级模式方面的需求，推荐合适的 Twilio 通知架构。适用于「向客户发送物流更新」和「构建带投递确认和降级的多渠道告警系统」等各类需求。层级：发现。"
 tier: discover
 ---
 

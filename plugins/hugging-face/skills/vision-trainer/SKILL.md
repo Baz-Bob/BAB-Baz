@@ -1,6 +1,6 @@
 ---
 name: huggingface-vision-trainer
-description: Trains and fine-tunes vision models for object detection (D-FINE, RT-DETR v2, DETR, YOLOS), image classification (timm models — MobileNetV3, MobileViT, ResNet, ViT/DINOv3 — plus any Transformers classifier), and SAM/SAM2 segmentation using Hugging Face Transformers on Hugging Face Jobs cloud GPUs. Covers COCO-format dataset preparation, Albumentations augmentation, mAP/mAR evaluation, accuracy metrics, SAM segmentation with bbox/point prompts, DiceCE loss, hardware selection, cost estimation, Trackio monitoring, and Hub persistence. Use when users mention training object detection, image classification, SAM, SAM2, segmentation, image matting, DETR, D-FINE, RT-DETR, ViT, timm, MobileNet, ResNet, bounding box models, or fine-tuning vision models on Hugging Face Jobs.
+description: "使用 Hugging Face Transformers 在 Hugging Face Jobs 云 GPU 上训练和微调视觉模型，支持目标检测（D-FINE、RT-DETR v2、DETR、YOLOS）、图像分类（timm 模型——MobileNetV3、MobileViT、ResNet、ViT/DINOv3——以及任何 Transformers 分类器）和 SAM/SAM2 分割。涵盖 COCO 格式数据集准备、Albumentations 数据增强、mAP/mAR 评估、精度指标、带 Bbox/点提示的 SAM 分割、DiceCE 损失、硬件选择、成本估算、Trackio 监控和 Hub 持久化。当用户提到训练目标检测、图像分类、SAM、SAM2、分割、图像抠图、DETR、D-FINE、RT-DETR、ViT、timm、MobileNet、ResNet、边界框模型，或在 Hugging Face Jobs 上微调视觉模型时触发。"
 ---
 
 # Vision Model Training on Hugging Face Jobs

@@ -1,6 +1,6 @@
 ---
 name: observability
-description: Vercel Observability expert guidance — Drains (logs, traces, speed insights, web analytics), Web Analytics, Speed Insights, runtime logs, custom events, OpenTelemetry integration, and monitoring dashboards. Use when instrumenting, debugging, or optimizing application performance and user experience on Vercel.
+description: "Vercel 可观测性专家指南——Drains（日志、追踪、速度洞察、Web 分析）、Web Analytics、Speed Insights、运行时日志、自定义事件、OpenTelemetry 集成和监控仪表盘。在对 Vercel 上的应用性能和用户体验进行埋点、调试或优化时使用。"
 metadata:
   priority: 6
   docs:

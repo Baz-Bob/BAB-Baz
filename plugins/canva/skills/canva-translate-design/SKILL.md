@@ -1,6 +1,6 @@
 ---
 name: canva-translate-design
-description: Translate the text in a Canva design into another language while preserving the original layout as much as possible. Use when the user wants a localized or translated version of an existing Canva design and expects the original file to remain unchanged.
+description: "将 Canva 设计中的文字翻译为其他语言，同时尽可能保留原始布局。适用于用户希望获得现有 Canva 设计的本地化或翻译版本，且期望原文件保持不变时。"
 ---
 
 # Canva Translate Design

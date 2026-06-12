@@ -1,6 +1,6 @@
 ---
 name: research-router-skill
-description: Route broad or ambiguous life-sciences research requests to the right skills, normalize core entities, optionally parallelize independent evidence gathering with subagents when available, and synthesize a concise evidence-backed answer. Use when a user asks a general life-sciences question that could span multiple sources or analysis types.
+description: "将宽泛或模糊的生命科学研究请求路由到合适的技能，规范化核心实体，在子代理可用时可选择并行化独立的证据采集，并综合产出简明的循证答案。适用于用户提出可能跨越多个来源或分析类型的通用生命科学问题的场景。"
 ---
 
 ## Research Router

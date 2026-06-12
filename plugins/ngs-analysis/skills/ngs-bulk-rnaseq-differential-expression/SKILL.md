@@ -1,6 +1,6 @@
 ---
 name: ngs-bulk-rnaseq-differential-expression
-description: Run or plan bulk RNA-seq differential-expression analysis from count matrices with replicate, design formula, contrast, batch, normalization, QC plot, and result-table checks.
+description: "从 count matrix 运行或规划批量 RNA-seq 差异表达分析，包含重复、设计公式、对比组、批次效应、归一化、QC 图和结果表检查。"
 ---
 
 # Bulk RNA-seq Differential Expression

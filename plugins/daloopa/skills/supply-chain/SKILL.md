@@ -1,6 +1,6 @@
 ---
 name: supply-chain
-description: Interactive supply chain dashboard mapping suppliers, customers, and
+description: "可交互的供应链图谱，映射供应商、客户及关键关系"
   financial interdependencies
 ---
 

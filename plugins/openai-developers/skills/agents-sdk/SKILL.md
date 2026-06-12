@@ -1,6 +1,6 @@
 ---
 name: agents-sdk
-description: Build, run, deploy, and evaluate OpenAI Agents SDK apps from Codex. Use when the user asks to create or adapt an Agents SDK app, build from a prompt or Codex thread, prepare a runnable agent prototype, add a focused eval harness, or deploy locally through the Agents SDK Deployment Manager.
+description: "在 Codex 中构建、运行、部署和评估 OpenAI Agents SDK 应用。适用于以下场景：创建或改造 Agents SDK 应用、从提示词或 Codex 对话线程构建、准备可运行的智能体原型、添加专项评估套件，或通过 Agents SDK Deployment Manager 进行本地部署。"
 ---
 
 # Agents SDK

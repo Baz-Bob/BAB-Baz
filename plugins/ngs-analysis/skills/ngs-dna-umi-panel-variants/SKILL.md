@@ -1,6 +1,6 @@
 ---
 name: ngs-dna-umi-panel-variants
-description: Run or plan targeted DNA panel variant workflows that use UMIs, duplex consensus reads, molecular barcodes, low-frequency calling, target coverage, and panel-specific QC.
+description: "运行或规划使用 UMI 的靶向 DNA panel 变异工作流，涵盖双链共识序列、分子条码、低频变异检测、靶区覆盖度和 panel 特定 QC。"
 ---
 
 # UMI Panel DNA Variants

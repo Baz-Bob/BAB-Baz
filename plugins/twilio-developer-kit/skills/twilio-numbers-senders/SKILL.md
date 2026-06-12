@@ -1,11 +1,6 @@
 ---
 name: twilio-numbers-senders
-description: >
-  Choose the right Twilio number type and sender BEFORE building. Covers
-  phone numbers (local, toll-free, short code, mobile), alphanumeric sender
-  IDs, WhatsApp senders, RCS agents, international availability, and
-  regulatory bundles. Each number type has its own compliance program —
-  choosing wrong means rebuilding. Use this skill first.
+description: "在开发前选择合适的 Twilio 号码类型和发件人。涵盖电话号码（本地号、免费电话、短码、移动号）、字母数字发件人 ID、WhatsApp 发件人、RCS 代理、国际可用性，以及合规套餐。每种号码类型都有各自的合规项目——选错意味着需要重新来过。请优先使用此技能。"
 ---
 
 ## Overview

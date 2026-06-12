@@ -1,6 +1,6 @@
 ---
 name: earnings-review
-description: Full earnings analysis with guidance tracking for a given company
+description: "含业绩指引跟踪的完整财报分析"
 ---
 
 Perform a comprehensive earnings analysis for the company named in the user's request. If no ticker or company is provided, ask for one before proceeding.

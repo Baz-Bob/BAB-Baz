@@ -1,6 +1,6 @@
 ---
 name: verification
-description: "Full-story verification — infers what the user is building, then verifies the complete flow end-to-end: browser → API → data → response. Triggers on dev server start and 'why isn't this working' signals."
+description: "全流程验证——推断用户正在构建的内容，然后端到端验证完整流程：浏览器 → API → 数据 → 响应。在开发服务器启动和「为什么不工作」信号出现时触发。"
 metadata:
   priority: 7
   docs:

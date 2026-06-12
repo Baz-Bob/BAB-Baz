@@ -1,6 +1,6 @@
 ---
 name: debug-zoom
-description: Use when debugging issues.
+description: "排查问题时使用。"
 ---
 
 # /debug-zoom

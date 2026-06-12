@@ -1,6 +1,6 @@
 ---
 name: base44-cli
-description: "The base44 CLI is used for EVERYTHING related to base44 projects: resource configuration (entities, backend functions, ai agents), initialization and actions (resource creation, deployment). This skill is the place for learning about how to configure resources. When you plan or implement a feature, you must learn this skill"
+description: "Base44 CLI 用于处理 Base44 项目的一切事务：资源配置（实体、后端函数、AI 代理）、初始化和操作（资源创建、部署）。本技能是学习资源配置方法的入口。规划或实现功能时必须先学习本技能。"
 metadata:
   sourcePackage:
     name: base44

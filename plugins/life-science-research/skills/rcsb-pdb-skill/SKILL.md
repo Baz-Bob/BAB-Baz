@@ -1,6 +1,6 @@
 ---
 name: rcsb-pdb-skill
-description: Submit compact RCSB PDB requests for core metadata, Search API queries, and FASTA downloads. Use when a user wants concise RCSB summaries; save raw JSON or FASTA only on request.
+description: "向 RCSB PDB 提交简洁请求，查询核心元数据、Search API 查询和 FASTA 下载。适用于需要简明 RCSB 摘要的场景；仅在明确要求时保存原始 JSON 或 FASTA。"
 ---
 
 ## Operating rules

@@ -1,45 +1,48 @@
 {
-	"name": "remotion",
-	"version": "1.0.1",
-	"description": "Remotion video creation skills — best practices, animations, audio, captions, 3D, and more for building programmatic videos with React.",
-	"author": {
-		"name": "Remotion",
-		"email": "hi@remotion.dev",
-		"url": "https://remotion.dev"
-	},
-	"homepage": "https://remotion.dev",
-	"repository": "https://github.com/remotion-dev/remotion",
-	"license": "MIT",
-	"keywords": [
-		"remotion",
-		"video",
-		"react",
-		"animation",
-		"composition",
-		"rendering",
-		"ffmpeg",
-		"captions",
-		"audio"
-	],
-	"skills": "./skills/",
-	"interface": {
-		"displayName": "Remotion",
-		"shortDescription": "Create motion graphics from prompts",
-		"longDescription": "Build videos programmatically with Remotion and React. Covers animations, timing, audio, captions, 3D, transitions, charts, text effects, and more.",
-		"developerName": "Remotion",
-		"category": "Design",
-		"capabilities": ["Read", "Write"],
-		"websiteURL": "https://remotion.dev",
-		"privacyPolicyURL": "https://remotion.pro/privacy",
-		"termsOfServiceURL": "https://remotion.pro/terms",
-		"defaultPrompt": [
-			"Create an animated chart with 5 bars",
-			"Make an animated call-to-action subscribe button for our YouTube channel",
-			"Use Remotion to add captions and audio to a video composition."
-		],
-		"screenshots": [],
-		"brandColor": "#0B84F3",
-		"composerIcon": "./assets/icon.png",
-		"logo": "./assets/logo.png"
-	}
+  "name": "remotion",
+  "version": "1.0.2",
+  "description": "Remotion video creation skills — best practices, animations, audio, captions, 3D, and more for building programmatic videos with React.",
+  "author": {
+    "name": "Remotion",
+    "email": "hi@remotion.dev",
+    "url": "https://remotion.dev"
+  },
+  "homepage": "https://remotion.dev",
+  "repository": "https://github.com/remotion-dev/remotion",
+  "license": "MIT",
+  "keywords": [
+    "remotion",
+    "video",
+    "react",
+    "animation",
+    "composition",
+    "rendering",
+    "ffmpeg",
+    "captions",
+    "audio"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Remotion",
+    "shortDescription": "根据提示生成动态图形视频",
+    "longDescription": "使用 Remotion 和 React 以编程方式制作视频，涵盖动画、时间轴、音频、字幕、3D、转场、图表、文字特效等功能。",
+    "developerName": "Remotion",
+    "category": "Creativity",
+    "capabilities": [
+      "Read",
+      "Write"
+    ],
+    "websiteURL": "https://remotion.dev",
+    "privacyPolicyURL": "https://remotion.pro/privacy",
+    "termsOfServiceURL": "https://remotion.pro/terms",
+    "defaultPrompt": [
+      "创建一个包含 5 根柱子的动态柱状图",
+      "为我们的 YouTube 频道制作一个带动画的订阅行动号召按钮",
+      "使用 Remotion 为视频合成添加字幕和音频"
+    ],
+    "screenshots": [],
+    "brandColor": "#0B84F3",
+    "composerIcon": "./assets/icon.png",
+    "logo": "./assets/logo.png"
+  }
 }

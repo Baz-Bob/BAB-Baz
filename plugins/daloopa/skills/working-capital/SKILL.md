@@ -1,6 +1,6 @@
 ---
 name: working-capital
-description: Cash conversion cycle, earnings quality, and working capital deep-dive
+description: "现金转换周期、盈利质量及营运资本深度分析"
 ---
 
 Perform a cash conversion cycle, earnings quality, and working capital deep-dive for the company named in the user's request. If no ticker or company is provided, ask for one before proceeding.

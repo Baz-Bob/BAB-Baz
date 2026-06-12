@@ -1,6 +1,6 @@
 ---
 name: meeting-scheduler
-description: Handles end-to-end meeting scheduling using the Superhuman Mail MCP server — from finding available times to sending the invite or proposing times via email. Use this skill whenever someone asks to "schedule a meeting with [person]", "find a time to meet", "book a call", "set up a meeting", "when am I free to meet with [person]", "propose times to [person]", "send my availability", "create a meeting invite", "schedule a 1:1", "find overlap in our calendars", "reschedule my meeting with [person]", or any variation of coordinating a meeting. Also trigger when someone says "I need to find time with [person]", "can you check my calendar and suggest times", "set up a recurring sync", "block time for [task]", or when an email thread involves scheduling and the user wants to act on it. Trigger broadly — if someone needs help coordinating when people meet, this skill should activate.
+description: "通过 Superhuman Mail MCP 服务器处理端到端会议安排——从查找空闲时间到发送邀请或通过邮件提议时间。适用于用户要求\"和 [联系人] 安排一次会议\"、\"找个时间开会\"、\"预约一个电话\"、\"设置一次会议\"、\"我什么时候有空和 [联系人] 见面\"、\"给 [联系人] 提议几个时间\"、\"发送我的空闲时间\"、\"创建会议邀请\"、\"安排一对一\"、\"找到双方日历的重叠时间\"、\"和 [联系人] 重新约时间\"，或任何需要协调会议时间的场景。还适用于\"我需要找时间和 [联系人] 碰\"、\"帮我看一下日历并建议时间\"、\"设置定期同步\"、\"为 [任务] 预留时间\"，或邮件线程涉及日程安排且用户需要行动的情形。触发范围宜宽——只要用户需要协调会面时间，本技能即应激活。"
 ---
 
 # Meeting Scheduler

@@ -1,6 +1,6 @@
 ---
 name: expo-api-routes
-description: Guidelines for creating API routes in Expo Router with EAS Hosting
+description: "使用 EAS Hosting 在 Expo Router 中创建 API 路由的指南"
 version: 1.0.0
 license: MIT
 ---

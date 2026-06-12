@@ -1,6 +1,6 @@
 ---
 name: wix-app
-description: "Build and review Wix CLI app extensions — dashboard pages, modals, plugins, menu plugins, custom element widgets, Editor React components, site plugins, embedded scripts, backend APIs, backend events, service plugins, data collections, and App Market readiness. Use when building ANY feature or extension for a Wix CLI app or preparing a Wix app for App Market review. Triggers on: add, build, create, implement, help me, dashboard, widget, plugin, backend, API, event, collection, embedded script, service plugin, Editor React component, checkout, shipping, tax, discount, SPI, CMS, schema, tracking, popup, admin panel, menu item, modal, validate, test, verify, register extension, App Market, app review, submission readiness."
+description: "构建和审查 Wix CLI 应用扩展——包括仪表盘页面、弹窗、插件、菜单插件、自定义元素 Widget、Editor React 组件、站点插件、嵌入脚本、后端 API、后端事件、服务插件、数据集合和 App Market 上架准备。适用于为 Wix CLI 应用构建任何功能或扩展，以及准备 Wix 应用进行 App Market 审核。触发词：add、build、create、implement、help me、dashboard、widget、plugin、backend、API、event、collection、embedded script、service plugin、Editor React component、checkout、shipping、tax、discount、SPI、CMS、schema、tracking、popup、admin panel、menu item、modal、validate、test、verify、register extension、App Market、app review、submission readiness。"
 compatibility: requires `@wix/cli` >= 1.1.192.
 ---
 

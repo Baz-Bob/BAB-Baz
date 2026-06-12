@@ -1,6 +1,6 @@
 ---
 name: render-debug
-description: Debug failed Render deployments by analyzing logs, metrics, and database state. Identifies errors (missing env vars, port binding, OOM, etc.) and suggests fixes. Use when deployments fail, services won't start, or users mention errors, logs, or debugging.
+description: "通过分析日志、指标和数据库状态，调试失败的 Render 部署。能识别常见错误（缺少环境变量、端口绑定问题、OOM 等）并给出修复建议。适用于部署失败、服务无法启动或用户提到错误、日志、调试等场景。"
 license: MIT
 compatibility: Requires Render MCP tools or CLI
 metadata:

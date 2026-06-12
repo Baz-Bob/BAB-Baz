@@ -1,6 +1,6 @@
 ---
 name: string-skill
-description: Submit compact STRING API requests for network, interaction partner, and enrichment endpoints. Use when a user wants concise STRING summaries
+description: "向 STRING API 提交简洁请求，查询网络、相互作用伙伴和富集端点。适用于需要简明 STRING 摘要的场景。"
 ---
 
 ## Operating rules

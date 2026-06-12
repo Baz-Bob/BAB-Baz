@@ -1,6 +1,6 @@
 ---
 name: capital-allocation
-description: Deep dive into capital deployment, buybacks, dividends, and shareholder
+description: "深度分析资本配置、股票回购、股息及股东回报"
   yield
 ---
 

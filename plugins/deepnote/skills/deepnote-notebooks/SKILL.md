@@ -1,6 +1,6 @@
 ---
 name: deepnote-notebooks
-description: Use when reading, reviewing, inspecting, or reasoning about hosted Deepnote notebooks, blocks, inputs, SQL, Python, or notebook outputs through the Deepnote app tools.
+description: "适用于通过 Deepnote 应用工具阅读、审阅、检查或分析已托管的 Deepnote 笔记本、块、输入、SQL、Python 或笔记本输出的场景。"
 ---
 
 # Deepnote Notebooks

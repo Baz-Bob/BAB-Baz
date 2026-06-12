@@ -1,6 +1,6 @@
 ---
 name: liquid-glass
-description: Implement and review macOS SwiftUI Liquid Glass UI. Use when adopting system glass, removing conflicting custom chrome, or building glass surfaces.
+description: "实现并审查 macOS SwiftUI Liquid Glass UI。适用于采用系统玻璃效果、移除冲突的自定义外观，或构建玻璃质感界面的场景。"
 ---
 
 # Liquid Glass

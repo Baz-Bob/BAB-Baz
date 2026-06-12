@@ -1,6 +1,6 @@
 ---
 name: base44-troubleshooter
-description: Troubleshoot production issues using backend function logs. Use when investigating app errors, debugging function calls, or diagnosing production problems in Base44 apps.
+description: "通过后端函数日志排查生产问题。适用于调查 Base44 应用报错、调试函数调用或诊断生产环境故障。"
 ---
 
 # Troubleshoot Production Issues

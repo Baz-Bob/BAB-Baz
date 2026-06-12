@@ -1,6 +1,6 @@
 ---
 name: industry
-description: Cross-company industry comparison across multiple tickers
+description: "跨多个股票代码的行业横向对比分析"
 ---
 
 Perform an industry comparison across the companies named in the user's request. If no ticker or company is provided, ask for one before proceeding.

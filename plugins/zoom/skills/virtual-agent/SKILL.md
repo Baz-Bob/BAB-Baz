@@ -1,6 +1,6 @@
 ---
 name: build-zoom-virtual-agent
-description: Use when using Virtual Agent.
+description: "使用 Virtual Agent 时使用。"
 ---
 
 # Build Zoom Virtual Agent

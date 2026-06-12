@@ -1,6 +1,6 @@
 ---
 name: ib-deck
-description: Generate an institutional-grade investment banking pitch deck (HTML)
+description: "生成机构级投资银行路演 PPT（HTML 格式）"
 ---
 
 Build an institutional-grade pitch deck for the company named in the user's request. If no ticker or company is provided, ask for one before proceeding.

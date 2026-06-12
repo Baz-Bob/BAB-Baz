@@ -1,6 +1,6 @@
 {
   "name": "hostinger",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Hostinger Horizons lets you build real websites and apps just by describing what you want.",
   "author": {
     "name": "Hostinger",
@@ -12,13 +12,13 @@
   "apps": "./.app.json",
   "interface": {
     "displayName": "Hostinger",
-    "shortDescription": "Hostinger Horizons lets you build real websites and apps just by describing what you want.",
-    "longDescription": "Hostinger Horizons lets you build real websites and apps just by describing what you want. Designed for people with no technical background, it turns ideas into working products in minutes. When you're happy with the result, launch instantly with one click.",
+    "shortDescription": "Hostinger Horizons 让你只需描述想法，就能搭建真实的网站和应用。",
+    "longDescription": "Hostinger Horizons 让你只需描述想法，就能搭建真实的网站和应用。专为没有技术背景的用户设计，几分钟内即可将创意变成可运行的产品。满意后一键即刻上线。",
     "developerName": "Hostinger",
     "category": "Developer Tools",
     "capabilities": [],
     "defaultPrompt": [
-      "Check the relevant Hostinger site or account status"
+      "查看相关的 Hostinger 站点或账户状态"
     ],
     "screenshots": [],
     "websiteURL": "https://hostinger.com",

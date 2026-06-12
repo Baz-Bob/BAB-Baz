@@ -1,6 +1,6 @@
 ---
 name: omniverse-usd-performance-tuning
-description: "Top-level workflow skill for USD performance diagnosis and optimization. Use for slow loading, high memory, low FPS, or 'optimize my scene' requests; delegates auth/runtime setup to Phase 0 owners."
+description: "USD 性能诊断与优化的顶层工作流技能。适用于加载缓慢、内存占用高、帧率低或\"优化场景\"等需求；Phase 0 相关的鉴权/运行时配置请委托给对应负责方。"
 version: "0.1.0"
 license: Apache-2.0
 tools:

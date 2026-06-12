@@ -1,6 +1,6 @@
 ---
 name: deepnote-notebook-editing
-description: Use when creating Deepnote projects or notebooks, adding or updating blocks or cells, moving existing blocks, scaffolding notebook content, inserting SQL/code/markdown/input blocks, or otherwise editing notebook structure through the Deepnote app tools.
+description: "适用于创建 Deepnote 项目或笔记本、添加或更新块与单元格、移动现有块、搭建笔记本内容框架、插入 SQL/代码/Markdown/输入块，或通过 Deepnote 应用工具以其他方式编辑笔记本结构的场景。"
 ---
 
 # Deepnote Notebook Editing

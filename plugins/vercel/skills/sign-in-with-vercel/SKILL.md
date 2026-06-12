@@ -1,6 +1,6 @@
 ---
 name: sign-in-with-vercel
-description: Sign in with Vercel guidance — OAuth 2.0/OIDC identity provider for user authentication via Vercel accounts. Use when implementing user login with Vercel as the identity provider.
+description: "Sign in with Vercel 指南——通过 Vercel 账号进行用户身份验证的 OAuth 2.0/OIDC 身份提供商。在将 Vercel 作为身份提供商实现用户登录时使用。"
 metadata:
   priority: 6
   docs:

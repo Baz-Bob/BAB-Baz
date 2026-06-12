@@ -1,6 +1,6 @@
 ---
 name: netlify-image-cdn
-description: Guide for using Netlify Image CDN for image optimization and transformation. Use when serving optimized images, creating responsive image markup, setting up user-uploaded image pipelines, or configuring image transformations. Covers the /.netlify/images endpoint, query parameters, remote image allowlisting, clean URL rewrites, and composing uploads with Functions + Blobs.
+description: "使用 Netlify Image CDN 进行图片优化和转换的指南。在提供优化图片、创建响应式图片标记、设置用户上传图片流水线，或配置图片转换时使用。涵盖 `/.netlify/images` 端点、查询参数、远程图片白名单、简洁 URL 重写，以及结合 Functions + Blobs 的上传组合方案。"
 ---
 
 # Netlify Image CDN

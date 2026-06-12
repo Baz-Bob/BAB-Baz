@@ -1,6 +1,6 @@
 ---
 name: react-and-nextjs-data-visualization
-description: Integrate data visualizations into React and Next.js applications. Use when the user needs chart components, UML-like or architecture diagram components, React integration patterns, Next.js client or server boundaries, hydration-safe rendering, lazy loading, framework-aware performance, scroll-driven visual stories, or export guidance.
+description: "将数据可视化集成到 React 和 Next.js 应用中。适用于需要图表组件、类 UML 或架构图组件、React 集成模式、Next.js 客户端或服务端边界、可安全水化的渲染、懒加载、框架感知的性能优化、滚动驱动的视觉叙事或导出指南的场景。"
 ---
 
 # React and Next.js Data Visualization

@@ -1,6 +1,6 @@
 ---
 name: eod-wrapup
-description: Generates an end-of-day wrap-up using the Superhuman Mail MCP server — identifies open loops, unanswered emails, and action items from your day so you can leave work with a clear head. Use this skill whenever someone asks to "wrap up my day", "what's still open in my inbox", "end of day summary", "what do I still need to do", "any emails I missed today", "open loops in my inbox", "summarize my day", "what didn't I respond to", "daily review", "close out my day", "what fell through the cracks", or any variation of wanting to know what's unfinished before signing off. Also trigger when someone says "before I log off", "anything I'm forgetting", "daily debrief", "what should I tackle tomorrow", or wants an accounting of their email activity for the day. Trigger broadly — if someone wants to review what happened and what's still pending at the end of their workday, this skill should activate.
+description: "通过 Superhuman Mail MCP 服务器生成每日收尾总结——识别当天未处理的事项、未回复的邮件和待办，让你带着清醒的头脑结束工作。适用于用户要求\"收尾一天的工作\"、\"收件箱里还有什么未处理的\"、\"下班前总结\"、\"还有什么事情要做\"、\"今天有没有漏掉的邮件\"、\"收件箱中的未闭环事项\"、\"汇总今天的工作\"、\"哪些邮件没回\"、\"每日复盘\"、\"结束今天的工作\"、\"有什么事情遗漏了\"，或任何在下班前想了解未完成事项的场景。还适用于\"准备下线前\"、\"有没有忘了什么\"、\"每日收尾汇报\"、\"明天应该优先处理什么\"，或希望梳理当天邮件活动和待办事项的情形。触发范围宜宽——只要用户想在工作日结束前回顾已完成和待处理的内容，本技能即应激活。"
 ---
 
 # End-of-Day Wrap-Up & Action Extractor

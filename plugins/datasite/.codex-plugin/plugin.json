@@ -1,6 +1,6 @@
 {
   "name": "datasite",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Deal room documents, diligence materials, and Q&A workflows",
   "author": {
     "name": "Datasite",
@@ -13,15 +13,15 @@
   "interface": {
     "displayName": "Datasite",
     "developerName": "Datasite",
-    "shortDescription": "Deal room documents, diligence materials, and Q&A workflows",
-    "longDescription": "Deal room documents, diligence materials, and Q&A workflows",
+    "shortDescription": "交易室文档、尽调材料与 Q&A 工作流",
+    "longDescription": "交易室文档、尽调材料与 Q&A 工作流",
     "category": "Productivity",
     "capabilities": [],
     "brandColor": "#F89820",
     "defaultPrompt": [
-      "Search Datasite for documents related to customer contracts and summarize key diligence issues.",
-      "Find recently uploaded files in this Datasite project and flag missing diligence items.",
-      "Summarize open Q&A items assigned to me in Datasite with owners and next steps."
+      "在 Datasite 中搜索客户合同相关文件，并梳理关键尽调问题。",
+      "找出本 Datasite 项目中最近上传的文件，并标注缺失的尽调材料。",
+      "汇总 Datasite 中分配给我的未解决 Q&A 事项，注明负责人和后续步骤。"
     ],
     "screenshots": [],
     "composerIcon": "./assets/logo.png",

@@ -1,6 +1,6 @@
 ---
 name: airtable-filters
-description: Use this skill when the user wants to find, filter, or narrow down Airtable records by field values, even when they don't explicitly say "filter."
+description: "当用户希望按字段值查找、筛选或缩小 Airtable 记录范围时使用，即便用户没有明确说\"筛选\"也适用。"
 license: MIT
 metadata:
   version: '1.0.0'

@@ -1,10 +1,6 @@
 ---
 name: twilio-isv-sms-best-practices
-description: >
-  Best practices for ISVs (Independent Software Vendors) building SMS
-  features into multi-tenant SaaS platforms using Twilio. Covers customer
-  onboarding for A2P and toll-free compliance, subaccount architecture, sender management, billing patterns, and common ISV pitfalls. Use this when building SMS
-  capabilities that your customers will use to message their end users.
+description: "面向 ISV（独立软件供应商）构建多租户 SaaS 平台 SMS 功能的最佳实践。涵盖 A2P 和免费电话号码合规客户入驻、子账户架构、发件人管理、计费模式，以及常见 ISV 坑点。适用于构建供你的客户向其终端用户发送消息的 SMS 功能场景。"
 ---
 
 ## Overview

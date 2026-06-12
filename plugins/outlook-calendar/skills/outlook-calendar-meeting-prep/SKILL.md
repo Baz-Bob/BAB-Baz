@@ -1,6 +1,6 @@
 ---
 name: outlook-calendar-meeting-prep
-description: Build a practical meeting prep brief from an Outlook Calendar event and its nearby Microsoft context. Use when the user wants to prepare for an upcoming meeting, understand what to read beforehand, pull in linked notes or docs, or get a concise brief on what the meeting appears to require.
+description: "根据 Outlook Calendar 活动及其周边 Microsoft 上下文，生成实用的会前准备简报。当用户需要为即将到来的会议做准备、了解预读材料、调取关联笔记或文档，或快速了解会议要求时触发。"
 ---
 
 # Outlook Calendar Meeting Prep

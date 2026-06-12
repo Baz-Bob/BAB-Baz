@@ -1,6 +1,6 @@
 ---
 name: hyperframes
-description: Create video compositions, animations, title cards, overlays, captions, voiceovers, audio-reactive visuals, and scene transitions in HyperFrames HTML. Use when asked to build any HTML-based video content, add captions or subtitles synced to audio, generate text-to-speech narration, create audio-reactive animation (beat sync, glow, pulse driven by music), add animated text highlighting (marker sweeps, hand-drawn circles, burst lines, scribble, sketchout), or add transitions between scenes (crossfades, wipes, reveals, shader transitions). Covers composition authoring, timing, media, and the full video production workflow. For CLI commands (init, lint, preview, render, transcribe, tts) see the hyperframes-cli skill.
+description: "在 HyperFrames HTML 中创建视频合成、动画、标题卡、叠加层、字幕、旁白、音频响应视觉效果和场景转场。适用于以下场景：构建任意基于 HTML 的视频内容、添加与音频同步的字幕、生成文字转语音旁白、创建音频响应动画（节拍同步、发光、脉冲随音乐驱动）、添加带动效的文字高亮（马克笔扫过、手绘圆圈、爆发线、涂鸦、划除效果），或添加场景间转场（淡入淡出、擦除、揭示、着色器转场）。涵盖合成创作、时序控制、媒体处理和完整的视频制作工作流。CLI 命令（init、lint、preview、render、transcribe、tts）请参阅 hyperframes-cli 技能。"
 ---
 
 # HyperFrames

@@ -1,6 +1,6 @@
 ---
 name: investigation-mode
-description: "Orchestrated debugging coordinator. Triggers on frustration signals (stuck, hung, broken, waiting) and systematically triages: runtime logs → workflow status → browser verify → deploy/env. Reports findings at every step."
+description: "协调式调试协调器。在出现受阻、卡住、损坏、等待等受挫信号时触发，系统性地分级处理：运行时日志 → 工作流状态 → 浏览器验证 → 部署/环境。每步都报告发现结果。"
 metadata:
   priority: 8
   docs:

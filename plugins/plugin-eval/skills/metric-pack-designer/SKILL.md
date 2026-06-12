@@ -1,6 +1,6 @@
 ---
 name: metric-pack-designer
-description: Design custom metric packs for plugin-eval so teams can add local evaluation rubrics that emit schema-compatible checks and metrics. Use when the user wants their own evaluation criteria or visualizations.
+description: "为 plugin-eval 设计自定义指标包，供团队添加本地评估标准，生成与 schema 兼容的检查项和指标。适用于用户想定义自己的评估维度或可视化方式的场景。"
 ---
 
 # Metric Pack Designer

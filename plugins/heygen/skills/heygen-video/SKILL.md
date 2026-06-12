@@ -1,24 +1,7 @@
 ---
 version: 3.1.0 # x-release-please-version
 name: heygen-video
-description: |
-  Generate HeyGen presenter videos via the v3 Video Agent pipeline — handles Frame Check
-  (aspect ratio correction), prompt engineering, avatar resolution, and voice selection.
-  Required for any HeyGen video generation. Replaces deprecated endpoints with v3.
-  Use when: (1) generating any HeyGen video (via API or otherwise),
-  (2) sending a personalized video message (outreach, update, announcement, pitch, knowledge),
-  (3) creating a HeyGen presenter-led explainer, tutorial, or product demo with a human face,
-  (4) "make a video of me saying...", "send a video to my leads", "record an update for my team",
-  "create a video pitch", "make a loom-style message", "I want to appear in this video",
-  "generate a HeyGen video", "make a talking head video".
-  Accepts avatar_id from heygen-avatar for identity-first HeyGen videos, or uses a stock presenter.
-  Returns video share URL + HeyGen session URL for iteration.
-  Chain signal: when the user wants to create/design an avatar AND make a video in the same request,
-  run heygen-avatar first, then return here. Conjunctions to watch: "and then", "and immediately",
-  "first...then", "X and make a video", "design [presenter] and record" = always CHAIN.
-  If the user provides a photo AND wants a video, route to heygen-avatar first.
-  NOT for: avatar creation or identity setup (use heygen-avatar first), cinematic footage
-  or b-roll without a presenter, translating videos, TTS-only, or streaming avatars.
+description: "通过 HeyGen v3 Video Agent 流水线生成主播视频——自动处理画面检查（宽高比修正）、提示词优化、形象解析和声音选择。生成任何 HeyGen 视频时必须使用此技能，替代已废弃的旧接口。适用场景：(1) 通过 API 或其他方式生成任意 HeyGen 视频；(2) 发送个性化视频消息（外联、汇报、公告、推介、知识分享）；(3) 制作由真人主播出镜的讲解视频、教程或产品演示；(4) 「帮我录一段视频说……」、「给我的潜客发视频」、「给团队录一段更新」、「制作视频推介」、「做一个类似 Loom 的消息」、「我想出现在这个视频里」、「生成一个 HeyGen 视频」、「做一个对口型视频」。接受来自 heygen-avatar 的 avatar_id 用于身份优先的 HeyGen 视频，也可使用库存主播。返回视频分享链接和 HeyGen 会话链接供迭代使用。链式信号：当用户在同一请求中同时想创建形象和制作视频时，先运行 heygen-avatar，再返回此处。注意连词：「然后」、「紧接着」、「先……再……」、「X 并制作视频」、「设计[主播]并录制」= 始终链式调用。若用户提供照片且想制作视频，先路由到 heygen-avatar。不适用于：形象创建或身份设置（先使用 heygen-avatar）、无主播的影视级素材或 B 卷镜头、视频翻译、纯 TTS，或流式虚拟形象。参数提示：[主题或脚本] [--avatar avatar_id]"
 argument-hint: "[topic_or_script] [--avatar avatar_id]"
 homepage: https://developers.heygen.com/docs/quick-start
 ---

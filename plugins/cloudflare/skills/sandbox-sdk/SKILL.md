@@ -1,6 +1,6 @@
 ---
 name: sandbox-sdk
-description: Build sandboxed applications for secure code execution. Load when building AI code execution, code interpreters, CI/CD systems, interactive dev environments, or executing untrusted code. Covers Sandbox SDK lifecycle, commands, files, code interpreter, and preview URLs. Biases towards retrieval from Cloudflare docs over pre-trained knowledge.
+description: "使用 Sandbox SDK 构建安全的沙箱应用，用于隔离代码执行。适用于构建 AI 代码执行环境、代码解释器、CI/CD 系统、交互式开发环境或执行不受信任的代码。涵盖 Sandbox SDK 生命周期、命令、文件、代码解释器和预览 URL。优先从 Cloudflare 官方文档检索，而非依赖预训练知识。"
 ---
 
 # Cloudflare Sandbox SDK

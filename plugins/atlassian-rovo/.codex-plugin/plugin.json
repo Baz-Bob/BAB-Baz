@@ -1,6 +1,6 @@
 {
   "name": "atlassian-rovo",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Manage Jira and Confluence fast",
   "author": {
     "name": "Atlassian",
@@ -16,8 +16,8 @@
   "apps": "./.app.json",
   "interface": {
     "displayName": "Atlassian Rovo",
-    "shortDescription": "Manage Jira and Confluence fast",
-    "longDescription": "Manage Jira and Confluence fast",
+    "shortDescription": "快速管理 Jira 和 Confluence",
+    "longDescription": "快速管理 Jira 和 Confluence",
     "developerName": "Atlassian",
     "category": "Productivity",
     "capabilities": [
@@ -28,7 +28,7 @@
     "privacyPolicyURL": "https://www.atlassian.com/legal/privacy-policy",
     "termsOfServiceURL": "https://www.atlassian.com/legal/cloud-terms-of-service",
     "defaultPrompt": [
-      "Create Jira tasks in project Vita MVP"
+      "在 Vita MVP 项目中创建 Jira 任务"
     ],
     "screenshots": [],
     "brandColor": "#0052CC",

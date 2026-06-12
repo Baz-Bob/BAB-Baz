@@ -1,6 +1,6 @@
 ---
 name: "sentry"
-description: "Use when the user asks to inspect Sentry issues or events, summarize recent production errors, or pull basic Sentry health data via the Sentry API; perform read-only queries with the bundled script and require `SENTRY_AUTH_TOKEN`."
+description: "适用于需要查看 Sentry issues 或事件、汇总近期生产报错，或通过 Sentry API 获取基础 Sentry 健康数据的场景；使用内置脚本执行只读查询，需提供 `SENTRY_AUTH_TOKEN`。"
 ---
 
 

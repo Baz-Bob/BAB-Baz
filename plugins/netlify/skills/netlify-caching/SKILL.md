@@ -1,6 +1,6 @@
 ---
 name: netlify-caching
-description: Guide for controlling caching on Netlify's CDN. Use when configuring cache headers, setting up stale-while-revalidate, implementing on-demand cache purge, or understanding Netlify's CDN caching behavior. Covers Cache-Control, Netlify-CDN-Cache-Control, cache tags, durable cache, and framework-specific caching patterns.
+description: "控制 Netlify CDN 缓存的指南。在配置缓存头、设置 stale-while-revalidate、实现按需缓存清除，或了解 Netlify CDN 缓存行为时使用。涵盖 `Cache-Control`、`Netlify-CDN-Cache-Control`、缓存标签、持久缓存和框架专属缓存模式。"
 ---
 
 # Caching on Netlify

@@ -1,6 +1,6 @@
 ---
 name: ngs-bulk-rnaseq-counts-qc
-description: Run or plan bulk RNA-seq FASTQ-to-count processing with sample-sheet, strandedness, genome annotation, alignment or pseudoalignment, MultiQC, and count-matrix QC checks.
+description: "运行或规划批量 RNA-seq FASTQ 转 count 处理流程，包含样品表、链方向性、基因组注释、比对或伪比对、MultiQC 和 count matrix QC 检查。"
 ---
 
 # Bulk RNA-seq Counts QC

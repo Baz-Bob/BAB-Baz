@@ -1,6 +1,6 @@
 ---
 name: build-zoom-phone-integration
-description: Use when building Phone.
+description: "构建 Phone 集成时使用。"
 ---
 
 # Build Zoom Phone Integration

@@ -1,6 +1,6 @@
 ---
 name: figma-generate-library
-description: "Build or update a professional-grade design system in Figma from a codebase. Use when the user wants to create variables/tokens, build component libraries, create individual components with proper variant sets and variable bindings, set up theming (light/dark modes), document foundations, or reconcile gaps between code and Figma. Also use when the user asks to create or generate any component in Figma — even a single one — since components require proper variable foundations, variant states, and design token bindings to be production-quality. This skill teaches WHAT to build and in WHAT ORDER — it complements the `figma-use` skill which teaches HOW to call the Plugin API. Both skills should be loaded together."
+description: "从代码库在 Figma 中构建或更新专业级设计系统。适用于创建变量/token、构建组件库、创建带完整变体集和变量绑定的单个组件、设置主题（亮/暗模式）、记录基础规范，或弥合代码与 Figma 之间的差距。当用户要求在 Figma 中创建或生成任何组件时也适用——即使是单个组件，因为生产级组件需要完善的变量基础、变体状态和设计 token 绑定。本技能指导**构建什么**以及**按什么顺序**——与 `figma-use` 技能互补（后者指导如何调用 Plugin API）。两个技能应一起加载。"
 disable-model-invocation: false
 ---
 

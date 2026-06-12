@@ -1,6 +1,6 @@
 ---
 name: start
-description: Use when starting Zoom work.
+description: "开始 Zoom 开发工作时使用。"
 ---
 
 # Start

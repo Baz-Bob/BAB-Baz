@@ -1,6 +1,6 @@
 ---
 name: frontend-app-builder
-description: Use for new frontend applications, dashboards, games, creative websites, hero sections, and visually driven UI from scratch, or when the user explicitly asks for a redesign/restyle/modernization. Builds from clean, airy, high-taste, readable image-generated concept design with section-specific references, faithful implementation, and browser testing.
+description: "适用于从零开始构建新的前端应用、仪表盘、游戏、创意网站、hero 区块和以视觉为主的 UI，或用户明确要求重新设计/改版/现代化的场景。基于简洁、高品质、可读性强的图像生成概念设计，附带分区域参考，忠实实现并通过浏览器测试。"
 ---
 
 # Frontend App Builder

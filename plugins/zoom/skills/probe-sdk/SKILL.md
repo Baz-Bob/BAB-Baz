@@ -1,6 +1,6 @@
 ---
 name: probe-sdk
-description: Use when using Probe SDK.
+description: "使用 Probe SDK 时使用。"
 ---
 
 # Zoom Probe SDK

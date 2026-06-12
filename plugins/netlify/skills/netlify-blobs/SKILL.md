@@ -1,6 +1,6 @@
 ---
 name: netlify-blobs
-description: Guide for using Netlify Blobs object storage. Use when storing files, images, documents, or simple key-value data without a full database. Covers getStore(), CRUD operations, metadata, listing, deploy-scoped vs site-scoped stores, and local development.
+description: "使用 Netlify Blobs 对象存储的指南。在不需要完整数据库的情况下存储文件、图片、文档或简单键值数据时使用。涵盖 `getStore()`、CRUD 操作、元数据、列表查询、部署作用域与站点作用域存储，以及本地开发。"
 ---
 
 # Netlify Blobs

@@ -1,6 +1,6 @@
 ---
 name: vercel-sandbox
-description: Vercel Sandbox guidance — ephemeral Firecracker microVMs for running untrusted code safely. Supports AI agents, code generation, and experimentation. Use when executing user-generated or AI-generated code in isolation.
+description: "Vercel Sandbox 指南——用于安全运行不受信任代码的临时 Firecracker 微虚拟机。支持 AI 智能体、代码生成和实验。在隔离环境中执行用户生成或 AI 生成的代码时使用。"
 metadata:
   priority: 4
   docs:

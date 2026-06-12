@@ -1,6 +1,6 @@
 ---
 name: netlify-config
-description: Reference for netlify.toml configuration. Use when configuring build settings, redirects, rewrites, headers, deploy contexts, environment variables, or any site-level configuration. Covers the complete netlify.toml syntax including redirects with splats/conditions, headers, deploy contexts, functions config, and edge functions config.
+description: "netlify.toml 配置参考。在配置构建设置、重定向、重写、响应头、部署上下文、环境变量或任何站点级配置时使用。涵盖完整的 netlify.toml 语法，包括带通配符/条件的重定向、响应头、部署上下文、Functions 配置和 Edge Functions 配置。"
 ---
 
 # Netlify Configuration (netlify.toml)

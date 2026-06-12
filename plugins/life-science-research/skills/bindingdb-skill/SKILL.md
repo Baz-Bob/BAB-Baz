@@ -1,6 +1,6 @@
 ---
 name: bindingdb-skill
-description: Submit compact BindingDB REST API requests for ligand-target binding lookups by PDB, UniProt, or similarity search. Use when a user wants concise BindingDB summaries; save raw payloads only on request.
+description: "向 BindingDB REST API 提交简洁请求，通过 PDB、UniProt 或相似性搜索查询配体-靶标结合关系。适用于需要简明 BindingDB 摘要的场景；仅在明确要求时保存原始负载。"
 ---
 
 ## Operating rules

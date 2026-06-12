@@ -1,6 +1,6 @@
 ---
 name: satori
-description: Expert guidance for Satori — Vercel's library that converts HTML and CSS to SVG, commonly used to generate dynamic OG images for Next.js and other frameworks.
+description: "Satori 专家指南——Vercel 出品的将 HTML 和 CSS 转换为 SVG 的库，常用于为 Next.js 和其他框架生成动态 OG 图片。"
 metadata:
   priority: 4
   docs:

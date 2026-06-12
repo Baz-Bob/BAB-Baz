@@ -1,6 +1,6 @@
 ---
 name: posthog
-description: Analyze product data and manage product tooling in PostHog. Use when the user wants product analytics or insights, HogQL/SQL queries, feature flags, experiments and A/B tests, error tracking, session replay, surveys, LLM analytics, dashboards, data warehouse, or PostHog documentation.
+description: "在 PostHog 中分析产品数据并管理产品工具。当用户需要产品分析或洞察、HogQL/SQL 查询、Feature Flag、实验与 A/B 测试、错误追踪、会话回放、问卷调查、LLM 分析、数据看板、数据仓库或 PostHog 文档时使用。"
 ---
 
 # PostHog

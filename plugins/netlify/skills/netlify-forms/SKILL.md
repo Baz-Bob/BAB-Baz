@@ -1,6 +1,6 @@
 ---
 name: netlify-forms
-description: Guide for using Netlify Forms for HTML form handling. Use when adding contact forms, feedback forms, file upload forms, or any form that should be collected by Netlify. Covers the data-netlify attribute, spam filtering, AJAX submissions, file uploads, notifications, and the submissions API.
+description: "使用 Netlify Forms 处理 HTML 表单的指南。在添加联系表单、反馈表单、文件上传表单，或任何需要由 Netlify 收集的表单时使用。涵盖 `data-netlify` 属性、垃圾邮件过滤、AJAX 提交、文件上传、通知和 Submissions API。"
 ---
 
 # Netlify Forms

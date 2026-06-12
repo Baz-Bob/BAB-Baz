@@ -1,6 +1,6 @@
 ---
 name: setup-zoom-oauth
-description: Use when setting up OAuth.
+description: "配置 OAuth 时使用。"
 ---
 
 # /setup-zoom-oauth

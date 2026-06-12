@@ -1,6 +1,6 @@
 ---
 name: shopify-hydrogen
-description: "Hydrogen storefront implementation cookbooks. Some of the available recipes are: B2B Commerce, Bundles, Combined Listings, Custom Cart Method, Dynamic Content with Metaobjects, Express Server, Google Tag Manager Integration, Infinite Scroll, Legacy Customer Account Flow, Markets, Partytown + Google Tag Manager, Subscriptions, Third-party API Queries and Caching. MANDATORY: Use this API for ANY Hydrogen storefront question - do NOT use Storefront GraphQL when 'Hydrogen' is mentioned."
+description: "Hydrogen 店面实现操作指南。部分可用方案包括：B2B 商务、商品组合、联合商品列表、自定义购物车方法、基于 Metaobject 的动态内容、Express 服务器、Google Tag Manager 集成、无限滚动、旧版客户账户流程、Markets、Partytown + Google Tag Manager、订阅、第三方 API 查询与缓存。**强制要求：任何涉及 Hydrogen 店面的问题必须使用本 API——提到 'Hydrogen' 时禁止使用 Storefront GraphQL。**"
 compatibility: Requires Node.js
 metadata:
   author: Shopify

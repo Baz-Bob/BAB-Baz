@@ -1,7 +1,7 @@
 {
   "name": "cloudinary",
-  "version": "1.0.1",
-  "description": "Manage, search, and transform your Cloudinary media library \u2014 directly from Codex.",
+  "version": "1.0.2",
+  "description": "Manage, search, and transform your Cloudinary media library — directly from Codex.",
   "author": {
     "url": "https://cloudinary.com/",
     "name": "Cloudinary"
@@ -13,15 +13,15 @@
   "apps": "./.app.json",
   "interface": {
     "displayName": "Cloudinary",
-    "shortDescription": "Manage, search, and transform your Cloudinary media library \u2014 directly from Codex.",
-    "longDescription": "Manage, search, and transform your Cloudinary media library \u2014 directly from Codex.\n\nThe Cloudinary app connects your Cloudinary account to Codex, giving you full control over your visual assets through natural language. Upload, organize, tag, transform, and analyze images or videos without leaving the chat. \n\nWhat You Can Do\n- Upload assets from URLs, local files, or base64 data \u2014 automatically analyze, tag, or moderate them.\n- Browse and search your entire media library using smart filters or text queries (tags, format, date, size, etc.).\n- Organize your library \u2014 create folders, rename files, manage metadata, and clean up obsolete assets.\n- Transform images or videos with Cloudinary\u2019s powerful syntax \u2014 resize, crop, watermark, apply filters, or optimize for delivery.\n- Generate archives and backups, or restore previous versions when needed.\n- Analyze assets with AI \u2014 detect faces, extract text, get color palettes, and accessibility scores.\n- Monitor usage \u2014 track storage, bandwidth, and transformation credits in real time.\n- Visual search \u2014 find visually similar images by uploading an example or describing it.\n\nPerfect For\n- Developers who want to experiment with Cloudinary API commands in natural language.\n- Marketers & designers managing campaign visuals and brand assets.\n- Teams automating content workflows with Codex or building multi-agent setups.\n\nTurn Codex into a powerful media management assistant with the Cloudinary app.",
+    "shortDescription": "直接在 Codex 中管理、搜索和转换你的 Cloudinary 媒体库。",
+    "longDescription": "直接在 Codex 中管理、搜索和转换你的 Cloudinary 媒体库。\n\nCloudinary 应用将你的 Cloudinary 账户接入 Codex，让你通过自然语言全面控制视觉资产。无需离开对话，即可上传、整理、打标签、转换和分析图片或视频。\n\n你可以做什么：\n- 从 URL、本地文件或 base64 数据上传资产——自动分析、打标签或内容审核。\n- 使用智能筛选器或文本查询（标签、格式、日期、大小等）浏览和搜索整个媒体库。\n- 整理媒体库——创建文件夹、重命名文件、管理元数据、清理过时资产。\n- 使用 Cloudinary 强大的转换语法处理图片或视频——调整尺寸、裁剪、加水印、应用滤镜或优化分发。\n- 生成归档和备份，或在需要时还原历史版本。\n- AI 分析资产——检测人脸、提取文字、获取调色板和无障碍评分。\n- 监控用量——实时追踪存储、带宽和转换配额。\n- 视觉搜索——上传示例图片或描述内容，查找视觉相似的图片。\n\n适合人群：\n- 希望用自然语言探索 Cloudinary API 能力的开发者\n- 管理营销素材和品牌资产的营销人员和设计师\n- 使用 Codex 或搭建多智能体工作流来自动化内容流程的团队\n\n使用 Cloudinary 应用，将 Codex 变成强大的媒体管理助手。",
     "category": "Developer Tools",
     "capabilities": [],
     "websiteURL": "https://cloudinary.com/",
     "privacyPolicyURL": "https://cloudinary.com/privacy",
     "termsOfServiceURL": "https://cloudinary.com/tou",
     "defaultPrompt": [
-      "Upload this image and enable auto-tagging"
+      "上传这张图片并启用自动标签"
     ],
     "screenshots": [],
     "composerIcon": "./assets/app-icon.png",

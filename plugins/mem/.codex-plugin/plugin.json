@@ -1,6 +1,6 @@
 {
   "name": "mem",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Give Codex the full context of your second brain by connecting your Mem knowledge base.",
   "author": {
     "name": "Mem Labs, Inc.",
@@ -12,13 +12,13 @@
   "apps": "./.app.json",
   "interface": {
     "displayName": "Mem",
-    "shortDescription": "Give Codex the full context of your second brain by connecting your Mem knowledge base.",
-    "longDescription": "Give Codex the full context of your second brain by connecting your Mem knowledge base. Search your AI notebook for context, capture and recall ideas, save chats into new notes, edit and update living docs, and organize your AI workspace \u2014 simply by asking Codex. Use for: synthesizing and pulling actions items from meeting notes, deep research, personal knowledge management (PKM), knowledge repository building, task management, prioritization, and content development. Example prompts: \"Search my notes for pricing strategy and validate our thinking with research.\" \"Create a note from this chat and add it to our GTM collection.\" \"List all open tasks from this week's notes and add to my to-do list.\"",
+    "shortDescription": "连接 Mem 知识库，为 Codex 提供你第二大脑的完整上下文。",
+    "longDescription": "连接 Mem 知识库，为 Codex 提供你第二大脑的完整上下文。只需向 Codex 发问，即可搜索 AI 笔记本获取背景信息、捕捉与回溯想法、将对话保存为新笔记、编辑与更新动态文档，以及整理 AI 工作区。适用场景：从会议记录中提炼行动项、深度研究、个人知识管理（PKM）、知识库构建、任务管理、优先级排序以及内容开发。示例提示：「在我的笔记中搜索定价策略，并用研究成果验证我们的思路。」「将这段对话创建为笔记，添加到我们的 GTM 合集中。」「列出本周笔记中所有未完成任务，并加入我的待办清单。」",
     "developerName": "Mem Labs, Inc.",
     "category": "Productivity",
     "capabilities": [],
     "defaultPrompt": [
-      "Find the relevant notes in Mem"
+      "在 Mem 中查找相关笔记"
     ],
     "screenshots": [],
     "websiteURL": "https://mem.ai",

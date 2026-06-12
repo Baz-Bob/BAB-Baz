@@ -1,6 +1,6 @@
 ---
 name: build-zoom-contact-center-app
-description: Use when using Contact Center.
+description: "使用 Contact Center 时使用。"
 ---
 
 # Build Zoom Contact Center App

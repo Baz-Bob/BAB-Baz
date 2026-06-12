@@ -1,6 +1,6 @@
 ---
 name: netlify-cli-and-deploy
-description: Guide for using the Netlify CLI and deploying sites. Use when installing the CLI, linking sites, deploying (Git-based or manual), managing environment variables, or running local development. Covers netlify dev, netlify deploy, Git vs non-Git workflows, and environment variable management.
+description: "使用 Netlify CLI 和部署站点的指南。在安装 CLI、关联站点、部署（基于 Git 或手动）、管理环境变量或运行本地开发时使用。涵盖 `netlify dev`、`netlify deploy`、Git 与非 Git 工作流，以及环境变量管理。"
 ---
 
 # Netlify CLI and Deployment

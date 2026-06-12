@@ -1,6 +1,6 @@
 {
   "name": "zoominfo",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "B2B company intelligence, contacts, and go-to-market signals",
   "author": {
     "name": "ZoomInfo",
@@ -13,15 +13,15 @@
   "interface": {
     "displayName": "ZoomInfo",
     "developerName": "ZoomInfo",
-    "shortDescription": "B2B company intelligence, contacts, and go-to-market signals",
-    "longDescription": "B2B company intelligence, contacts, and go-to-market signals",
-    "category": "Productivity",
+    "shortDescription": "B2B 公司情报、联系人与市场推广信号",
+    "longDescription": "B2B 公司情报、联系人与市场推广信号",
+    "category": "Business & Operations",
     "capabilities": [],
     "brandColor": "#E81818",
     "defaultPrompt": [
-      "Find target accounts in this industry and region with buying signals, then rank the best prospects.",
-      "Build a contact list for decision makers at these accounts with titles and company context.",
-      "Research a company in ZoomInfo and identify likely outreach hooks."
+      "在 ZoomInfo 中找出该行业和地区有购买信号的目标客户，并按优先级排序。",
+      "为这些客户的决策者整理联系人名单，附职位和公司背景。",
+      "在 ZoomInfo 中调研某公司，找出合适的外联切入点。"
     ],
     "screenshots": [],
     "composerIcon": "./assets/logo.png",

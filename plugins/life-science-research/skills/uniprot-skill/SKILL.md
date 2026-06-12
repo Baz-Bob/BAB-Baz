@@ -1,6 +1,6 @@
 ---
 name: uniprot-skill
-description: Submit compact UniProt REST API requests for UniProtKB, UniRef, UniParc, and FASTA stream endpoints. Use when a user wants concise UniProt summaries; save raw JSON or FASTA only on request.
+description: "向 UniProt REST API 提交简洁请求，查询 UniProtKB、UniRef、UniParc 和 FASTA 流端点。适用于需要简明 UniProt 摘要的场景；仅在明确要求时保存原始 JSON 或 FASTA。"
 ---
 
 ## Operating rules

@@ -1,6 +1,6 @@
 ---
 name: visualization-strategy-and-critique
-description: Choose, lay out, critique, and explain data visualizations. Use when the user asks what visualization fits a dataset or goal, how a chart, dashboard, operational workspace, UML-like diagram, or software architecture diagram should be composed or interacted with, asks for visual page design, a layout mockup, generated large-screen and mobile concept images, or to be shown what a visualization could look like, when domain-native contextual surfaces or graphical backgrounds may help, when scrollytelling or parallax might be appropriate, wants a critique of an existing visualization, or needs guidance grounded in trusted visualization theory and practice. For advanced visual design or page-layout prompts where composition affects understanding, Codex must generate and show both large-screen and mobile portrait image concepts before implementation or text-only design handoff, plus mobile landscape when needed.
+description: "选择、排版、批评并解释数据可视化。适用于用户询问哪种可视化适合某个数据集或目标、图表/仪表盘/运营工作区/类 UML 图或软件架构图应如何组合或交互、请求视觉页面设计或布局草图、生成大屏和移动端概念图、或希望预览可视化效果，以及领域原生背景或图形背景可能有所帮助、滚动叙事或视差可能适用、需要对现有可视化进行批评，或需要以可信的可视化理论和实践为依据的指导的场景。对于构图影响理解的高级视觉设计或页面布局需求，Codex 必须在实现或纯文本设计交付之前生成并展示大屏和移动竖屏概念图，必要时附移动横屏。"
 ---
 
 # Visualization Strategy and Critique

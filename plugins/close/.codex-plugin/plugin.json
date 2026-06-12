@@ -1,6 +1,6 @@
 {
   "name": "close",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "CRM leads, opportunities, activities, and sales pipeline context",
   "author": {
     "name": "Close",
@@ -13,15 +13,15 @@
   "interface": {
     "displayName": "Close",
     "developerName": "Close",
-    "shortDescription": "CRM leads, opportunities, activities, and sales pipeline context",
-    "longDescription": "CRM leads, opportunities, activities, and sales pipeline context",
-    "category": "Productivity",
+    "shortDescription": "CRM 线索、商机、活动与销售管道",
+    "longDescription": "CRM 线索、商机、活动与销售管道",
+    "category": "Business & Operations",
     "capabilities": [],
     "brandColor": "#50C078",
     "defaultPrompt": [
-      "Find Close opportunities with no recent activity and summarize recommended next steps.",
-      "Search Close for leads from a company and summarize status, owner, and last touch.",
-      "Create a pipeline review from Close for deals closing this month."
+      "找出 Close 中近期无跟进活动的商机，并建议后续行动。",
+      "在 Close 中搜索某公司的线索，梳理状态、负责人和最近跟进时间。",
+      "从 Close 中生成本月即将关单的交易管道概览。"
     ],
     "screenshots": [],
     "composerIcon": "./assets/logo.png",

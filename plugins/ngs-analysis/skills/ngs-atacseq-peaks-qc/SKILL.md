@@ -1,6 +1,6 @@
 ---
 name: ngs-atacseq-peaks-qc
-description: Run or plan ATAC-seq QC, alignment, TSS enrichment, fragment-size, blacklist, peak-calling, consensus peak, and differential accessibility workflows.
+description: "运行或规划 ATAC-seq QC、比对、TSS 富集、片段大小、黑名单、peak calling、共识 peak 和差异可及性分析工作流。"
 ---
 
 # ATAC-seq Peaks QC

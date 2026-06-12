@@ -1,6 +1,6 @@
 ---
 name: marketplace
-description: Vercel Marketplace expert guidance — discovering, installing, and building integrations, auto-provisioned environment variables, unified billing, and the vercel integration CLI. Use when consuming third-party services, building custom integrations, or managing marketplace resources on Vercel.
+description: "Vercel Marketplace 专家指南——发现、安装和构建集成、自动配置环境变量、统一计费和 vercel integration CLI。在使用第三方服务、构建自定义集成，或管理 Vercel 上的 Marketplace 资源时使用。"
 metadata:
   priority: 3
   docs:

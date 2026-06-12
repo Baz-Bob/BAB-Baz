@@ -1,6 +1,6 @@
 ---
 name: shopify-liquid
-description: "Liquid is an open-source templating language created by Shopify. It is the backbone of Shopify themes and is used to load dynamic content on storefronts. Keywords: liquid, theme, shopify-theme, liquid-component, liquid-block, liquid-section, liquid-snippet, liquid-schemas, shopify-theme-schemas"
+description: "Liquid 是 Shopify 创建的开源模板语言，是 Shopify 主题的核心，用于在店面加载动态内容。关键词：liquid、theme、shopify-theme、liquid-component、liquid-block、liquid-section、liquid-snippet、liquid-schemas、shopify-theme-schemas。"
 compatibility: Requires Node.js
 metadata:
   author: Shopify

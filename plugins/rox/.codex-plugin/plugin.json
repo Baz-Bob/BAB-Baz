@@ -1,6 +1,6 @@
 {
   "name": "rox",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Access Rox revenue agents, account intelligence, and sales workflow automation from Codex.",
   "author": {
     "name": "Rox Data Corp",
@@ -21,8 +21,8 @@
   "apps": "./.app.json",
   "interface": {
     "displayName": "Rox",
-    "shortDescription": "Use Rox revenue agents and account intelligence from Codex.",
-    "longDescription": "Rox connects Codex to revenue agent workflows for account intelligence, prospecting, CRM context, recommended actions, and sales workflow automation.",
+    "shortDescription": "通过 Codex 使用 Rox 收入代理和客户智能功能。",
+    "longDescription": "Rox 将 Codex 接入收入代理工作流，提供客户智能分析、潜在客户挖掘、CRM 上下文、推荐行动及销售流程自动化。",
     "developerName": "Rox Data Corp",
     "category": "Productivity",
     "capabilities": [],
@@ -31,9 +31,9 @@
     "termsOfServiceURL": "https://www.rox.com/terms-and-conditions",
     "brandColor": "#101010",
     "defaultPrompt": [
-      "Find Rox account insights for this customer and summarize recommended next actions.",
-      "Use Rox to identify high-priority accounts with recent buying signals.",
-      "Draft a follow-up plan from Rox account activity and meeting context."
+      "查找该客户在 Rox 中的账户洞察并汇总推荐的下一步行动。",
+      "用 Rox 识别近期有购买信号的高优先级账户。",
+      "根据 Rox 账户活动和会议背景，起草后续跟进计划。"
     ],
     "screenshots": [],
     "composerIcon": "./assets/app-icon.png",

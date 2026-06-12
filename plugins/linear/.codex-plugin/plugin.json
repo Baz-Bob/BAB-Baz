@@ -1,6 +1,6 @@
 {
   "name": "linear",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Find and reference issues and projects.",
   "author": {
     "name": "OpenAI",
@@ -14,8 +14,8 @@
   "apps": "./.app.json",
   "interface": {
     "displayName": "Linear",
-    "shortDescription": "Find and reference issues and projects.",
-    "longDescription": "Manage issues, projects, and team workflows in Linear from Codex.",
+    "shortDescription": "查找和引用问题与项目。",
+    "longDescription": "在 Codex 中管理 Linear 的问题、项目和团队工作流。",
     "developerName": "OpenAI",
     "category": "Productivity",
     "capabilities": [],
@@ -24,7 +24,7 @@
     "termsOfServiceURL": "https://linear.app/terms",
     "brandColor": "#5E6AD2",
     "defaultPrompt": [
-      "Triage or update relevant issues for this task with clear next actions"
+      "整理或更新此任务相关的问题，并给出明确的后续行动"
     ],
     "composerIcon": "./assets/linear-icon.svg",
     "logo": "./assets/app-icon.png",

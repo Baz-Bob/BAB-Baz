@@ -1,6 +1,6 @@
 ---
 name: evaluate-skill
-description: Evaluate a local Codex skill in engineer-friendly terms. Use when the user says "evaluate this skill", "give me an analysis of the game dev skill", "audit this skill", "why did this score that way", "what should I fix first", or asks for a skill-specific report before benchmarking it.
+description: "以工程师友好的方式评估本地 Codex 技能。适用于用户说「评估这个技能」「分析一下 game dev 技能」「审计这个技能」「为什么得了这个分」「我应该先修什么」，或在基准测试前请求技能专项报告的场景。"
 ---
 
 # Evaluate Skill

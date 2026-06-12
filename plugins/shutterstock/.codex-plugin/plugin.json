@@ -1,6 +1,6 @@
 {
   "name": "shutterstock",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Search licensed stock images, videos, music, and creative assets",
   "author": {
     "name": "Shutterstock",
@@ -13,22 +13,22 @@
   "apps": "./.app.json",
   "interface": {
     "displayName": "Shutterstock",
-    "shortDescription": "Search licensed stock images, videos, music, and creative assets",
-    "longDescription": "Search licensed stock images, videos, music, and creative assets",
+    "shortDescription": "搜索授权图片、视频、音乐及创意素材",
+    "longDescription": "搜索授权图片、视频、音乐及创意素材",
     "developerName": "Shutterstock",
-    "category": "Design",
+    "category": "Creativity",
     "capabilities": [],
     "websiteURL": "https://www.shutterstock.com",
     "privacyPolicyURL": "https://www.shutterstock.com/privacy",
     "termsOfServiceURL": "https://www.shutterstock.com/terms",
     "defaultPrompt": [
-      "Search Shutterstock for hero images for this campaign and compare options.",
-      "Find Shutterstock video clips matching this storyboard and summarize choices.",
-      "Build a shortlist of Shutterstock assets for this social launch."
+      "在 Shutterstock 上搜索适合本次活动的主视觉图片并对比各选项。",
+      "查找与该分镜脚本匹配的 Shutterstock 视频素材并汇总备选方案。",
+      "为本次社交媒体发布整理一份 Shutterstock 素材候选清单。"
     ],
     "brandColor": "#FF6F4A",
-    "composerIcon": "./assets/logo.png",
-    "logo": "./assets/logo.png",
+    "composerIcon": "./assets/logo-padded.png",
+    "logo": "./assets/logo-padded.png",
     "screenshots": []
   }
 }

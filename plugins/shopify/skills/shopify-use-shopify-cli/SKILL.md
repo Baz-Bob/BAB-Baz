@@ -1,6 +1,6 @@
 ---
 name: shopify-use-shopify-cli
-description: "Choose when the user needs **Shopify CLI** to run or fix something now: validate app or extension config on disk (`shopify.app.toml`, `shopify.app.<name>.toml`, `shopify.extension.toml`); run or troubleshoot store workflows (`shopify store auth`, `shopify store execute`); inventory or product changes by handle, SKU, or location name; or CLI setup, auth, upgrade issues. Emphasize **commands and operational steps**, not only authoring GraphQL. Skip for API-only understanding or codegen with no CLI execution. Examples: validate configuration before deploy; run an existing query via CLI; list products; missing `shopify store execute`."
+description: "适用于用户需要 **Shopify CLI** 立即运行或修复某些问题：验证磁盘上的应用或扩展配置（`shopify.app.toml`、`shopify.app.<name>.toml`、`shopify.extension.toml`）；运行或排查店铺工作流（`shopify store auth`、`shopify store execute`）；通过 handle、SKU 或 location 名称进行库存或商品变更；或处理 CLI 配置、认证、升级问题。重点是**命令和操作步骤**，而非仅生成 GraphQL。对于仅需理解 API 或纯代码生成而无需 CLI 执行的场景，请跳过本技能。示例：部署前验证配置；通过 CLI 运行现有查询；列出商品；找不到 `shopify store execute`。"
 compatibility: Requires Node.js
 metadata:
   author: Shopify

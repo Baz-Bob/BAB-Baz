@@ -1,6 +1,6 @@
 ---
 name: teams-messages
-description: Compose, route, draft, or send Microsoft Teams messages with exact destination resolution, real user mentions, and Teams-native DM or channel routing.
+description: "起草、路由或发送 Microsoft Teams 消息，支持精确解析目标位置、真实用户 @提及，以及 Teams 原生的私信或频道路由。"
 ---
 
 # Teams Messages

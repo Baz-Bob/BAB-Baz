@@ -1,6 +1,6 @@
 ---
 name: outlook-email-task-extraction
-description: Extract action items, deadlines, commitments, and owners from Outlook email threads and mailbox searches. Use when the user wants a task list from one thread, several related messages, or a mailbox slice, including who owes what and when.
+description: "从 Outlook 邮件会话和邮箱搜索中提取行动项、截止日期、承诺事项和负责人。当用户需要从单个会话、多封相关邮件或邮箱切片中获取任务清单（包括谁负责什么、何时完成）时触发。"
 ---
 
 # Outlook Email Task Extraction

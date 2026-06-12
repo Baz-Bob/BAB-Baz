@@ -1,6 +1,6 @@
 ---
 name: teams
-description: Summarize Microsoft Teams conversations, triage unread or recent activity, draft follow-ups, and manage Planner tasks through connected Teams data. Use when the user wants to review chats or channels, identify owners and next steps, prepare a safe reply or post, or turn Teams follow-ups into Microsoft Planner tasks.
+description: "通过已连接的 Teams 数据，汇总 Microsoft Teams 对话、分类未读或近期动态、起草跟进消息，并管理 Planner 任务。适用于查看聊天或频道内容、识别负责人和后续步骤、准备安全的回复或帖子，或将 Teams 跟进事项转换为 Microsoft Planner 任务。"
 ---
 
 # Teams

@@ -1,6 +1,6 @@
 ---
 name: biostudies-arrayexpress-skill
-description: Submit compact BioStudies and ArrayExpress API requests for free-text search and accession-based study retrieval. Use when a user wants concise BioStudies summaries
+description: "向 BioStudies 和 ArrayExpress API 提交简洁请求，用于全文搜索和基于登录号的研究检索。适用于需要简明 BioStudies 摘要的场景。"
 ---
 
 ## Operating rules

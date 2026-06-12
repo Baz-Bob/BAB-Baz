@@ -1,6 +1,6 @@
 ---
 name: bull-bear
-description: Bull/bear/base case scenario framework for a given company
+description: "针对指定公司构建多空及基准情景分析框架"
 ---
 
 Build a bull/bear/base case scenario framework for the company named in the user's request. If no ticker or company is provided, ask for one before proceeding.

@@ -1,6 +1,6 @@
 {
   "name": "read-ai",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Read AI brings your meeting intelligence directly into your AI workflows.",
   "author": {
     "name": "Read AI, Inc",
@@ -12,13 +12,13 @@
   "apps": "./.app.json",
   "interface": {
     "displayName": "Read AI",
-    "shortDescription": "Read AI brings your meeting intelligence directly into your AI workflows.",
-    "longDescription": "Read AI brings your meeting intelligence directly into your AI workflows. Connect your Read AI account to access meeting summaries, transcripts, action items, key questions, and more \u2014 all retrievable through natural conversation.\n\nRead AI can look up recent meetings, pull the full transcript from a specific call, surface action items from last week's syncs, or find what key questions came up in a discussion.\n\nWhat you can do:\n\n- Browse and filter your meetings by date range\n- Retrieve summaries, chapter breakdowns, and topics from any meeting\n- Pull action items and key questions to stay on top of follow-ups\n- Access full transcripts for deep dives or verbatim references\n\nWhether you're prepping for a follow-up, catching up on a meeting you missed, or building workflows around your recorded conversations, Read AI's MCP integration makes your meeting data a first-class part of your AI experience.",
+    "shortDescription": "将 Read AI 的会议智能直接带入你的 AI 工作流。",
+    "longDescription": "将 Read AI 的会议智能直接带入你的 AI 工作流。连接 Read AI 账户后，即可通过自然对话获取会议摘要、文字记录、待办事项、关键问题等内容。\n\nRead AI 可以查找近期会议、提取指定通话的完整文字记录、列出上周同步会议的待办事项，或找出某次讨论中提出的关键问题。\n\n你可以：\n\n- 按日期范围浏览和筛选会议\n- 获取任意会议的摘要、章节分解和主题\n- 提取待办事项和关键问题，跟进后续行动\n- 访问完整文字记录，深入研究或逐字引用\n\n无论是准备跟进会议、补看错过的会议，还是围绕录制对话构建工作流，Read AI 的 MCP 集成都能让会议数据成为你 AI 体验的一等公民。",
     "developerName": "Read AI, Inc",
-    "category": "Productivity",
+    "category": "Communication",
     "capabilities": [],
     "defaultPrompt": [
-      "Summarize the latest Read AI meeting insights"
+      "汇总 Read AI 最新的会议洞察"
     ],
     "screenshots": [],
     "websiteURL": "https://read.ai",

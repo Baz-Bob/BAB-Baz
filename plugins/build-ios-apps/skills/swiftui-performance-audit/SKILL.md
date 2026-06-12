@@ -1,6 +1,6 @@
 ---
 name: swiftui-performance-audit
-description: Audit SwiftUI runtime performance from code first. Use when diagnosing slow rendering, janky scrolling, expensive updates, or profiling needs.
+description: "从代码层面审计 SwiftUI 运行时性能。适用于诊断渲染缓慢、滚动卡顿、更新开销过大，或需要性能分析的场景。"
 ---
 
 # SwiftUI Performance Audit

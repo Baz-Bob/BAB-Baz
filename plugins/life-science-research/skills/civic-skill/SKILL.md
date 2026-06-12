@@ -1,6 +1,6 @@
 ---
 name: civic-skill
-description: Submit compact CIViC GraphQL requests for cancer variant interpretation schema inspection and targeted evidence retrieval. Use when a user wants concise CIViC summaries
+description: "向 CIViC 提交简洁的 GraphQL 请求，用于癌症变异解读 schema 检查和目标证据检索。适用于需要简明 CIViC 摘要的场景。"
 ---
 
 ## Operating rules

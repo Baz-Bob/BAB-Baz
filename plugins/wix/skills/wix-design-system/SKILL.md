@@ -1,6 +1,6 @@
 ---
 name: wix-design-system
-description: Wix Design System component reference. Use when building UI with @wix/design-system, choosing components, checking props and examples, or writing tests with component testkits. Triggers on "what component", "how do I make", "WDS", "show me props", "testkit", "driver", or component names like Button, Card, Modal, Box, Text.
+description: "Wix Design System 组件参考。适用于使用 @wix/design-system 构建 UI、选择组件、查看 props 和示例，或使用组件 testkit 编写测试。触发词：\"用什么组件\"、\"怎么做\"、\"WDS\"、\"给我看 props\"、\"testkit\"、\"driver\"，以及 Button、Card、Modal、Box、Text 等组件名。"
 ---
 
 # WDS Documentation Navigator

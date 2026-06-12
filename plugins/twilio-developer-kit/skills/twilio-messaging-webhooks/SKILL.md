@@ -1,12 +1,6 @@
 ---
 name: twilio-messaging-webhooks
-description: >
-  Receive and respond to inbound messages and track outbound delivery status
-  via Twilio webhooks — across SMS, MMS, WhatsApp, and RCS. Covers webhook
-  request parameters, replying with TwiML, validating webhook signatures for
-  security, and handling status callbacks. Use this skill whenever an agent
-  needs to handle incoming messages on any channel or track outbound message
-  delivery in real time.
+description: "通过 Twilio Webhook 接收入站消息并跟踪出站消息的投递状态——覆盖 SMS、MMS、WhatsApp 和 RCS 全渠道。涵盖 Webhook 请求参数、使用 TwiML 回复、验证 Webhook 签名以确保安全，以及处理状态回调。凡需在任意渠道处理入站消息或实时跟踪出站消息投递的场景，均应使用此技能。"
 ---
 
 ## Overview

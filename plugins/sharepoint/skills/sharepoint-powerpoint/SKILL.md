@@ -1,6 +1,6 @@
 ---
 name: sharepoint-powerpoint
-description: Create, edit, restyle, and review PowerPoint `.pptx` files fetched from SharePoint, with emphasis on style preservation, slide cloning, theme-aware updates, and rendered visual QA. Use when the user wants reliable slide edits that should match an existing deck's design language.
+description: "从 SharePoint 获取 PowerPoint `.pptx` 文件，进行创建、编辑、重新排版和审查，重点保留样式、复制幻灯片、主题感知更新和渲染视觉质量检查。适用于需要与现有演示文稿设计语言保持一致的可靠幻灯片编辑场景。"
 ---
 
 # SharePoint PowerPoint

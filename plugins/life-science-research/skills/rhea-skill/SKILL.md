@@ -1,6 +1,6 @@
 ---
 name: rhea-skill
-description: Submit compact Rhea reaction search requests for biochemical reactions and reaction IDs. Use when a user wants concise Rhea summaries
+description: "向 Rhea 提交简洁的反应搜索请求，查询生化反应和反应 ID。适用于需要简明 Rhea 摘要的场景。"
 ---
 
 ## Operating rules

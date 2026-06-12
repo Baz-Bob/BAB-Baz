@@ -1,6 +1,6 @@
 ---
 name: figma-generate-design
-description: "Use this skill alongside figma-use when the task involves translating an application page, view, or multi-section layout into Figma. Triggers: 'write to Figma', 'create in Figma from code', 'push page to Figma', 'take this app/page and build it in Figma', 'create a screen', 'build a landing page in Figma', 'update the Figma screen to match code', 'convert this modal/dialog/drawer/panel to Figma'. This is the preferred workflow skill whenever the user wants to build or update a full page, modal, dialog, drawer, sidebar, panel, or any composed multi-section view in Figma from code or a description. Discovers design system components, variables, and styles from Code Connect files, existing screens, and library search, then imports them and assembles views incrementally section-by-section using design system tokens instead of hardcoded values."
+description: "当任务涉及将应用页面、视图或多分区布局转译到 Figma 时，配合 figma-use 一起使用。触发词：「写入 Figma」「从代码在 Figma 中创建」「将页面推送到 Figma」「把这个应用/页面在 Figma 中构建」「创建一个屏幕」「在 Figma 中构建落地页」「更新 Figma 屏幕以匹配代码」「将这个弹窗/对话框/抽屉/面板转到 Figma」。这是将完整页面、弹窗、对话框、抽屉、侧边栏、面板或任何多分区复合视图从代码或描述构建/更新到 Figma 的首选工作流技能。从 Code Connect 文件、现有屏幕和库搜索中发现设计系统组件、变量和样式，然后逐段导入并组装视图，使用设计系统 token 而非硬编码值。"
 disable-model-invocation: false
 ---
 

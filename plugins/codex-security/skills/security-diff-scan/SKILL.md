@@ -1,6 +1,6 @@
 ---
 name: security-diff-scan
-description: "Use when the user asks for a security review of a pull request, commit, branch diff, working-tree patch, or other Git-backed change set."
+description: "当用户要求对 PR、提交、分支差异、工作区补丁或其他基于 Git 的变更集进行安全审查时使用。"
 metadata:
   short-description: Run security diff scan
 ---

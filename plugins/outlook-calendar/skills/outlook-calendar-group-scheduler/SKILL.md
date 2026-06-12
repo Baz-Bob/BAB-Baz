@@ -1,6 +1,6 @@
 ---
 name: outlook-calendar-group-scheduler
-description: Find and rank good meeting times for several people using Outlook Calendar data. Use when the user wants to schedule a meeting, compare candidate slots across attendees, find the best compromise time, or add a room/resource check after narrowing the attendee-compatible options.
+description: "使用 Outlook Calendar 数据，为多人查找并排序合适的会议时间。当用户需要安排会议、对比多个与会者的候选时间段、找到最优妥协时间，或在缩小与会者可用时间后进一步检查会议室/资源时触发。"
 ---
 
 # Outlook Calendar Group Scheduler

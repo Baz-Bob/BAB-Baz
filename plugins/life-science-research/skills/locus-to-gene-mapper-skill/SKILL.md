@@ -1,6 +1,6 @@
 ---
 name: locus-to-gene-mapper-skill
-description: Map GWAS loci to ranked candidate genes using a deterministic multi-skill chain (EFO -> GWAS -> coordinates -> Open Targets L2G/coloc -> eQTL -> burden/coding context), with reproducible tables and optional figures. Use when a user provides a trait/EFO term and/or lead variants and needs locus-to-gene prioritization for downstream biology decisions.
+description: "使用确定性多技能链（EFO -> GWAS -> 坐标 -> Open Targets L2G/coloc -> eQTL -> 负担/编码上下文）将 GWAS 位点映射到排序后的候选基因，输出可复现的表格和可选图形。适用于用户提供性状/EFO 词条和/或先导变异体，需要为下游生物学决策进行位点到基因优先排序的场景。"
 ---
 
 ## Locus-to-Gene Mapper

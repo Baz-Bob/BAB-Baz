@@ -1,6 +1,6 @@
 ---
 name: ipd-skill
-description: Submit compact IPD REST requests for HLA allele and cell-level metadata using the public IPD query API. Use when a user wants concise IPD summaries; save raw JSON or text only on request.
+description: "使用公开的 IPD 查询 API 向 IPD REST 提交简洁请求，查询 HLA 等位基因和细胞级元数据。适用于需要简明 IPD 摘要的场景；仅在明确要求时保存原始 JSON 或文本。"
 ---
 
 ## Operating rules

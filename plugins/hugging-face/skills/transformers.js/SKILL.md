@@ -1,6 +1,6 @@
 ---
 name: transformers-js
-description: Use Transformers.js to run state-of-the-art machine learning models directly in JavaScript/TypeScript. Supports NLP (text classification, translation, summarization), computer vision (image classification, object detection), audio (speech recognition, audio classification), and multimodal tasks. Works in Node.js and browsers (with WebGPU/WASM) using pre-trained models from Hugging Face Hub.
+description: "使用 Transformers.js 直接在 JavaScript/TypeScript 中运行最先进的机器学习模型。支持 NLP（文本分类、翻译、摘要）、计算机视觉（图像分类、目标检测）、音频（语音识别、音频分类）和多模态任务。在 Node.js 和浏览器（使用 WebGPU/WASM）中运行，调用 Hugging Face Hub 的预训练模型。"
 metadata:
   author: huggingface
   version: "3.8.1"

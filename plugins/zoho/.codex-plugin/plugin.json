@@ -1,6 +1,6 @@
 {
   "name": "zoho",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "CRM records, deals, contacts, and account context from Zoho",
   "author": {
     "name": "Zoho",
@@ -13,16 +13,16 @@
   "apps": "./.app.json",
   "interface": {
     "displayName": "Zoho",
-    "shortDescription": "CRM records, deals, contacts, and account context from Zoho",
-    "longDescription": "CRM records, deals, contacts, and account context from Zoho",
+    "shortDescription": "来自 Zoho 的 CRM 记录、商机、联系人及账户上下文",
+    "longDescription": "来自 Zoho 的 CRM 记录、商机、联系人及账户上下文",
     "developerName": "Zoho",
-    "category": "Sales",
+    "category": "Business & Operations",
     "capabilities": [],
     "websiteURL": "https://www.zoho.com",
     "defaultPrompt": [
-      "Search Zoho CRM for open deals closing this quarter and summarize the highest-risk opportunities.",
-      "Find Zoho CRM contacts at an account and summarize recent activities.",
-      "Pull Zoho CRM organization settings and users needed to audit access."
+      "在 Zoho CRM 中搜索本季度待关单商机并汇总风险最高的机会。",
+      "查找某账户在 Zoho CRM 中的联系人并汇总近期活动。",
+      "拉取 Zoho CRM 的组织设置和用户列表，用于权限审查。"
     ],
     "brandColor": "#0068B8",
     "composerIcon": "./assets/logo.png",

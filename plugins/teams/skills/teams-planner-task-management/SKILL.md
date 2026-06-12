@@ -1,6 +1,6 @@
 ---
 name: teams-planner-task-management
-description: Review and manage Microsoft Planner tasks from Teams workflows. Use when the user wants to inspect plans or buckets, create tasks from follow-ups, update task fields, or safely delete a Planner task.
+description: "在 Teams 工作流中查看和管理 Microsoft Planner 任务。适用于查看计划或分组、从跟进事项创建任务、更新任务字段，或安全删除 Planner 任务。"
 ---
 
 # Teams Planner Task Management

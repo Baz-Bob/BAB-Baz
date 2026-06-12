@@ -1,6 +1,6 @@
 ---
 name: chebi-skill
-description: Submit compact ChEBI 2.0 API requests for chemical search, compound lookup, ontology traversal, and structure metadata. Use when a user wants concise ChEBI summaries
+description: "向 ChEBI 2.0 API 提交简洁请求，用于化学物质搜索、化合物查询、本体遍历和结构元数据。适用于需要简明 ChEBI 摘要的场景。"
 ---
 
 ## Operating rules

@@ -1,6 +1,6 @@
 ---
 name: hubspot-pipeline-health
-description: Use when reviewing HubSpot pipeline health, forecasts, stale deals, slipping close dates, or open deal risks.
+description: "当需要审查 HubSpot 销售管道健康状况、预测、停滞商机、预计关闭日期延误或在途商机风险时使用。"
 ---
 
 # HubSpot Pipeline Health

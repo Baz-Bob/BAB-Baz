@@ -1,6 +1,6 @@
 ---
 name: huggingface-llm-trainer
-description: This skill should be used when users want to train or fine-tune language models using TRL (Transformer Reinforcement Learning) on Hugging Face Jobs infrastructure. Covers SFT, DPO, GRPO and reward modeling training methods, plus GGUF conversion for local deployment. Includes guidance on the TRL Jobs package, UV scripts with PEP 723 format, dataset preparation and validation, hardware selection, cost estimation, Trackio monitoring, Hub authentication, and model persistence. Should be invoked for tasks involving cloud GPU training, GGUF conversion, or when users mention training on Hugging Face Jobs without local GPU setup.
+description: "当用户需要使用 TRL（Transformer 强化学习）在 Hugging Face Jobs 基础设施上训练或微调语言模型时使用。涵盖 SFT、DPO、GRPO 和奖励模型训练方法，以及用于本地部署的 GGUF 转换。包括 TRL Jobs 包、PEP 723 格式的 UV 脚本、数据集准备与验证、硬件选择、成本估算、Trackio 监控、Hub 身份验证和模型持久化指导。当用户提到云 GPU 训练、GGUF 转换，或在未配置本地 GPU 的情况下提到在 Hugging Face Jobs 上训练时触发。"
 ---
 
 # TRL Training on Hugging Face Jobs

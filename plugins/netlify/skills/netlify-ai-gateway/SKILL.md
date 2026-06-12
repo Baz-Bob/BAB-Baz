@@ -1,6 +1,6 @@
 ---
 name: netlify-ai-gateway
-description: Guide for using Netlify AI Gateway to access AI models. Use when adding AI capabilities or selecting/changing AI models. Must be read before choosing a model. Covers supported providers (OpenAI, Anthropic, Google), SDK setup, environment variables, and the list of available models.
+description: "使用 Netlify AI Gateway 接入 AI 模型的指南。在添加 AI 功能或选择/更换 AI 模型时使用；选型前必须先阅读本技能。涵盖支持的提供商（OpenAI、Anthropic、Google）、SDK 设置、环境变量和可用模型列表。"
 ---
 
 # Netlify AI Gateway

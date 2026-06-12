@@ -1,6 +1,6 @@
 ---
 name: teams-notification-triage
-description: Triage recent Microsoft Teams activity into a priority queue or task list for the user.
+description: "将近期 Microsoft Teams 动态整理为优先级队列或用户待办清单。"
 ---
 
 # Teams Notification Triage

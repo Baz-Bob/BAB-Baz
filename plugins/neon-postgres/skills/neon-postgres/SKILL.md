@@ -1,6 +1,6 @@
 ---
 name: neon-postgres
-description: Guides and best practices for working with Neon Serverless Postgres. Covers getting started, local development with Neon, choosing a connection method, Neon features, authentication (@neondatabase/auth), PostgREST-style data API (@neondatabase/neon-js), Neon CLI, and Neon's Platform API/SDKs. Use for any Neon-related questions.
+description: "使用 Neon Serverless Postgres 的指南和最佳实践。涵盖入门、本地开发、选择连接方式、Neon 功能、认证（@neondatabase/auth）、PostgREST 风格的数据 API（@neondatabase/neon-js）、Neon CLI 以及 Neon Platform API/SDK。适用于任何 Neon 相关问题。"
 ---
 
 # Neon Serverless Postgres

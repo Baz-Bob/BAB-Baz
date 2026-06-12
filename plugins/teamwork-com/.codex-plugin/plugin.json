@@ -1,6 +1,6 @@
 {
   "name": "teamwork-com",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Connect to sync Teamwork projects and tasks for use in Codex.",
   "author": {
     "name": "OpenAI",
@@ -12,13 +12,13 @@
   "apps": "./.app.json",
   "interface": {
     "displayName": "Teamwork.com",
-    "shortDescription": "Connect to sync Teamwork projects and tasks for use in Codex.",
-    "longDescription": "Connect to sync Teamwork projects and tasks for use in Codex.",
+    "shortDescription": "连接并同步 Teamwork 项目和任务，在 Codex 中直接使用。",
+    "longDescription": "连接并同步 Teamwork 项目和任务，在 Codex 中直接使用。",
     "developerName": "OpenAI",
     "category": "Productivity",
     "capabilities": [],
     "defaultPrompt": [
-      "Summarize the current Teamwork.com project status"
+      "总结当前 Teamwork.com 项目的进展状态"
     ],
     "screenshots": [],
     "websiteURL": "https://www.teamwork.com/",

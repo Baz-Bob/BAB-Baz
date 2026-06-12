@@ -1,6 +1,6 @@
 ---
 name: micro
-description: Expert guidance for micro — asynchronous HTTP microservices framework by Vercel. Use when building lightweight HTTP servers, API endpoints, or microservices using the micro library.
+description: "micro 专家指南——Vercel 出品的异步 HTTP 微服务框架。在使用 micro 库构建轻量级 HTTP 服务器、API 端点或微服务时使用。"
 metadata:
   priority: 4
   docs:

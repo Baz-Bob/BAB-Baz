@@ -1,6 +1,6 @@
 ---
 name: zoom-apps-sdk
-description: Use when using Apps SDK.
+description: "使用 Apps SDK 时使用。"
 ---
 
 # Zoom Apps SDK

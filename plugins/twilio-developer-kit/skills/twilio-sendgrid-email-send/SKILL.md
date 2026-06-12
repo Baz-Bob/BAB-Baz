@@ -1,12 +1,6 @@
 ---
 name: twilio-sendgrid-email-send
-description: >
-  Send transactional and bulk email via the SendGrid v3 Mail Send API.
-  Covers single sends, personalized batch sends with dynamic templates,
-  scheduled sends with cancellation, attachments, and sandbox mode for
-  testing. Use this skill when the caller has a SendGrid API key (SG.-prefix).
-  Do NOT use this skill if the caller is using the Twilio Email API
-  (comms.twilio.com) — that is a separate product with different credentials.
+description: "通过 SendGrid v3 Mail Send API 发送事务性和批量邮件。涵盖单次发送、使用动态模板的个性化批量发送、可取消的计划发送、附件，以及用于测试的沙箱模式。适用于调用者拥有 SendGrid API Key（SG. 前缀）的场景。若调用者使用 Twilio Email API（comms.twilio.com），请勿使用此技能——那是拥有不同凭据的独立产品。"
 ---
 
 ## Overview

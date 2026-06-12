@@ -1,6 +1,6 @@
 ---
 name: vercel-firewall
-description: Vercel Firewall and security expert guidance. Use when configuring DDoS protection, WAF rules, rate limiting, bot filtering, IP allow/block lists, OWASP rulesets, Attack Challenge Mode, or any security configuration on the Vercel platform.
+description: "Vercel 防火墙和安全专家指南。在配置 DDoS 防护、WAF 规则、速率限制、Bot 过滤、IP 允许/封锁名单、OWASP 规则集、攻击挑战模式，或 Vercel 平台上任何安全配置时使用。"
 metadata:
   priority: 5
   docs:

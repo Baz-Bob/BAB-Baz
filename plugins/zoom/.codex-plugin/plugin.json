@@ -1,6 +1,6 @@
 {
   "name": "zoom",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Connect Codex to Zoom meeting context and build Zoom apps, bots, API integrations, SDK workflows, webhooks, and automations.",
   "author": {
     "name": "Zoom",
@@ -28,10 +28,10 @@
   "skills": "./skills/",
   "interface": {
     "displayName": "Zoom",
-    "shortDescription": "Use Zoom meeting context and build Zoom integrations.",
-    "longDescription": "Zoom connects Codex to Zoom meeting context through the Zoom app connector and provides developer workflows for planning, building, debugging, and reviewing Zoom integrations across APIs, SDKs, webhooks, WebSockets, bots, and automation use cases.",
+    "shortDescription": "访问 Zoom 会议上下文并构建 Zoom 集成。",
+    "longDescription": "Zoom 通过 Zoom app connector 将 Codex 与会议上下文打通，并为开发者提供规划、构建、调试和审查 Zoom 集成的全流程工作流，覆盖 API、SDK、webhook、WebSocket、机器人和自动化等各类场景。",
     "developerName": "Zoom",
-    "category": "Productivity",
+    "category": "Communication",
     "capabilities": [
       "Interactive",
       "Read",
@@ -41,8 +41,8 @@
     "privacyPolicyURL": "https://www.zoom.com/en/trust/privacy/",
     "termsOfServiceURL": "https://www.zoom.com/en/trust/terms/",
     "defaultPrompt": [
-      "Search my recent Zoom meetings for the discussion about pricing.",
-      "Run /plan-zoom-product for a Zoom integration idea."
+      "在我最近的 Zoom 会议记录中搜索关于定价的讨论。",
+      "针对一个 Zoom 集成想法运行 /plan-zoom-product。"
     ],
     "brandColor": "#0B5CFF",
     "composerIcon": "./assets/zoom-small.svg",

@@ -1,6 +1,6 @@
 ---
 name: scribe
-description: Use when using Scribe.
+description: "使用 Scribe 时使用。"
 ---
 
 # Zoom AI Services Scribe

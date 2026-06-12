@@ -1,6 +1,6 @@
 ---
 name: temporal-developer
-description: Develop, debug, and manage Temporal applications across Python, TypeScript, Go, and Java. Use when the user is building workflows, activities, or workers with a Temporal SDK, debugging issues like non-determinism errors, stuck workflows, or activity retries, using Temporal CLI, Temporal Server, or Temporal Cloud, or working with durable execution concepts like signals, queries, heartbeats, versioning, continue-as-new, child workflows, or saga patterns.
+description: "在 Python、TypeScript、Go 和 Java 中开发、调试和管理 Temporal 应用。适用于以下场景：使用 Temporal SDK 构建工作流、活动或 Worker；调试非确定性错误、卡住的工作流或活动重试等问题；使用 Temporal CLI、Temporal Server 或 Temporal Cloud；以及处理信号、查询、心跳、版本管理、continue-as-new、子工作流或 Saga 模式等持久执行概念。"
 ---
 
 # Skill: temporal-developer

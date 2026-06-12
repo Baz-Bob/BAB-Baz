@@ -1,6 +1,6 @@
 ---
 name: human-protein-atlas-skill
-description: Submit compact Human Protein Atlas requests for gene JSON, search downloads, and page-level tissue or cell-line lookups. Use when a user wants concise Human Protein Atlas summaries; save raw JSON or HTML only on request.
+description: "向 Human Protein Atlas 提交简洁请求，用于基因 JSON、搜索下载和页面级组织或细胞系查询。适用于需要简明 Human Protein Atlas 摘要的场景；仅在明确要求时保存原始 JSON 或 HTML。"
 ---
 
 ## Operating rules

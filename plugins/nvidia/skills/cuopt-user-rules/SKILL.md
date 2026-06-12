@@ -1,7 +1,7 @@
 ---
 name: cuopt-user-rules
 version: "26.08.00"
-description: Base rules for end users calling NVIDIA cuOpt (routing/LP/MILP/QP/install/server). Not for cuOpt internals — use cuopt-developer for those.
+description: "面向调用 NVIDIA cuOpt 的终端用户的基础规则（涵盖路径规划/LP/MILP/QP/安装/服务器）。不适用于 cuOpt 内部开发——请使用 cuopt-developer。"
 license: Apache-2.0
 metadata:
   author: NVIDIA cuOpt Team

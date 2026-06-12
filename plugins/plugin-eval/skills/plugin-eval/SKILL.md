@@ -1,6 +1,6 @@
 ---
 name: plugin-eval
-description: Help engineers evaluate a local skill or plugin, explain why it scored that way, show what to fix first, measure real token usage, benchmark starter scenarios, or decide what to run next. Use when the user says things like "evaluate this skill", "give me an analysis of the game dev skill", "why did this score that way", "what should I fix first", "measure the real token usage of this skill", or "what should I run next?".
+description: "帮助工程师评估本地技能或插件、解释得分原因、指出优先修复项、统计实际 token 用量、对初始场景做基准测试，或决定下一步该跑什么。适用于用户说「评估这个技能」「分析 game dev 技能」「为什么得了这个分」「我应该先修什么」「统计这个技能的实际 token 用量」或「接下来跑什么」等场景。"
 ---
 
 # Plugin Eval

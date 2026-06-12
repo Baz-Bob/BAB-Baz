@@ -1,11 +1,6 @@
 ---
 name: twilio-content-template-builder
-description: >
-  Create, manage, and send message templates using Twilio's Content API.
-  Covers template creation for WhatsApp, SMS, RCS, and MMS; variable usage;
-  WhatsApp Meta approval; and sending templates via ContentSid. Use this skill
-  when building structured messages that require pre-approval or consistent
-  formatting across channels.
+description: "通过 Twilio Content API 创建、管理和发送消息模板。涵盖 WhatsApp、SMS、RCS 和 MMS 模板创建、变量使用、WhatsApp Meta 审核，以及通过 ContentSid 发送模板。适用于构建需要预审批或跨渠道格式统一的结构化消息场景。"
 ---
 
 ## Overview

@@ -1,11 +1,6 @@
 ---
 name: twilio-messaging-overview
-description: >
-  Twilio Messaging channel overview and onboarding guide. Covers all
-  channels (SMS, WhatsApp, RCS, Facebook Messenger), the unified
-  Messages API, channel selection guidance, and the recommended setup
-  sequence from first message to production monitoring. Start here
-  before choosing a specific messaging channel.
+description: "Twilio Messaging 渠道概览与入门指南。涵盖所有渠道（SMS、WhatsApp、RCS、Facebook Messenger）、统一 Messages API、渠道选择指引，以及从首条消息到生产监控的推荐配置流程。在选择具体消息渠道前，请先阅读此技能。"
 ---
 
 ## Overview

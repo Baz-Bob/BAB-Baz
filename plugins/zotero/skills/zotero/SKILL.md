@@ -1,6 +1,6 @@
 ---
 name: Zotero
-description: Use Zotero Desktop from Codex to enable/probe the local API, search a local Zotero library, list items/collections/tags, export BibTeX, insert citation keys into LaTeX or Markdown drafts, read indexed full text when requested, and import BibTeX/RIS records into Zotero through the connector server. Use when the user mentions Zotero, citations, references.bib, BibTeX export, local Zotero API, localhost:23119, or adding citations from a Zotero library.
+description: "从 Codex 使用 Zotero Desktop，包括启用/探测本地 API、搜索本地 Zotero 文库、列出条目/合集/标签、导出 BibTeX、将引用键插入 LaTeX 或 Markdown 草稿、按需读取已索引的全文，以及通过 connector 服务器将 BibTeX/RIS 记录导入 Zotero。适用于用户提及 Zotero、引用、references.bib、BibTeX 导出、本地 Zotero API、localhost:23119 或从 Zotero 文库添加引用的场景。"
 ---
 
 # Zotero

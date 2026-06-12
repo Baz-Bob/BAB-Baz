@@ -1,6 +1,6 @@
 {
   "name": "similarweb",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Digital market intelligence and web traffic analytics",
   "author": {
     "name": "Similarweb",
@@ -13,15 +13,15 @@
   "interface": {
     "displayName": "Similarweb",
     "developerName": "Similarweb",
-    "shortDescription": "Digital market intelligence and web traffic analytics",
-    "longDescription": "Digital market intelligence and web traffic analytics",
-    "category": "Productivity",
+    "shortDescription": "数字市场情报与网站流量分析",
+    "longDescription": "数字市场情报与网站流量分析",
+    "category": "Data & Analytics",
     "capabilities": [],
     "brandColor": "#F07028",
     "defaultPrompt": [
-      "Analyze traffic trends for example.com versus its top competitors over the last six months.",
-      "Find the top acquisition channels and referring sites for example.com and summarize growth opportunities.",
-      "Compare audience geography and search keywords for example.com and a competitor."
+      "分析 example.com 与其主要竞争对手过去六个月的流量趋势。",
+      "找出 example.com 的主要获客渠道和引流来源网站，并梳理增长机会。",
+      "对比 example.com 与竞争对手的受众地域分布和搜索关键词。"
     ],
     "screenshots": [],
     "composerIcon": "./assets/logo.png",

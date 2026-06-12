@@ -1,6 +1,6 @@
 ---
 name: ngs-shotgun-metagenomics
-description: Kick off public shotgun metagenomics QC, host-depletion, taxonomic profiling, and functional profiling workflows using nf-core/taxprofiler, Kraken2, Bracken, MetaPhlAn, and HUMAnN.
+description: "使用 nf-core/taxprofiler、Kraken2、Bracken、MetaPhlAn 和 HUMAnN 启动公开的鸟枪法宏基因组 QC、宿主去除、物种分类和功能注释工作流。"
 ---
 
 # Shotgun Metagenomics

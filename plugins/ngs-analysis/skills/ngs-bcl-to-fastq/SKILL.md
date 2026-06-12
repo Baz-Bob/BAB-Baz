@@ -1,6 +1,6 @@
 ---
 name: ngs-bcl-to-fastq
-description: Validate Illumina BCL run folders and sample sheets, plan demultiplexing, review index/UMI/lane choices, run BCL-to-FASTQ conversion, and interpret demux metrics while surfacing license/download boundaries.
+description: "验证 Illumina BCL 运行文件夹和样品表，规划拆分流程，审查 index/UMI/lane 选项，执行 BCL 转 FASTQ，解读拆分指标，并说明许可证和下载限制。"
 ---
 
 # BCL To FASTQ

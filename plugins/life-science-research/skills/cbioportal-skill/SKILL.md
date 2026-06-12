@@ -1,6 +1,6 @@
 ---
 name: cbioportal-skill
-description: Submit compact cBioPortal API requests for studies, molecular profiles, mutations, clinical data, and samples. Use when a user wants concise cBioPortal summaries
+description: "向 cBioPortal API 提交简洁请求，查询研究、分子谱、突变、临床数据和样本。适用于需要简明 cBioPortal 摘要的场景。"
 ---
 
 ## Operating rules

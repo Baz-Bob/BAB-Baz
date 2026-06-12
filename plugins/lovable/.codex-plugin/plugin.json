@@ -1,6 +1,6 @@
 {
   "name": "lovable",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Build and inspect Lovable app projects from connected workspace context",
   "author": {
     "name": "Lovable",
@@ -13,8 +13,8 @@
   "apps": "./.app.json",
   "interface": {
     "displayName": "Lovable",
-    "shortDescription": "Build and inspect Lovable app projects from connected workspace context",
-    "longDescription": "Build and inspect Lovable app projects from connected workspace context",
+    "shortDescription": "基于已连接的工作区上下文，构建并检查 Lovable 应用项目",
+    "longDescription": "基于已连接的工作区上下文，构建并检查 Lovable 应用项目",
     "developerName": "Lovable",
     "category": "Developer Tools",
     "capabilities": [],
@@ -22,9 +22,9 @@
     "privacyPolicyURL": "https://lovable.dev/privacy",
     "termsOfServiceURL": "https://lovable.dev/terms",
     "defaultPrompt": [
-      "Find my Lovable app projects and summarize recent changes.",
-      "Review this Lovable project and identify what is ready to ship.",
-      "Draft a Lovable prompt to add authentication to this app."
+      "查找我的 Lovable 应用项目并汇总近期变更。",
+      "检查这个 Lovable 项目，确认哪些功能已准备好上线。",
+      "起草一条 Lovable 提示词，为该应用添加身份验证功能。"
     ],
     "brandColor": "#FC5A28",
     "composerIcon": "./assets/logo.png",

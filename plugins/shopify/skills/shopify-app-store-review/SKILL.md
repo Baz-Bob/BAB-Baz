@@ -1,6 +1,6 @@
 ---
 name: shopify-app-store-review
-description: "Run a pre-submission compliance check against your Shopify app's codebase. Reviews App Store requirements and surfaces likely issues before you submit for official review."
+description: "对 Shopify 应用代码库进行提交前合规检查。审查 App Store 要求，在正式提交前提前发现潜在问题。"
 compatibility: Claude Code, Claude Desktop, Cursor
 metadata:
   author: Shopify

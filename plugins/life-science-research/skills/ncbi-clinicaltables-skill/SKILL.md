@@ -1,6 +1,6 @@
 ---
 name: ncbi-clinicaltables-skill
-description: Submit compact Clinical Tables NCBI Gene requests for human gene lookup, pagination, and field selection. Use when a user wants concise autocomplete-style human gene search results
+description: "向 Clinical Tables NCBI Gene 提交简洁请求，用于人类基因查询、分页和字段筛选。适用于需要简明自动补全式人类基因搜索结果的场景。"
 ---
 
 ## Operating rules

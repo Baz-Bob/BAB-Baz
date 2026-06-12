@@ -1,12 +1,6 @@
 ---
 name: twilio-voice-conversation-relay
-description: >
-  Build AI-powered voice agents using Twilio ConversationRelay. Handles
-  real-time speech recognition (ASR), text-to-speech (TTS), and bidirectional
-  audio streaming via WebSocket. Covers TwiML setup, WebSocket message types,
-  LLM integration, streaming responses, and voice provider configuration. Use
-  this skill to build voice bots, IVR replacements, or real-time AI voice
-  assistants on Twilio calls.
+description: "使用 Twilio ConversationRelay 构建 AI 语音智能体。处理实时语音识别（ASR）、文字转语音（TTS）和通过 WebSocket 的双向音频流。涵盖 TwiML 配置、WebSocket 消息类型、LLM 集成、流式响应，以及语音提供商配置。适用于在 Twilio 通话上构建语音机器人、IVR 替代方案，或实时 AI 语音助手的场景。"
 ---
 
 ## Overview

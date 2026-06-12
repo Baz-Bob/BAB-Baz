@@ -1,6 +1,6 @@
 ---
 name: setup-zoom-websockets
-description: Use when building Zoom WebSockets.
+description: "构建 Zoom WebSocket 时使用。"
 ---
 
 # Setup Zoom WebSockets

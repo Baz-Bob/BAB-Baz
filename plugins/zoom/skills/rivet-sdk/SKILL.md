@@ -1,6 +1,6 @@
 ---
 name: rivet-sdk
-description: Use when using Rivet SDK.
+description: "使用 Rivet SDK 时使用。"
 ---
 
 # Zoom Rivet SDK

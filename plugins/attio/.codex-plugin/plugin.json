@@ -1,6 +1,6 @@
 {
   "name": "attio",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Attio connects Codex directly to your CRM workspace, letting you manage customer relationships through na...",
   "author": {
     "name": "Attio Ltd",
@@ -12,13 +12,13 @@
   "apps": "./.app.json",
   "interface": {
     "displayName": "Attio",
-    "shortDescription": "Attio connects Codex directly to your CRM workspace, letting you manage customer relationships through na...",
-    "longDescription": "Attio connects Codex directly to your CRM workspace, letting you manage customer relationships through natural conversation. \n\nSearch and filter contacts, companies, and deals with flexible queries. Create, update, and organize records without switching between screens. Add notes, manage tasks, and track your sales pipeline\u2014all through simple requests. \n\nKey capabilities: \n- Search records using powerful filters (find companies by size, industry, last contact date) \n- Create and update people, companies, and deal records \n- Manage notes attached to any record \n- Track and complete tasks \n- Navigate lists and organize your data \n\nWhether you're preparing for a meeting, updating deal stages, or researching prospects, Attio brings your CRM data into your conversation \u2014 no manual data entry required.",
+    "shortDescription": "Attio 将 Codex 直接接入你的 CRM 工作区，让你通过自然对话管理客户关系。",
+    "longDescription": "Attio 将 Codex 直接接入你的 CRM 工作区，让你通过自然对话管理客户关系。\n\n使用灵活的查询条件搜索和筛选联系人、公司和交易。无需在多个界面间切换，即可创建、更新和整理记录。通过简单指令添加备注、管理任务、跟踪销售管道。\n\n核心功能：\n- 使用强大的筛选器搜索记录（按规模、行业、最近联系时间查找公司）\n- 创建和更新联系人、公司及交易记录\n- 管理任意记录上的备注\n- 跟踪并完成任务\n- 浏览列表并整理数据\n\n无论是会前准备、更新交易阶段还是调研潜在客户，Attio 都能将 CRM 数据带入你的对话——无需手动录入。",
     "developerName": "Attio Ltd",
-    "category": "Productivity",
+    "category": "Business & Operations",
     "capabilities": [],
     "defaultPrompt": [
-      "Find the latest notes and next steps in Attio"
+      "在 Attio 中查找最新备注和后续跟进事项"
     ],
     "screenshots": [],
     "websiteURL": "https://attio.com",

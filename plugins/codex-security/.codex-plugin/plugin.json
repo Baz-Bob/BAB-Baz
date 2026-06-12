@@ -1,6 +1,6 @@
 {
   "name": "codex-security",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "description": "Codex Security workflows for security scans, analysis, and investigation.",
   "author": {
     "name": "OpenAI"
@@ -18,8 +18,8 @@
   "skills": "./skills/",
   "interface": {
     "displayName": "Codex Security",
-    "shortDescription": "Security scanning for your codebase",
-    "longDescription": "Codex Security packages reusable workflows for security scans, analysis, validation, and investigation across code, diffs, and related artifacts.",
+    "shortDescription": "为代码库提供安全扫描能力",
+    "longDescription": "Codex Security 封装了可复用的工作流，用于对代码、差异及相关制品进行安全扫描、分析、验证和调查。",
     "developerName": "OpenAI",
     "category": "Security",
     "capabilities": [
@@ -31,9 +31,9 @@
     "privacyPolicyURL": "https://openai.com/policies/row-privacy-policy/",
     "termsOfServiceURL": "https://openai.com/policies/row-terms-of-use/",
     "defaultPrompt": [
-      "Run a Codex Security scan on this repository.",
-      "Run a deep Codex Security scan on this repository.",
-      "Run a Codex Security diff scan on this PR, commit, branch diff, or working-tree patch."
+      "对这个仓库运行 Codex Security 扫描。",
+      "对这个仓库运行深度 Codex Security 扫描。",
+      "对这个 PR、提交、分支差异或工作区补丁运行 Codex Security 差异扫描。"
     ],
     "brandColor": "#111111",
     "composerIcon": "./assets/logo.png",

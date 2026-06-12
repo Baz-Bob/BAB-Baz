@@ -1,6 +1,6 @@
 ---
 name: turborepo
-description: Turborepo expert guidance. Use when setting up or optimizing monorepo builds, configuring task caching, remote caching, parallel execution, or the --affected flag for incremental CI.
+description: "Turborepo 专家指南。在设置或优化 Monorepo 构建、配置任务缓存、远程缓存、并行执行，或为增量 CI 配置 `--affected` 标志时使用。"
 metadata:
   priority: 5
   docs:

@@ -1,6 +1,6 @@
 ---
 name: vercel-flags
-description: Vercel Flags guidance — feature flags platform with unified dashboard, Flags Explorer, gradual rollouts, A/B testing, and provider adapters. Use when implementing feature flags, experimentation, or staged rollouts.
+description: "Vercel Flags 指南——带统一仪表盘、Flags Explorer、灰度发布、A/B 测试和提供商适配器的功能标志平台。在实现功能标志、实验，或阶段性发布时使用。"
 metadata:
   priority: 6
   docs:

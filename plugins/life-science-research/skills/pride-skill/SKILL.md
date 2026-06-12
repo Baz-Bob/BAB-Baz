@@ -1,6 +1,6 @@
 ---
 name: pride-skill
-description: Submit compact PRIDE Archive API requests for proteomics project discovery and project-level metadata. Use when a user wants concise PRIDE summaries
+description: "向 PRIDE Archive API 提交简洁请求，用于蛋白质组学项目发现和项目级元数据。适用于需要简明 PRIDE 摘要的场景。"
 ---
 
 ## Operating rules

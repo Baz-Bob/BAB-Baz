@@ -1,6 +1,6 @@
 ---
 name: outlook-email-subscription-cleanup
-description: Clean up Outlook newsletters and recurring subscription email safely. Use when the user wants to unsubscribe, separate newsletters from human mail, move recurring senders into folders, or organize low-signal subscription traffic without losing important messages.
+description: "安全清理 Outlook 新闻订阅和周期性订阅邮件。当用户需要取消订阅、将新闻订阅与真人邮件分开、将周期性发件人移入文件夹，或在不丢失重要邮件的前提下整理低价值订阅流量时触发。"
 ---
 
 # Outlook Email Subscription Cleanup

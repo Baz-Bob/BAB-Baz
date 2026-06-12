@@ -1,6 +1,6 @@
 ---
 name: hubspot-crm-data-hygiene
-description: Use when auditing HubSpot data quality for missing fields, stale records, duplicates, associations, owners, or cleanup tasks.
+description: "当需要审查 HubSpot 数据质量——包括缺失字段、过期记录、重复项、关联关系、负责人或清理任务——时使用。"
 ---
 
 # HubSpot CRM Data Hygiene

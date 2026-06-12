@@ -1,6 +1,6 @@
 {
   "name": "teams",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Work with Teams using the configured Microsoft Teams app connector.",
   "author": {
     "name": "OpenAI",
@@ -19,10 +19,10 @@
   "apps": "./.app.json",
   "interface": {
     "displayName": "Teams",
-    "shortDescription": "Summarize Teams and draft follow-ups",
-    "longDescription": "Use Teams to summarize chats, extract actions, and draft channel or meeting follow-ups through the connected Microsoft Teams app.",
+    "shortDescription": "汇总 Teams 动态并起草跟进内容",
+    "longDescription": "使用 Teams 汇总聊天内容、提取行动项，并通过已连接的 Microsoft Teams 应用起草频道或会议跟进消息。",
     "developerName": "OpenAI",
-    "category": "Productivity",
+    "category": "Communication",
     "capabilities": [
       "Interactive",
       "Write"
@@ -31,7 +31,7 @@
     "privacyPolicyURL": "https://www.microsoft.com/en-us/privacy/privacystatement",
     "termsOfServiceURL": "https://www.microsoft.com/en-us/servicesagreement/",
     "defaultPrompt": [
-      "Summarize chat, pull out action items, or draft follow-up"
+      "汇总聊天内容、提取行动项或起草跟进消息"
     ],
     "brandColor": "#5B5FC7",
     "composerIcon": "./assets/app-icon.png",

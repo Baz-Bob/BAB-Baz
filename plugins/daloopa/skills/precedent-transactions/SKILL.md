@@ -1,6 +1,6 @@
 ---
 name: precedent-transactions
-description: Precedent M&A transactions analysis with deal multiples and acquisition
+description: "含交易倍数和并购溢价的历史可比交易分析"
   history
 ---
 

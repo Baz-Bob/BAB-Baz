@@ -1,6 +1,6 @@
 ---
 name: build-zoom-rest-api-app
-description: Use when calling REST APIs.
+description: "调用 REST API 时使用。"
 ---
 
 # Build Zoom REST API App

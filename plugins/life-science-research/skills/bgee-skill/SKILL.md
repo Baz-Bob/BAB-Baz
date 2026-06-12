@@ -1,6 +1,6 @@
 ---
 name: bgee-skill
-description: Submit compact Bgee SPARQL requests for healthy wild-type expression metadata and ontology-aware lookup patterns. Use when a user wants concise Bgee summaries; save raw results only on request.
+description: "向 Bgee 提交简洁的 SPARQL 请求，用于健康野生型表达元数据和本体感知的查询模式。适用于需要简明 Bgee 摘要的场景；仅在明确要求时保存原始结果。"
 ---
 
 ## Operating rules

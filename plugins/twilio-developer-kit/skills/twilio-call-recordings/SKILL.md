@@ -1,11 +1,6 @@
 ---
 name: twilio-call-recordings
-description: >
-  Record Twilio voice calls correctly. Covers the critical distinction
-  between Record verb (voicemail) and Dial record (call recording),
-  dual-channel for QA, mid-call pause for PCI, Conference recording, and
-  the ConversationRelay workaround. Use this skill whenever you need to
-  capture call audio for compliance, QA, or analytics.
+description: "正确录制 Twilio 语音通话。涵盖 Record 指令（语音信箱）与 Dial record（通话录音）的关键区别、双声道录音用于质检、通话中暂停录音以满足 PCI 要求、会议录音，以及 ConversationRelay 的替代方案。凡需采集通话音频用于合规、质检或数据分析的场景，均应使用此技能。"
 ---
 
 ## Overview

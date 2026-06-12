@@ -1,12 +1,6 @@
 ---
 name: twilio-sendgrid-webhooks
-description: >
-  Track email delivery and engagement via SendGrid Event Webhooks.
-  Covers all 11 event types (delivery + engagement), webhook handler
-  implementation, ECDSA signature verification, batched event processing,
-  and common debugging patterns. Use when building SendGrid delivery
-  tracking, engagement analytics, or bounce handling. Requires a SendGrid
-  API key (SG.-prefix) — not applicable to the Twilio Email API (comms.twilio.com).
+description: "通过 SendGrid Event Webhook 跟踪邮件投递和互动情况。涵盖全部 11 种事件类型（投递 + 互动）、Webhook 处理程序实现、ECDSA 签名验证、批量事件处理，以及常见调试模式。适用于构建 SendGrid 投递跟踪、互动分析或退信处理的场景。需要 SendGrid API Key（SG. 前缀）——不适用于 Twilio Email API（comms.twilio.com）。"
 ---
 
 ## Overview

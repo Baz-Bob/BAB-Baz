@@ -1,6 +1,6 @@
 ---
 name: ncbi-datasets-skill
-description: Submit compact NCBI Datasets v2 requests for assembly, genome, taxonomy, and related metadata endpoints. Use when a user wants concise NCBI Datasets summaries; save raw JSON or text only on request.
+description: "向 NCBI Datasets v2 提交简洁请求，查询组装体、基因组、分类学和相关元数据端点。适用于需要简明 NCBI Datasets 摘要的场景；仅在明确要求时保存原始 JSON 或文本。"
 ---
 
 ## Operating rules

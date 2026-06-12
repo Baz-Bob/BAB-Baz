@@ -1,6 +1,6 @@
 ---
 name: "android-emulator-qa"
-description: "Use when validating Android feature flows in an emulator with adb-driven launch, input, UI-tree inspection, screenshots, and logcat capture."
+description: "适用于在模拟器中通过 adb 驱动启动、输入、UI 树检查、截图和 logcat 采集，验证 Android 功能流程的场景。"
 ---
 
 # Android Emulator QA

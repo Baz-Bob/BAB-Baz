@@ -1,6 +1,6 @@
 {
   "name": "thoughtspot",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Business intelligence answers, dashboards, metrics, and revenue analysis",
   "author": {
     "name": "ThoughtSpot",
@@ -13,15 +13,15 @@
   "interface": {
     "displayName": "ThoughtSpot",
     "developerName": "ThoughtSpot",
-    "shortDescription": "Business intelligence answers, dashboards, metrics, and revenue analysis",
-    "longDescription": "Business intelligence answers, dashboards, metrics, and revenue analysis",
-    "category": "Productivity",
+    "shortDescription": "商业智能答案、仪表板、指标与营收分析",
+    "longDescription": "商业智能答案、仪表板、指标与营收分析",
+    "category": "Data & Analytics",
     "capabilities": [],
     "brandColor": "#000000",
     "defaultPrompt": [
-      "Search ThoughtSpot for sales performance answers and summarize the key drivers.",
-      "Find dashboards related to pipeline health and explain the biggest movement this quarter.",
-      "Analyze revenue by segment in ThoughtSpot and highlight anomalies worth investigating."
+      "在 ThoughtSpot 中搜索销售业绩相关答案，梳理关键驱动因素。",
+      "找出与管道健康度相关的仪表板，分析本季度最大的变化。",
+      "在 ThoughtSpot 中按业务板块分析营收，标注值得关注的异常。"
     ],
     "screenshots": [],
     "composerIcon": "./assets/logo.png",

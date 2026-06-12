@@ -1,6 +1,6 @@
 ---
 name: huggingface-jobs
-description: This skill should be used when users want to run any workload on Hugging Face Jobs infrastructure. Covers UV scripts, Docker-based jobs, hardware selection, cost estimation, authentication with tokens, secrets management, timeout configuration, and result persistence. Designed for general-purpose compute workloads including data processing, inference, experiments, batch jobs, and any Python-based tasks. Should be invoked for tasks involving cloud compute, GPU workloads, or when users mention running jobs on Hugging Face infrastructure without local setup.
+description: "当用户需要在 Hugging Face Jobs 基础设施上运行任何工作负载时使用。涵盖 UV 脚本、基于 Docker 的任务、硬件选择、成本估算、token 身份验证、密钥管理、超时配置和结果持久化。适用于数据处理、推理、实验、批量任务及任何基于 Python 的任务等通用计算工作负载。当用户提到云计算、GPU 工作负载，或在未进行本地设置的情况下提到在 Hugging Face 基础设施上运行任务时触发。"
 ---
 
 # Running Workloads on Hugging Face Jobs

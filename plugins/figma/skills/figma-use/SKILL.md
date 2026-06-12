@@ -1,6 +1,6 @@
 ---
 name: figma-use
-description: "**MANDATORY prerequisite** — you MUST invoke this skill BEFORE every `use_figma` tool call. NEVER call `use_figma` directly without loading this skill first. Skipping it causes common, hard-to-debug failures. Trigger whenever the user wants to perform a write action or a unique read action that requires JavaScript execution in the Figma file context — e.g. create/edit/delete nodes, set up variables or tokens, build components and variants, modify auto-layout or fills, bind variables to properties, or inspect file structure programmatically."
+description: "**必须先执行的前置步骤**——每次调用 `use_figma` 工具前，必须先调用本技能。禁止在未加载本技能的情况下直接调用 `use_figma`。跳过会导致难以排查的常见故障。当用户需要在 Figma 文件上下文中执行写入或需要 JavaScript 的特殊读取操作时触发——如创建/编辑/删除节点、设置变量或 token、构建组件和变体、修改自动布局或填充、将变量绑定到属性，或以编程方式检查文件结构。"
 disable-model-invocation: false
 ---
 

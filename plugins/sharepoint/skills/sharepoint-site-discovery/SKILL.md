@@ -1,6 +1,6 @@
 ---
 name: sharepoint-site-discovery
-description: Resolve the right SharePoint site, library, and folder before file work. Use when the user needs to find the right site context, browse a known site, inspect document libraries, or narrow the correct folder before fetching or editing a file.
+description: "在进行文件操作前，解析正确的 SharePoint 站点、文档库和文件夹。当用户需要找到正确的站点上下文、浏览已知站点、查看文档库，或在获取或编辑文件前确定正确文件夹时触发。"
 ---
 
 # SharePoint Site Discovery

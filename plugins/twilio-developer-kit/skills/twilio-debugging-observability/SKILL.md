@@ -1,12 +1,6 @@
 ---
 name: twilio-debugging-observability
-description: >
-  Debug Twilio integrations and set up production observability. Covers the
-  Console Debugger, Monitor Alerts API, Event Streams for error log streaming,
-  status callback tracking, common error codes, and a systematic debugging
-  workflow. Use this skill whenever a Twilio integration produces errors,
-  messages fail to deliver, calls drop unexpectedly, or you need to set up
-  monitoring for a production deployment.
+description: "调试 Twilio 集成问题并建立生产环境可观测性。涵盖 Console 调试器、Monitor Alerts API、用于错误日志流式传输的 Event Streams、状态回调跟踪、常见错误码，以及系统化调试流程。凡 Twilio 集成出错、消息发送失败、通话意外断线，或需要为生产部署配置监控的场景，均应使用此技能。"
 ---
 
 ## Overview

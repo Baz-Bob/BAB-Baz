@@ -1,6 +1,6 @@
 ---
 name: ios-app-intents
-description: Design App Intents, app entities, and App Shortcuts for iOS system surfaces. Use when exposing app actions or content to Shortcuts, Siri, Spotlight, widgets, or controls.
+description: "为 iOS 系统界面设计 App Intents、app 实体和 App Shortcuts。适用于需要将应用操作或内容暴露给 Shortcuts、Siri、Spotlight、小组件或控件的场景。"
 ---
 
 # iOS App Intents

@@ -1,6 +1,6 @@
 {
   "name": "clickup",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Turn Codex into your ClickUp command center.",
   "repository": "https://github.com/openai/plugins",
   "license": "MIT",
@@ -8,12 +8,12 @@
   "apps": "./.app.json",
   "interface": {
     "displayName": "ClickUp",
-    "shortDescription": "Turn Codex into your ClickUp command center.",
-    "longDescription": "Turn Codex into your ClickUp command center. Ask anything, find everything, take action - without breaking your flow.\n\u2022 Deep workspace search:  Ask questions naturally, get precise answers from across all your work\n\u2022 Action in the same breath: Find, create, update, and manage work in Codex\n\u2022 Zero context switching:  Go from question to answer to action without leaving the conversation",
+    "shortDescription": "将 Codex 变成你的 ClickUp 指挥中心。",
+    "longDescription": "将 Codex 变成你的 ClickUp 指挥中心。随便问、什么都找得到、直接采取行动——不打断你的工作节奏。\n• 深度工作区搜索：自然提问，从所有工作内容中获取精准答案\n• 边问边行动：在 Codex 中直接查找、创建、更新和管理任务\n• 零切换成本：从提问到答案到行动，全程不离开对话",
     "category": "Productivity",
     "capabilities": [],
     "defaultPrompt": [
-      "Flag whether Sprint 14: Simplifying UI is at risk"
+      "判断「Sprint 14：简化 UI」是否存在进度风险"
     ],
     "screenshots": [],
     "composerIcon": "./assets/app-icon.png",

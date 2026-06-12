@@ -1,6 +1,6 @@
 {
   "name": "cube",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "With the Cube MCP Server, you can: - Query live Cube data from actuals, budgets, forecasts, variances, and...",
   "author": {
     "name": "Cube",
@@ -13,16 +13,16 @@
   "apps": "./.app.json",
   "interface": {
     "displayName": "Cube",
-    "shortDescription": "With the Cube MCP Server, you can: - Query live Cube data from actuals, budgets, forecasts, variances, and...",
-    "longDescription": "With the Cube MCP Server, you can:\n- Query live Cube data from actuals, budgets, forecasts, variances, and more\n- Ask an AI to generate board decks, run variance analysis, or build financial summaries using your real Cube data\n- Drill into transaction-level detail and dimension breakdowns directly from an AI chat\n- Maintain full security: Cube's role-based access control (RBAC) security model enforces your user permissions on every AI request. If you can't see it in Cube, the AI can't see it either",
+    "shortDescription": "通过 Cube MCP Server，你可以查询实际、预算、预测、差异等实时 Cube 数据，让 AI 生成董事会汇报材料、进行差异分析或基于真实数据构建财务摘要。",
+    "longDescription": "通过 Cube MCP Server，你可以：\n- 查询实际值、预算、预测、差异等实时 Cube 数据\n- 让 AI 基于真实 Cube 数据生成董事会汇报材料、执行差异分析或构建财务摘要\n- 直接在 AI 对话中钻取交易级别明细和维度分解\n- 保持完整安全管控：Cube 的基于角色的访问控制（RBAC）安全模型对每条 AI 请求都强制执行用户权限。你在 Cube 中看不到的数据，AI 同样看不到。",
     "developerName": "Cube",
-    "category": "Research",
+    "category": "Finance",
     "capabilities": [],
     "websiteURL": "https://www.cubesoftware.com/",
     "privacyPolicyURL": "https://www.cubesoftware.com/privacy-policy",
     "termsOfServiceURL": "https://www.cubesoftware.com/terms-of-service",
     "defaultPrompt": [
-      "Compare Actuals vs. Forecast for Revenue by entity"
+      "按实体对比营收的实际值与预测值"
     ],
     "screenshots": [],
     "composerIcon": "./assets/app-icon.png",

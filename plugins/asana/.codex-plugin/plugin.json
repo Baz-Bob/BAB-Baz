@@ -1,6 +1,6 @@
 {
   "name": "asana",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Work with your Asana tasks, subtasks, comments, due dates, and project details to create summaries, understand priorities, and prepare clear status updates.",
   "author": {
     "name": "Asana, Inc.",
@@ -20,8 +20,8 @@
   "apps": "./.app.json",
   "interface": {
     "displayName": "Asana",
-    "shortDescription": "Read and manage Asana",
-    "longDescription": "Work with your Asana tasks, subtasks, comments, due dates, and project details to create summaries, understand priorities, and prepare clear status updates.",
+    "shortDescription": "读取和管理 Asana",
+    "longDescription": "操作你的 Asana 任务、子任务、评论、截止日期和项目详情，生成摘要、梳理优先级，并撰写清晰的进展更新。",
     "developerName": "Asana, Inc.",
     "category": "Productivity",
     "capabilities": [
@@ -32,9 +32,9 @@
     "privacyPolicyURL": "https://asana.com/terms/privacy-statement",
     "termsOfServiceURL": "https://asana.com/terms",
     "defaultPrompt": [
-      "Create a project to track creative requests",
-      "Create a task to track follow up actions",
-      "Show me what's on my plate in Asana today."
+      "创建一个用于追踪创意需求的项目",
+      "创建一个任务来跟进后续行动",
+      "查看我今天在 Asana 中需要处理的事项。"
     ],
     "brandColor": "#FF584A",
     "composerIcon": "./assets/app-icon.png",

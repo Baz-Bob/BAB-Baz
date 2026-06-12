@@ -1,6 +1,6 @@
 ---
 name: reactome-skill
-description: Submit compact Reactome ContentService requests for pathway, event, participant, search, and diagram-related data. Use when a user wants concise Reactome summaries
+description: "向 Reactome ContentService 提交简洁请求，查询通路、事件、参与者、搜索和图示相关数据。适用于需要简明 Reactome 摘要的场景。"
 ---
 
 ## Operating rules

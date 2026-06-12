@@ -1,6 +1,6 @@
 ---
 name: node-link-and-diagram-layout
-description: Choose and apply automatic layout strategies for node-link diagrams and connected-node visuals. Use when the user asks how to auto-arrange nodes, reduce line crossings, route edges, avoid overlaps, stabilize layout, or choose graph-layout algorithms for network diagrams, dependency graphs, database schema diagrams, ERDs, state machines, decision trees, flow diagrams, box-and-line editors, or other line-connected nodes.
+description: "为节点连接图和连线视觉选择并应用自动布局策略。适用于用户询问如何自动排列节点、减少线条交叉、路由边线、避免重叠、稳定布局，或为网络图、依赖关系图、数据库 schema 图、ERD、状态机、决策树、流程图、盒线编辑器或其他连线节点选择图布局算法的场景。"
 ---
 
 # Node-Link and Diagram Layout

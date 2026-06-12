@@ -1,6 +1,6 @@
 ---
 name: agent-browser
-description: Browser automation CLI for AI agents. Use when the user needs to interact with websites, verify dev server output, test web apps, navigate pages, fill forms, click buttons, take screenshots, extract data, or automate any browser task. Also triggers when a dev server starts so you can verify it visually.
+description: "面向 AI 智能体的浏览器自动化 CLI。当用户需要与网站交互、验证开发服务器输出、测试 Web 应用、导航页面、填写表单、点击按钮、截图、提取数据，或自动化任何浏览器操作时使用。开发服务器启动时也触发，以便进行视觉验证。"
 metadata:
   priority: 3
   docs:

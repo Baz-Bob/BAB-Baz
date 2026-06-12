@@ -1,7 +1,7 @@
 {
   "name": "responsive",
-  "version": "1.0.1",
-  "description": "The Responsive App makes it easy to work with your organization\u2019s data inside Codex.",
+  "version": "1.0.2",
+  "description": "The Responsive App makes it easy to work with your organization’s data inside Codex.",
   "author": {
     "name": "RFPIO Inc. (d/b/a Responsive)",
     "url": "https://www.responsive.io"
@@ -12,13 +12,13 @@
   "apps": "./.app.json",
   "interface": {
     "displayName": "Responsive",
-    "shortDescription": "The Responsive App makes it easy to work with your organization\u2019s data inside Codex.",
-    "longDescription": "The Responsive App makes it easy to work with your organization\u2019s data inside Codex. Search your Content Library and generate responses so you can move faster with trusted information and without switching tools.",
+    "shortDescription": "Responsive 应用让你在 Codex 中轻松使用组织数据。",
+    "longDescription": "Responsive 应用让你在 Codex 中轻松使用组织数据。搜索内容库并生成回复，基于可信信息快速推进工作，无需切换工具。",
     "developerName": "RFPIO Inc. (d/b/a Responsive)",
     "category": "Productivity",
     "capabilities": [],
     "defaultPrompt": [
-      "Pull the relevant proposal content from Responsive"
+      "从 Responsive 提取相关提案内容"
     ],
     "screenshots": [],
     "websiteURL": "https://www.responsive.io",

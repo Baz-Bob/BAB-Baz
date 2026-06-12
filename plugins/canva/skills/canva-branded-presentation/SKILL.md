@@ -1,6 +1,6 @@
 ---
 name: canva-branded-presentation
-description: Create on-brand Canva presentations from a brief, outline, existing Canva doc, or design link. Use when the user wants a branded slide deck, wants to turn notes into a presentation, or needs a presentation generated in Canva with the right brand kit and a clear slide plan.
+description: "根据简报、大纲、现有 Canva 文档或设计链接，创建符合品牌规范的 Canva 演示文稿。适用于用户需要品牌化幻灯片、将笔记转换为演示文稿，或在 Canva 中用正确品牌套件生成带清晰幻灯片方案的演示文稿。"
 ---
 
 # Canva Branded Presentation

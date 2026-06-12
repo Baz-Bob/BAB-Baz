@@ -1,6 +1,6 @@
 ---
 name: sharepoint-word-docs
-description: Edit SharePoint-hosted Word `.docx` files while preserving document structure and styling. Use when the user wants to update a real Word document in SharePoint rather than summarize it as plain text.
+description: "编辑 SharePoint 托管的 Word `.docx` 文件，同时保留文档结构和样式。适用于用户希望更新 SharePoint 中真实 Word 文档（而非将其汇总为纯文本）的场景。"
 ---
 
 # SharePoint Word Docs

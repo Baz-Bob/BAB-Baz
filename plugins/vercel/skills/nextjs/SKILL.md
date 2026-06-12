@@ -1,6 +1,6 @@
 ---
 name: nextjs
-description: Next.js App Router expert guidance. Use when building, debugging, or architecting Next.js applications — routing, Server Components, Server Actions, Cache Components, layouts, middleware/proxy, data fetching, rendering strategies, and deployment on Vercel.
+description: "Next.js App Router 专家指南。在构建、调试或设计 Next.js 应用架构时使用——路由、Server Components、Server Actions、Cache Components、布局、中间件/代理、数据获取、渲染策略和 Vercel 部署。"
 metadata:
   priority: 5
   docs:

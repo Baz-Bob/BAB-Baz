@@ -1,11 +1,6 @@
 ---
 name: twilio-compliance-onboarding
-description: >
-  Registrations required BEFORE Twilio traffic works. Covers messaging
-  programs (A2P 10DLC, toll-free verification, WhatsApp WABA, RCS, short
-  code, alphanumeric sender) and voice trust programs (STIR/SHAKEN, Voice
-  Integrity, Branded Calling, CNAM). Each number/sender type has its own
-  program — registration blocks traffic until complete.
+description: "流量上线前必须完成的注册手续。涵盖消息合规项目（A2P 10DLC、免费电话号码验证、WhatsApp WABA、RCS、短码、字母数字发件人 ID）和语音信任项目（STIR/SHAKEN、Voice Integrity、品牌来电显示、CNAM）。每种号码/发件人类型都有各自的注册流程——注册完成前流量将被拦截。"
 ---
 
 ## Overview

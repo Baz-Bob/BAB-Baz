@@ -1,6 +1,6 @@
 {
   "name": "docusign",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Agreement envelopes, signing status, recipients, and contract dates",
   "author": {
     "name": "Docusign",
@@ -13,15 +13,15 @@
   "interface": {
     "displayName": "Docusign",
     "developerName": "Docusign",
-    "shortDescription": "Agreement envelopes, signing status, recipients, and contract dates",
-    "longDescription": "Agreement envelopes, signing status, recipients, and contract dates",
+    "shortDescription": "协议信封、签署状态、接收方与合同日期",
+    "longDescription": "协议信封、签署状态、接收方与合同日期",
     "category": "Productivity",
     "capabilities": [],
     "brandColor": "#FFCC00",
     "defaultPrompt": [
-      "Find DocuSign envelopes waiting on me and summarize what needs action.",
-      "Search for agreements with a customer and pull signing status, recipients, and key dates.",
-      "Review recently completed envelopes and extract renewal or obligation dates."
+      "找出 DocuSign 中等待我处理的信封，汇总待办事项。",
+      "搜索与某客户相关的协议，查看签署状态、接收方和关键日期。",
+      "查阅近期已完成的信封，提取续约或义务到期日期。"
     ],
     "screenshots": [],
     "composerIcon": "./assets/logo.png",

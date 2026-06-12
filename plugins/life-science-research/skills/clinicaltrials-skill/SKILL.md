@@ -1,6 +1,6 @@
 ---
 name: clinicaltrials-skill
-description: Submit compact ClinicalTrials.gov API v2 requests for study search, metadata, enums, search areas, and field statistics. Use when a user wants concise ClinicalTrials.gov summaries
+description: "向 ClinicalTrials.gov API v2 提交简洁请求，用于研究搜索、元数据、枚举值、搜索区域和字段统计。适用于需要简明 ClinicalTrials.gov 摘要的场景。"
 ---
 
 ## Operating rules

@@ -1,6 +1,6 @@
 ---
 name: gtex-eqtl-skill
-description: Fetch GTEx single-tissue eQTL associations from one variant input by accepting rsID, GRCh37, or GRCh38 input and resolving to the required GRCh38 query for the GTEx v2 API. Use when a user wants eQTL associations returned as JSON.
+description: "从单个变异体输入获取 GTEx 单组织 eQTL 关联，支持 rsID、GRCh37 或 GRCh38 输入，并自动解析为 GTEx v2 API 所需的 GRCh38 查询。适用于需要以 JSON 格式返回 eQTL 关联的场景。"
 ---
 
 # Operating rules

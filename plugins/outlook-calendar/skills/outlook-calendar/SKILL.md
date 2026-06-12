@@ -1,6 +1,6 @@
 ---
 name: outlook-calendar
-description: Handle Outlook Calendar workflows, including delegated/shared calendar writes. Use when the user asks for schedule understanding, availability checks, meeting scheduling, intelligent rescheduling, meeting prep, reminder updates, RSVP responses, recurring maintenance, travel coordination, deadline planning, or safe create, update, reschedule, respond, attach, delete, or cancel changes with timezone-aware event times and attendee validation.
+description: "处理 Outlook Calendar 工作流，包括委托/共享日历写入。适用于日程理解、空闲时段检查、会议安排、智能改期、会前准备、更新提醒、RSVP 回复、周期性维护、差旅协调、截止日期规划，以及含时区信息和与会者验证的创建、更新、改期、回复、附加、删除或取消活动等安全变更。"
 ---
 
 # Outlook Calendar

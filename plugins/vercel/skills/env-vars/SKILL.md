@@ -1,6 +1,6 @@
 ---
 name: env-vars
-description: Vercel environment variable expert guidance. Use when working with .env files, vercel env commands, OIDC tokens, or managing environment-specific configuration.
+description: "Vercel 环境变量专家指南。在处理 `.env` 文件、`vercel env` 命令、OIDC token，或管理特定环境配置时使用。"
 metadata:
   priority: 7
   docs:

@@ -1,6 +1,6 @@
 ---
 name: capture-tasks-from-meeting-notes
-description: "Analyze meeting notes to find action items and create Jira tasks for assigned work. When an agent needs to: (1) Create Jira tasks or tickets from meeting notes, (2) Extract or find action items from notes or Confluence pages, (3) Parse meeting notes for assigned tasks, or (4) Analyze notes and generate tasks for team members. Identifies assignees, looks up account IDs, and creates tasks with proper context."
+description: "分析会议记录，提取行动项并在 Jira 中为指定负责人创建任务。适用于：(1) 从会议记录创建 Jira 任务或工单，(2) 从笔记或 Confluence 页面提取行动项，(3) 解析会议记录中的待办事项，(4) 分析笔记并为团队成员生成任务。可识别负责人、查找账户 ID，并创建带完整上下文的任务。"
 ---
 
 # Capture Tasks from Meeting Notes

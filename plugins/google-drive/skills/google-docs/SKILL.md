@@ -1,6 +1,6 @@
 ---
 name: google-docs
-description: Connector-first Google Docs creation and editing in local Codex plugin sessions, with direct native create and batchUpdate workflows for simple docs, DOCX-first import for polished deliverables, target-document checks, smart chip and building-block reconstruction, connector-readback verification, and reference routing for formatting, citations, tables, and write-safety.
+description: "在本地 Codex 插件会话中以 connector 优先的方式创建和编辑 Google Docs，支持针对简单文档的原生 create 和 batchUpdate 工作流、面向精美交付物的 DOCX 导入、目标文档检查、智能芯片和构建块重建、connector 回读验证，以及格式化、引用、表格和写入安全的参考路由。"
 ---
 
 # Google Docs

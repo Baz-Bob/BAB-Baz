@@ -1,6 +1,6 @@
 ---
 name: "nemoclaw-user-get-started"
-description: "Installs NemoClaw, launches a sandbox, and runs the first agent prompt. Use when onboarding, installing, or launching a NemoClaw sandbox for the first time. Trigger keywords - nemoclaw quickstart, install nemoclaw openclaw sandbox, nemohermes quickstart, hermes agent nemoclaw, run hermes openshell sandbox, nemoclaw prerequisites, nemoclaw supported platforms, nemoclaw hardware software, nemoclaw windows wsl2 setup, nemoclaw install windows docker desktop."
+description: "安装 NemoClaw、启动沙箱并运行首个 Agent 提示词。适用于首次入门、安装或启动 NemoClaw 沙箱。触发关键词：nemoclaw quickstart、安装 nemoclaw openclaw 沙箱、nemohermes quickstart、hermes agent nemoclaw、运行 hermes openshell 沙箱、nemoclaw 前置要求、nemoclaw 支持平台、nemoclaw 硬件软件要求、nemoclaw Windows WSL2 配置、nemoclaw 在 Windows 上安装 Docker Desktop。"
 license: "Apache-2.0"
 ---
 # NemoClaw Quickstart with OpenClaw

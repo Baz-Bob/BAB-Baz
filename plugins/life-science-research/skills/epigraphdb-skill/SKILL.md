@@ -1,6 +1,6 @@
 ---
 name: epigraphdb-skill
-description: Submit compact EpiGraphDB API requests for ontology, literature, MR, gene-drug, and support-path evidence. Use when a user wants concise EpiGraphDB summaries
+description: "向 EpiGraphDB API 提交简洁请求，查询本体、文献、MR、基因-药物和支持路径证据。适用于需要简明 EpiGraphDB 摘要的场景。"
 ---
 
 ## Operating rules

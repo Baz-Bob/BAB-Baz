@@ -1,6 +1,6 @@
 ---
 name: hubspot
-description: Use when working with HubSpot CRM records to search, summarize, create, update, associate, or analyze objects and properties.
+description: "当需要搜索、汇总、创建、更新、关联或分析 HubSpot CRM 记录的对象与属性时使用。"
 ---
 
 # HubSpot

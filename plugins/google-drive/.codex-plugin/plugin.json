@@ -1,6 +1,6 @@
 {
   "name": "google-drive",
-  "version": "0.1.4",
+  "version": "0.1.6",
   "description": "Use Google Drive as the single entrypoint for Drive, Docs, Sheets, and Slides work.",
   "author": {
     "name": "OpenAI",
@@ -21,8 +21,8 @@
   "apps": "./.app.json",
   "interface": {
     "displayName": "Google Drive",
-    "shortDescription": "Work across Drive, Docs, Sheets, and Slides",
-    "longDescription": "Use Google Drive as one unified Google file plugin for search, file organization, sharing, and Google Docs, Google Sheets, and Google Slides workflows.",
+    "shortDescription": "跨 Drive、Docs、Sheets 和 Slides 协同工作",
+    "longDescription": "将 Google Drive 作为统一的 Google 文件插件，支持搜索、文件整理、共享，以及 Google Docs、Google Sheets 和 Google Slides 的完整工作流。",
     "developerName": "OpenAI",
     "category": "Productivity",
     "capabilities": [
@@ -35,7 +35,7 @@
     "privacyPolicyURL": "https://policies.google.com/privacy",
     "termsOfServiceURL": "https://policies.google.com/terms",
     "defaultPrompt": [
-      "Find the right Drive file, then summarize a Doc, update a Sheet, or edit a Slides deck"
+      "找到合适的 Drive 文件，然后摘要一份 Doc、更新一份 Sheet，或编辑一份 Slides 演示文稿"
     ],
     "brandColor": "#0F9D58",
     "screenshots": []

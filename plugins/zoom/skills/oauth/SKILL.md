@@ -1,6 +1,6 @@
 ---
 name: zoom-oauth
-description: Use when implementing OAuth.
+description: "实现 OAuth 时使用。"
 ---
 
 # Zoom OAuth

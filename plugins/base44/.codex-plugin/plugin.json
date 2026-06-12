@@ -1,6 +1,6 @@
 {
   "name": "base44",
-  "version": "1.0.1-beta.1",
+  "version": "1.0.2-beta.1",
   "description": "Build and deploy Base44 full-stack apps with CLI project management and JavaScript/TypeScript SDK development skills",
   "author": {
     "name": "base44",
@@ -9,24 +9,38 @@
   "homepage": "https://docs.base44.com",
   "repository": "https://github.com/base44/skills",
   "license": "MIT",
-  "keywords": ["base44", "full-stack", "sdk", "cli", "deployment", "entities", "backend-functions", "javascript", "typescript"],
+  "keywords": [
+    "base44",
+    "full-stack",
+    "sdk",
+    "cli",
+    "deployment",
+    "entities",
+    "backend-functions",
+    "javascript",
+    "typescript"
+  ],
   "skills": "./skills/",
   "apps": "./.app.json",
   "interface": {
     "displayName": "Base44",
-    "shortDescription": "Build and deploy Base44 full-stack apps from Codex",
-    "longDescription": "Build and deploy Base44 full-stack apps with Codex. Includes CLI project management, JavaScript/TypeScript SDK development, and production troubleshooting skills.",
+    "shortDescription": "在 Codex 中构建和部署 Base44 全栈应用",
+    "longDescription": "在 Codex 中构建和部署 Base44 全栈应用。包含 CLI 项目管理、JavaScript/TypeScript SDK 开发以及生产问题排查技能。",
     "developerName": "base44",
     "category": "Developer Tools",
-    "capabilities": ["Interactive", "Read", "Write"],
+    "capabilities": [
+      "Interactive",
+      "Read",
+      "Write"
+    ],
     "websiteURL": "https://base44.com",
     "defaultPrompt": [
-      "Create a new Base44 app and deploy it.",
-      "Build a feature in my existing Base44 app.",
-      "Debug errors from my Base44 backend functions."
+      "创建一个新的 Base44 应用并部署。",
+      "在现有 Base44 应用中构建一个新功能。",
+      "排查 Base44 后端函数的报错。"
     ],
-    "composerIcon": "./assets/base44-logo.png",
-    "logo": "./assets/base44-logo.png",
+    "composerIcon": "./assets/logo-padded.png",
+    "logo": "./assets/logo-padded.png",
     "screenshots": []
   }
 }

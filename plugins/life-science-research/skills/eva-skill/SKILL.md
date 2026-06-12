@@ -1,6 +1,6 @@
 ---
 name: eva-skill
-description: Submit compact EVA REST requests for species metadata and archived variant lookups. Use when a user wants concise European Variation Archive summaries
+description: "向 EVA REST 提交简洁请求，查询物种元数据和已归档的变异体。适用于需要简明 European Variation Archive 摘要的场景。"
 ---
 
 ## Operating rules

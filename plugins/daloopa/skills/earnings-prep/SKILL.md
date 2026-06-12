@@ -1,6 +1,6 @@
 ---
 name: earnings-prep
-description: Pre-earnings preparation report for the night before a company reports
+description: "财报发布前夜的预备报告"
 ---
 
 Generate a pre-earnings preparation report for the company specified by the user named in the user's request. If no ticker or company is provided, ask for one before proceeding.

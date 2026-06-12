@@ -1,6 +1,6 @@
 ---
 name: ai-generation-persistence
-description: "AI generation persistence patterns — unique IDs, addressable URLs, database storage, and cost tracking for every LLM generation"
+description: "AI 生成内容持久化模式——为每次 LLM 生成提供唯一 ID、可寻址 URL、数据库存储和成本追踪"
 metadata:
   priority: 6
   docs:

@@ -1,6 +1,6 @@
 ---
 name: choose-zoom-approach
-description: Use when choosing architecture.
+description: "选择架构方案时使用。"
 ---
 
 # Choose Zoom Approach

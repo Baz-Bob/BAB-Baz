@@ -1,6 +1,6 @@
 ---
 name: finding-discovery
-description: Use when Codex is already in the finding-discovery phase of a security scan or the user explicitly asks to discover candidate security findings in a repository or code change. Do not use as the primary trigger for full PR, commit, branch, patch, or repository scans.
+description: "当 Codex 已处于安全扫描的发现阶段，或用户明确要求在仓库或代码变更中发现候选安全问题时使用。不作为完整 PR、提交、分支、补丁或仓库扫描的主触发器。"
 metadata:
   short-description: Discover security findings
 ---

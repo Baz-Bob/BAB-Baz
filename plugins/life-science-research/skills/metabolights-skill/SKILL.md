@@ -1,6 +1,6 @@
 ---
 name: metabolights-skill
-description: Submit compact MetaboLights requests for study discovery and study-level metabolomics metadata. Use when a user wants concise MetaboLights summaries
+description: "向 MetaboLights 提交简洁请求，用于研究发现和研究级代谢组学元数据。适用于需要简明 MetaboLights 摘要的场景。"
 ---
 
 ## Operating rules

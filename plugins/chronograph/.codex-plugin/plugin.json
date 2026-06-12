@@ -1,6 +1,6 @@
 {
   "name": "chronograph",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Private capital portfolio monitoring, fund metrics, and company updates",
   "author": {
     "name": "Chronograph",
@@ -14,18 +14,18 @@
   "apps": "./.app.json",
   "interface": {
     "displayName": "Chronograph",
-    "shortDescription": "Private capital portfolio monitoring, fund metrics, and company updates",
-    "longDescription": "Private capital portfolio monitoring, fund metrics, and company updates",
+    "shortDescription": "私人资本投资组合监控、基金指标及公司动态",
+    "longDescription": "私人资本投资组合监控、基金指标及公司动态",
     "developerName": "Chronograph",
-    "category": "Financial Markets",
+    "category": "Finance",
     "capabilities": [],
     "websiteURL": "https://www.chronograph.pe",
     "privacyPolicyURL": "https://www.chronograph.pe/privacy-policy",
     "termsOfServiceURL": "https://www.chronograph.pe/terms-of-service",
     "defaultPrompt": [
-      "Find Chronograph portfolio updates and summarize key performance changes.",
-      "Pull Chronograph fund metrics for this quarter and highlight risks.",
-      "Compare Chronograph portfolio KPIs and flag outliers."
+      "查找 Chronograph 投资组合最新动态并汇总关键绩效变化。",
+      "拉取本季度的 Chronograph 基金指标并标出主要风险点。",
+      "对比 Chronograph 投资组合的 KPI 并标出异常项。"
     ],
     "brandColor": "#414B4B",
     "composerIcon": "./assets/logo.png",

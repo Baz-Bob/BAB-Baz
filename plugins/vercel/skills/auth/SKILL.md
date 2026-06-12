@@ -1,6 +1,6 @@
 ---
 name: auth
-description: Authentication integration guidance — Clerk (native Vercel Marketplace), Descope, and Auth0 setup for Next.js applications. Covers middleware auth patterns, sign-in/sign-up flows, and Marketplace provisioning. Use when implementing user authentication.
+description: "身份验证集成指南——面向 Next.js 应用的 Clerk（Vercel Marketplace 原生）、Descope 和 Auth0 配置。涵盖中间件认证模式、登录/注册流程和 Marketplace 配置。在实现用户身份验证时使用。"
 metadata:
   priority: 6
   docs:

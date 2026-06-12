@@ -1,10 +1,6 @@
 ---
 name: twilio-whatsapp-manage-senders
-description: >
-  Create, configure, and manage WhatsApp Business senders via Twilio's
-  Channels Senders API. Covers programmatic sender registration, profile setup,
-  webhook configuration, sender lifecycle statuses, and ISV flows. Use this
-  skill to register and manage production WhatsApp senders at scale.
+description: "通过 Twilio Channels Senders API 创建、配置和管理 WhatsApp 商业发件人。涵盖编程式发件人注册、资料配置、Webhook 配置、发件人生命周期状态，以及 ISV 流程。适用于大规模注册和管理生产环境 WhatsApp 发件人的场景。"
 ---
 
 ## Overview

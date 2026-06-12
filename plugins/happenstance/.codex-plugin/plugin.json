@@ -1,6 +1,6 @@
 {
   "name": "happenstance",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Happenstance searches your professional network using natural language to find the right people.",
   "author": {
     "name": "Happenstance, Inc.",
@@ -12,13 +12,13 @@
   "apps": "./.app.json",
   "interface": {
     "displayName": "Happenstance",
-    "shortDescription": "Happenstance searches your professional network using natural language to find the right people.",
-    "longDescription": "Happenstance searches your professional network using natural language to find the right people. Results surface mutual connections and rank by relationship strength, helping you find the warmest intro path. Deep research anyone to get comprehensive profiles with career history and expertise. Ideal for sales, recruiting, venture capital, and business development.",
+    "shortDescription": "Happenstance 通过自然语言搜索你的职业人脉，帮你找到合适的人。",
+    "longDescription": "Happenstance 通过自然语言搜索你的职业人脉，帮你找到合适的人。搜索结果会显示共同联系人并按关系强度排序，帮你找到最热络的引荐路径。对任何人进行深度调研，获取包含职业经历和专业背景的完整档案。适用于销售、招聘、风险投资和商业拓展场景。",
     "developerName": "Happenstance, Inc.",
     "category": "Productivity",
     "capabilities": [],
     "defaultPrompt": [
-      "Check whether Happenstance has relevant contact context"
+      "查看 Happenstance 中是否有相关联系人背景信息"
     ],
     "screenshots": [],
     "websiteURL": "https://happenstance.ai",

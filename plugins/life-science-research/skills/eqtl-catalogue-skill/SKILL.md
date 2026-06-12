@@ -1,6 +1,6 @@
 ---
 name: eqtl-catalogue-skill
-description: Submit compact eQTL Catalogue API requests for association retrieval and documented metadata endpoints. Use when a user wants concise public eQTL Catalogue summaries
+description: "向 eQTL Catalogue API 提交简洁请求，用于关联检索和已记录的元数据端点。适用于需要简明公开 eQTL Catalogue 摘要的场景。"
 ---
 
 ## Operating rules

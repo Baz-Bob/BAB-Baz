@@ -1,6 +1,6 @@
 ---
 name: ngs-epigenomics-peaks
-description: Dispatch ATAC-seq, ChIP-seq, CUT&RUN, or CUT&Tag requests to assay-specific QC, alignment, signal-track, peak-calling, consensus, and differential peak workflows.
+description: "将 ATAC-seq、ChIP-seq、CUT&RUN 或 CUT&Tag 请求分发到检测类型特定的 QC、比对、信号轨迹、peak calling、共识和差异 peak 工作流。"
 ---
 
 # Epigenomics Peaks

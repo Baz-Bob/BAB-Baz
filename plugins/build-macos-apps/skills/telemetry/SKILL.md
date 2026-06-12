@@ -1,6 +1,6 @@
 ---
 name: telemetry
-description: Add and verify lightweight macOS runtime telemetry. Use when wiring Logger events or inspecting logs for windows, sidebars, menus, and actions.
+description: "为 macOS 添加并验证轻量级运行时遥测。适用于接入 Logger 事件，或检查窗口、侧边栏、菜单和操作的日志的场景。"
 ---
 
 # Telemetry

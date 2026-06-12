@@ -1,12 +1,6 @@
 ---
 name: twilio-email-send
-description: >
-  Use when the caller has Twilio credentials (Account SID + Auth Token or
-  API Key SID + Secret) and needs to send email via comms.twilio.com/v1/Emails.
-  This is Twilio-native email — NOT SendGrid. Do NOT use if the caller has a
-  SendGrid API key (SG.-prefix) — use twilio-sendgrid-email-send instead.
-  Covers single sends, batch sends up to 10,000 recipients, Liquid
-  personalization, operation tracking, and error handling.
+description: "适用于调用者拥有 Twilio 凭据（Account SID + Auth Token 或 API Key SID + Secret），需要通过 comms.twilio.com/v1/Emails 发送邮件的场景。这是 Twilio 原生邮件——不是 SendGrid。若调用者拥有 SendGrid API Key（SG. 前缀），请使用 twilio-sendgrid-email-send，不要使用此技能。涵盖单次发送、最多 10,000 名收件人的批量发送、Liquid 个性化、操作跟踪，以及错误处理。"
 ---
 
 ## Overview

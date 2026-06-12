@@ -1,6 +1,6 @@
 ---
 name: geist
-description: Expert guidance for Geist, Vercel's default typography system and font family for precise Next.js interfaces. Use when configuring Geist Sans, Geist Mono, or Geist Pixel, setting up font imports, or applying Vercel typography and aesthetic guidance.
+description: "Geist 专家指南——Vercel 的默认字体排版系统和字体系列，用于精准的 Next.js 界面。在配置 Geist Sans、Geist Mono 或 Geist Pixel、设置字体导入，或应用 Vercel 排版和美学指南时使用。"
 metadata:
   priority: 4
   docs:

@@ -1,6 +1,6 @@
 ---
 name: gmail
-description: Manage Gmail inbox triage, mailbox search, thread summaries, action extraction, reply drafting, and email forwarding through connected Gmail data. Use when the user wants to inspect a mailbox or thread, search email with Gmail query syntax, summarize messages, extract decisions and follow-ups, prepare replies or forwarded messages, or organize messages with explicit confirmation before send, archive, delete, or label actions.
+description: "通过已连接的 Gmail 数据，管理收件箱分类、邮箱搜索、会话摘要、行动项提取、回复起草和邮件转发。适用于查看邮箱或会话、用 Gmail 查询语法搜索邮件、汇总邮件内容、提取决策和后续事项、起草回复或转发邮件，以及在明确确认后执行发送、归档、删除或标记操作。"
 ---
 
 # Gmail
@@ -27,6 +27,7 @@ Use this skill to turn noisy email threads into clear summaries, action lists, a
 | --- | --- |
 | Search planning, refinement, pagination, and body-fetch strategy | [references/search-workflow.md](./references/search-workflow.md) |
 | Label application, relabeling, and label-based cleanup | [references/label-actions.md](./references/label-actions.md) |
+| Self-delivery requests such as "email me," "send this to me," or automation delivery | [references/self-delivery.md](./references/self-delivery.md) |
 | Reply drafting, reply-all decisions, and tone matching | [references/reply-workflow.md](./references/reply-workflow.md) |
 | Email forwarding, context notes, and intent framing | [references/forward-workflow.md](./references/forward-workflow.md) |
 

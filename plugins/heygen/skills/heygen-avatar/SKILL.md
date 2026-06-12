@@ -1,24 +1,7 @@
 ---
 version: 3.1.0 # x-release-please-version
 name: heygen-avatar
-description: |
-  Create a persistent HeyGen avatar — a reusable face + voice identity for the agent,
-  the user, or any named character — powered by HeyGen Avatar V technology.
-  Prompt-based creation by default (description → HeyGen builds it); photo upload is
-  optional for real-person digital twins.
-  Use when: (1) giving the agent a face + voice so it can present videos
-  ("bring yourself to life", "create your avatar", "give yourself an avatar",
-  "design a presenter", "set up an avatar", "let's make an avatar"),
-  (2) the user wants to appear in videos as themselves ("create my avatar",
-  "I want my face in a video", "digital twin of me", "build me an avatar"),
-  (3) building a named character presenter ("create an avatar called Cleo",
-  "design a character named X"), (4) establishing HeyGen identity before making videos —
-  the correct FIRST step when no avatar exists yet.
-  Chain signal: when the user says both an identity/avatar action AND a video action in the same
-  request ("create an avatar AND make a video", "set up identity THEN create a video",
-  "design a presenter AND immediately record"), run heygen-avatar first, then heygen-video.
-  Returns avatar_id + voice_id — pass directly to heygen-video to create HeyGen videos.
-  NOT for: generating videos (use heygen-video), translating videos, or TTS-only tasks.
+description: "基于 HeyGen Avatar V 技术，创建持久化 HeyGen 虚拟形象——为智能体、用户或任意命名角色生成可复用的面孔与声音。默认通过文字描述创建（描述 → HeyGen 自动生成）；可选上传照片以制作真人数字分身。适用场景：(1) 给智能体赋予面孔和声音，使其能出镜演示视频（「让自己活起来」、「创建我的形象」、「给自己加个虚拟形象」、「设计一个主播」、「建立我的数字分身」）；(2) 用户希望以本人形象出现在视频中（「创建我的形象」、「我想在视频里露脸」、「我的数字分身」、「帮我建形象」）；(3) 构建命名角色主播（「创建一个叫 Cleo 的形象」、「设计一个叫 X 的角色」）；(4) 在制作视频前先建立 HeyGen 身份——当尚无形象时，这是正确的第一步。链式信号：当用户在同一请求中同时提及身份/形象操作和视频操作时（「创建形象并制作视频」、「建立身份然后录视频」、「设计主播同时立即录制」），先运行 heygen-avatar，再运行 heygen-video。返回 avatar_id + voice_id，可直接传给 heygen-video 用于制作视频。不适用于：生成视频（使用 heygen-video）、翻译视频或纯 TTS 任务。参数提示：[名称或描述]"
 argument-hint: "[name_or_description]"
 ---
 

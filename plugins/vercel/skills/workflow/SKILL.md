@@ -1,6 +1,6 @@
 ---
 name: workflow
-description: Vercel Workflow DevKit (WDK) expert guidance. Use when building durable workflows, long-running tasks, API routes or agents that need pause/resume, retries, step-based execution, or crash-safe orchestration with Vercel Workflow.
+description: "Vercel Workflow DevKit（WDK）专家指南。在构建持久化工作流、长时间运行任务、需要暂停/恢复、重试、基于步骤执行或崩溃安全编排的 API 路由或智能体时使用。"
 metadata:
   priority: 9
   docs:

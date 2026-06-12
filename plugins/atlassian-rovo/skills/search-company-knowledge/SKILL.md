@@ -1,6 +1,6 @@
 ---
 name: search-company-knowledge
-description: "Search across company knowledge bases (Confluence, Jira, internal docs) to find and explain internal concepts, processes, and technical details. When an agent needs to: (1) Find or search for information about systems, terminology, processes, deployment, authentication, infrastructure, architecture, or technical concepts, (2) Search internal documentation, knowledge base, company docs, or our docs, (3) Explain what something is, how it works, or look up information, or (4) Synthesize information from multiple sources. Searches in parallel and provides cited answers."
+description: "跨公司知识库（Confluence、Jira、内部文档）检索，查找并解释内部概念、流程和技术细节。适用于：(1) 查找系统、术语、流程、部署、身份验证、基础设施、架构或技术概念相关信息，(2) 搜索内部文档、知识库或公司文档，(3) 解释某件事是什么、如何运作，或查询相关信息，(4) 综合多来源信息。并行搜索并提供带引用的答案。"
 ---
 
 # Search Company Knowledge

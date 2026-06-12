@@ -1,6 +1,6 @@
 {
   "name": "quicknode",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Manage your Quicknode infrastructure directly in OpenAI.",
   "author": {
     "name": "Quicknode",
@@ -12,13 +12,13 @@
   "apps": "./.app.json",
   "interface": {
     "displayName": "Quicknode",
-    "shortDescription": "Manage your Quicknode infrastructure directly in OpenAI.",
-    "longDescription": "Manage your Quicknode infrastructure directly in OpenAI. Create and manage endpoints, monitor logs and usage, configure security and rate limits, and review billing from one conversation.",
+    "shortDescription": "直接在 OpenAI 中管理你的 Quicknode 基础设施。",
+    "longDescription": "直接在 OpenAI 中管理你的 Quicknode 基础设施。在一个对话中即可创建和管理端点、监控日志与用量、配置安全策略和速率限制，以及查看账单信息。",
     "developerName": "Quicknode",
     "category": "Developer Tools",
     "capabilities": [],
     "defaultPrompt": [
-      "Use QuickNode to inspect the relevant chain data"
+      "用 QuickNode 查询相关链上数据"
     ],
     "screenshots": [],
     "websiteURL": "https://www.quicknode.com/",

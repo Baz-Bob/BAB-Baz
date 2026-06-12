@@ -1,6 +1,6 @@
 ---
 name: airtable-overview
-description: Explains what Airtable is and how data is structured — bases, tables, fields, records, views, automations, and interfaces. Use when you need context about the Airtable data model.
+description: "解释 Airtable 是什么以及数据的组织方式——包括 base、表、字段、记录、视图、自动化和界面。当需要了解 Airtable 数据模型的背景信息时使用。"
 license: MIT
 metadata:
   version: '1.0.0'

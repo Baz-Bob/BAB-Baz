@@ -1,6 +1,6 @@
 ---
 name: scrna-seq-qc
-description: Process, quality-control, annotate, and visualize single-cell or single-nucleus RNA-seq datasets across tissues and species. Use when Codex needs to build, adapt, or review a general scRNA-seq QC pipeline; choose dataset-appropriate cell-level filters from QC distributions; run required scDblFinder-based doublet and ambient-RNA filtering; annotate cells with matched references or marker-based fallbacks; or generate global and per-group UMAP visualizations for large scRNA-seq datasets.
+description: "处理、质控、注释和可视化跨组织和物种的单细胞或单核 RNA-seq 数据集。适用于构建、调整或审查通用 scRNA-seq QC 流程；根据 QC 分布选择合适的细胞级过滤参数；运行基于 scDblFinder 的双细胞和环境 RNA 过滤；使用匹配参考或基于 marker 的方案注释细胞；以及为大规模 scRNA-seq 数据集生成全局和分组 UMAP 可视化。"
 ---
 
 # scRNA-seq QC

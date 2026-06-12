@@ -1,6 +1,6 @@
 ---
 name: v0-dev
-description: v0 by Vercel expert guidance. Use when discussing AI code generation, generating UI components from prompts, v0 CLI usage, v0 SDK/API integration, or integrating v0 into development workflows with GitHub and Vercel deployment.
+description: "v0 by Vercel 专家指南。在讨论 AI 代码生成、从提示生成 UI 组件、使用 v0 CLI、集成 v0 SDK/API，或将 v0 与 GitHub 和 Vercel 部署的开发工作流结合时使用。"
 metadata:
   priority: 5
   docs:

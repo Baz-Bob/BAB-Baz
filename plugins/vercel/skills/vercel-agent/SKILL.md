@@ -1,6 +1,6 @@
 ---
 name: vercel-agent
-description: Vercel Agent guidance — AI-powered code review, incident investigation, and SDK installation. Automates PR analysis and anomaly debugging. Use when configuring or understanding Vercel's AI development tools.
+description: "Vercel Agent 指南——AI 驱动的代码审查、事件调查和 SDK 安装。自动化 PR 分析和异常调试。在配置或了解 Vercel 的 AI 开发工具时使用。"
 metadata:
   priority: 4
   docs:

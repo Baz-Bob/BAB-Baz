@@ -1,6 +1,6 @@
 ---
 name: efo-ontology-skill
-description: Submit compact EFO OLS4 requests for search, term lookup, children, and descendants. Use when a user wants concise EFO resolution or ontology-expansion summaries
+description: "向 EFO OLS4 提交简洁请求，用于搜索、词条查询、子项和后代查询。适用于需要简明 EFO 解析或本体扩展摘要的场景。"
 ---
 
 ## Operating rules

@@ -1,6 +1,6 @@
 ---
 name: clinvar-variation-skill
-description: Submit compact ClinVar Clinical Tables and NCBI Variation requests for search, VCV, RCV, SCV, and RefSNP lookups. Use when a user wants variant-level summaries or identifier mapping
+description: "向 ClinVar Clinical Tables 和 NCBI Variation 提交简洁请求，用于搜索、VCV、RCV、SCV 和 RefSNP 查询。适用于需要变异体级别摘要或标识符映射的场景。"
 ---
 
 ## Operating rules

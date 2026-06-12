@@ -1,6 +1,6 @@
 ---
 name: omniverse-cad-to-simready
-description: "Coordinate the end-to-end CAD/source-asset to SimReady workflow. Use for broad requests such as CAD to SimReady, source asset to simulation-ready USD, or prop packaging that require conversion, material/physics assignment, SimReady conformance, validation, and optional package creation; deploy or verify Content Agents services first when property assignment is enabled; route single-stage work through nested references."
+description: "统筹从 CAD/源资产到 SimReady 的端到端流程。适用于「CAD 转 SimReady」「源资产转可仿真 USD」「道具打包」等宽泛需求——涉及转换、材质/物理属性赋值、SimReady 合规、校验,以及可选的打包;启用属性赋值时先部署或核验 Content Agents 服务;单阶段任务通过嵌套引用路由。"
 version: "0.1.0"
 license: Apache-2.0
 tools:

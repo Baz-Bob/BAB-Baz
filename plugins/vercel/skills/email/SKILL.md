@@ -1,6 +1,6 @@
 ---
 name: email
-description: Email sending integration guidance — Resend (native Vercel Marketplace) with React Email templates. Covers API setup, transactional emails, domain verification, and template patterns. Use when sending emails from a Vercel-deployed application.
+description: "邮件发送集成指南——配合 React Email 模板使用的 Resend（Vercel Marketplace 原生）。涵盖 API 设置、事务邮件、域名验证和模板模式。在 Vercel 部署的应用中发送邮件时使用。"
 metadata:
   priority: 4
   docs:

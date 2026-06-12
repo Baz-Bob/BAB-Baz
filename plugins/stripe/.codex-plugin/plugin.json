@@ -1,6 +1,6 @@
 {
   "name": "stripe",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Payments and business tools",
   "author": {
     "name": "Stripe",
@@ -15,16 +15,16 @@
   "interface": {
     "displayName": "Stripe",
     "developerName": "Stripe",
-    "shortDescription": "Payments and business tools",
-    "longDescription": "Payments and business tools",
-    "category": "Productivity",
+    "shortDescription": "支付与商业工具",
+    "longDescription": "支付与商业工具",
+    "category": "Finance",
     "capabilities": [],
     "websiteURL": "https://stripe.com",
     "privacyPolicyURL": "https://stripe.com/privacy",
     "termsOfServiceURL": "https://stripe.com/legal/ssa",
     "brandColor": "#635BFF",
     "defaultPrompt": [
-      "Use Stripe to help with this task"
+      "使用 Stripe 协助完成此任务"
     ],
     "screenshots": [],
     "composerIcon": "./assets/app-icon.png",

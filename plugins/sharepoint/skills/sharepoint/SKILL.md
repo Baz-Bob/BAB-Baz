@@ -1,6 +1,6 @@
 ---
 name: sharepoint
-description: Inspect Microsoft SharePoint context, discover the right site or library, and prepare safe changes. Use when the user wants site, page, or file review, ownership and status extraction, or change planning before editing content, navigation, or information architecture.
+description: "查看 Microsoft SharePoint 上下文，发现正确的站点或文档库，并准备安全变更。适用于站点、页面或文件审查，提取所有者和状态，以及在编辑内容、导航或信息架构之前规划变更。"
 ---
 
 # SharePoint

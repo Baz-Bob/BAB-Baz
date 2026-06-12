@@ -1,6 +1,6 @@
 ---
 name: inflection
-description: Auto-detect biggest acceleration/deceleration inflections across all
+description: "自动检测所有指标中最显著的加速或减速拐点"
   metrics
 ---
 

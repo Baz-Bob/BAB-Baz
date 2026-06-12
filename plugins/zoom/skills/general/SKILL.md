@@ -1,6 +1,6 @@
 ---
 name: zoom-general
-description: Use when comparing products.
+description: "对比各产品时使用。"
 ---
 
 # Zoom General

@@ -1,6 +1,6 @@
 ---
 name: shopify-onboarding-dev
-description: "Get started building on Shopify. Use when a developer asks to build an app, build a theme, create a dev store, set up a partner account, scaffold a project, or get started developing for Shopify. NOT for merchants managing stores."
+description: "开始在 Shopify 上开发。适用于开发者询问构建应用、构建主题、创建开发店铺、注册合作伙伴账号、脚手架项目或入门 Shopify 开发。不适用于管理店铺的商家。"
 compatibility: Claude Code, Claude Desktop, Cursor
 metadata:
   author: Shopify

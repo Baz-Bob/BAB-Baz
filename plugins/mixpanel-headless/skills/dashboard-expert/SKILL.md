@@ -1,12 +1,6 @@
 ---
 name: dashboard-expert
-description: >-
-  Full CRUD and analysis for Mixpanel dashboards. Use when the user asks to
-  build, create, analyze, read, understand, explain, modify, update, enhance,
-  or manage dashboards, or asks about dashboard layout, text cards, or report
-  arrangement. Covers dashboard analysis (read + understand existing), creation
-  (new builds), modification (update existing), and explanation (data-driven
-  annotation).
+description: "Mixpanel 仪表板的完整增删改查与分析能力。当用户请求构建、创建、分析、读取、理解、解释、修改、更新、增强或管理仪表板，或询问仪表板布局、文字卡片或报表排列时触发。涵盖仪表板分析（读取并理解现有内容）、创建（新建）、修改（更新现有内容）和解释（数据驱动的注释说明）。允许工具：Bash Read Write"
 allowed-tools: Bash Read Write
 ---
 

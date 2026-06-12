@@ -1,6 +1,6 @@
 ---
 name: android-performance
-description: Gather and interpret Android performance evidence on an adb target using Simpleperf CPU profiles, Perfetto or Compose traces, gfxinfo frame data, dumpsys meminfo snapshots, Java heap dumps, and native allocation traces. Use when asked to profile an Android app flow, find CPU-heavy functions, diagnose jank, capture startup or frame timing evidence, compare before/after performance, explain what code is taking time, or gather memory/leak profiling artifacts.
+description: "在 adb 目标设备上使用 Simpleperf CPU 剖析、Perfetto 或 Compose trace、gfxinfo 帧数据、dumpsys meminfo 快照、Java 堆转储和原生分配 trace 采集并分析 Android 性能证据。适用于需要对 Android 应用流程进行性能剖析、定位 CPU 密集型函数、诊断卡顿、采集启动或帧时序证据、对比前后性能、解释耗时代码，或采集内存/泄漏分析产物的场景。"
 ---
 
 # Android Performance

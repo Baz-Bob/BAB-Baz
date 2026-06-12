@@ -1,6 +1,6 @@
 ---
 name: openai-platform-api-key
-description: 'Use when Codex is asked to build, run, test, debug, or configure an OpenAI-backed or provider-unspecified AI app, UI, script, CLI, generator, or tool, especially requests phrased only as "using AI" or generators driven by forms/user input; also use for OPENAI_API_KEY or sk-proj setup. Treat this as the credential gate: inspect safely, ask reuse-vs-new before API work, and never expose plaintext.'
+description: "当 Codex 被要求构建、运行、测试、调试或配置基于 OpenAI 或未指定提供商的 AI 应用、UI、脚本、CLI、生成器或工具时使用，尤其是仅描述为「使用 AI」或由表单/用户输入驱动的生成器；也适用于 OPENAI_API_KEY 或 sk-proj 的配置。将其作为凭据入口：安全检查现有密钥，在进行 API 操作前询问是否复用还是新建，绝不暴露明文密钥。"
 ---
 
 # OpenAI API Key

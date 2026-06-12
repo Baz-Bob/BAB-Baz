@@ -1,6 +1,6 @@
 ---
 name: deepnote-links
-description: Use when a task asks for Deepnote URLs, links, project links, notebook links, workspace links, share links, UTM/campaign links, or when a Deepnote response should include clickable links built from Deepnote app project, notebook, or workspace data.
+description: "适用于任务需要 Deepnote URL、链接、项目链接、笔记本链接、工作区链接、共享链接、UTM/推广链接，或需要在 Deepnote 响应中包含基于 Deepnote 应用项目、笔记本或工作区数据构建的可点击链接的场景。"
 ---
 
 # Deepnote Links

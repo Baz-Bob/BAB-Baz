@@ -1,6 +1,6 @@
 ---
 name: improve-skill
-description: Turn plugin-eval findings into a concrete rewrite brief for a Codex skill. Use when the user already evaluated a skill and now wants Codex to improve it, especially after asking what to fix first.
+description: "将 plugin-eval 的评估结果转化为具体的 Codex 技能重写方案。适用于用户已完成技能评估、希望 Codex 帮助改进，尤其是在问完「先修什么」之后。"
 ---
 
 # Improve Skill

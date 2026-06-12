@@ -1,6 +1,6 @@
 ---
 name: chronograph-cashflow-forecast
-description: Forecast private capital cashflows for existing portfolios using Chronograph MCP data and a Takahashi-Alexander style model. Use when Codex needs to analyze or forecast LP-level contributions, distributions, NAV, unfunded exposure, net cashflows, or Excel-style cashflow forecast outputs from existing Chronograph funds, commitments, groups, or portfolios.
+description: "使用 Chronograph MCP 数据和 Takahashi-Alexander 风格模型，对现有投资组合的私人资本现金流进行预测。当 Codex 需要分析或预测 LP 级别的出资、分配、NAV、未出资敞口、净现金流，或从现有 Chronograph 基金、承诺、分组或投资组合中输出 Excel 风格的现金流预测时使用。"
 ---
 
 # Chronograph Cashflow Forecast

@@ -1,6 +1,6 @@
 ---
 name: build-zoom-team-chat-app
-description: Use when building Team Chat.
+description: "构建 Team Chat 应用时使用。"
 ---
 
 # Build Zoom Team Chat App

@@ -1,6 +1,6 @@
 {
   "name": "datadog",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Investigate Datadog telemetry and workflows from Codex",
   "author": {
     "name": "Datadog",
@@ -13,18 +13,21 @@
   "apps": "./.app.json",
   "interface": {
     "displayName": "Datadog (Preview)",
-    "shortDescription": "Investigate logs, metrics, traces, and incidents",
-    "longDescription": "Analyze, investigate, and act on your Datadog telemetry directly from Codex using natural language. Ask questions about your production applications, identify, visualize, and remediate issues in your critical services. Run agentic loops to ensure you continue to maintain good observability and service management posture.",
+    "shortDescription": "排查日志、指标、追踪与事故",
+    "longDescription": "直接在 Codex 中用自然语言分析和处理 Datadog 遥测数据。查询生产应用状态、定位和可视化关键服务问题并快速修复。通过 agentic 循环持续维护良好的可观测性与服务管理态势。",
     "developerName": "Datadog",
     "category": "Developer Tools",
-    "capabilities": ["Interactive", "Writes"],
+    "capabilities": [
+      "Interactive",
+      "Writes"
+    ],
     "websiteURL": "https://www.datadoghq.com/",
     "privacyPolicyURL": "https://www.datadoghq.com/legal/privacy/",
     "termsOfServiceURL": "https://www.datadoghq.com/legal/terms/",
     "defaultPrompt": [
-      "What are the top errors in my services? Include links and widgets.",
-      "What monitors are alerting right now for my team's services?",
-      "How does the p99 latency for services with the most traffic compare to what we usually see? Provide evidence"
+      "我的服务中排名靠前的错误有哪些？请附上链接和图表。",
+      "当前我的团队服务中有哪些监控器正在告警？",
+      "流量最大的服务 p99 延迟与历史水平相比如何？请提供数据依据。"
     ],
     "brandColor": "#632CA6",
     "composerIcon": "./assets/app-icon.png",

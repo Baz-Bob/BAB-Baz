@@ -1,6 +1,6 @@
 ---
 name: rnacentral-skill
-description: Submit compact RNAcentral API requests for RNA entry browsing, single-entry lookup, and cross-reference retrieval. Use when a user wants concise RNAcentral summaries
+description: "向 RNAcentral API 提交简洁请求，用于 RNA 条目浏览、单条目查询和交叉引用检索。适用于需要简明 RNAcentral 摘要的场景。"
 ---
 
 ## Operating rules

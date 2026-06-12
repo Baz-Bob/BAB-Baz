@@ -1,6 +1,6 @@
 ---
 name: unit-economics
-description: Bottoms-up unit economics decomposition for any public company
+description: "任意上市公司的自下而上单位经济模型拆解"
 ---
 
 Perform a bottoms-up unit economics decomposition for the company named in the user's request. If no ticker or company is provided, ask for one before proceeding.

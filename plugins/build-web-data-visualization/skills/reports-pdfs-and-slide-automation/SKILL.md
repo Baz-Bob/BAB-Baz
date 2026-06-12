@@ -1,6 +1,6 @@
 ---
 name: reports-pdfs-and-slide-automation
-description: Lay out and export data-rich reports and documents. Use when the user needs report structure, figure packaging, PDFs, PowerPoint or Google Slides automation, or programmatic insertion of visualizations, UML-like diagrams, or architecture diagrams into documents.
+description: "排版并导出数据丰富的报告和文档。适用于需要报告结构、图形打包、PDF、PowerPoint 或 Google Slides 自动化，或以编程方式将可视化内容、类 UML 图或架构图插入文档的场景。"
 ---
 
 # Reports, PDFs, and Slide Automation

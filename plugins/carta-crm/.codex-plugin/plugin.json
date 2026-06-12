@@ -1,6 +1,6 @@
 {
   "name": "carta-crm",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Carta CRM helps investment teams stay on top of deal flow by keeping deals, companies, and relationships in...",
   "author": {
     "name": "Carta Inc.",
@@ -12,13 +12,13 @@
   "apps": "./.app.json",
   "interface": {
     "displayName": "Carta CRM",
-    "shortDescription": "Carta CRM helps investment teams stay on top of deal flow by keeping deals, companies, and relationships in...",
-    "longDescription": "Carta CRM helps investment teams stay on top of deal flow by keeping deals, companies, and relationships in one place. Track opportunities through each stage, capture meeting notes and key takeaways alongside the right deal or contact, and quickly find past context when you need it.",
+    "shortDescription": "Carta CRM 帮助投资团队集中管理交易、公司和关系，随时掌握交易流进展。",
+    "longDescription": "Carta CRM 帮助投资团队将交易、公司和关系集中在一处，随时掌握交易流进展。跟踪每个阶段的交易机会，将会议记录和关键要点与相关交易或联系人挂钩，并在需要时快速调取历史上下文。",
     "developerName": "Carta Inc.",
-    "category": "Productivity",
+    "category": "Business & Operations",
     "capabilities": [],
     "defaultPrompt": [
-      "Find the latest relationship context in Carta CRM"
+      "在 Carta CRM 中查找最新的关系背景信息"
     ],
     "screenshots": [],
     "websiteURL": "https://carta.com",

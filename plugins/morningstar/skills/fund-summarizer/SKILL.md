@@ -1,6 +1,6 @@
 ---
 name: fund-summarizer
-description: Use when summarizing a fund or ETF with Morningstar ratings, returns, risk, holdings, fees, and caveats.
+description: "当需要用 Morningstar 评级、收益率、风险、持仓、费率及注意事项汇总某只基金或 ETF 时使用。"
 ---
 
 # Fund Summarizer

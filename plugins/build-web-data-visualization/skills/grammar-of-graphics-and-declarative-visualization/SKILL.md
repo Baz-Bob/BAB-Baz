@@ -1,6 +1,6 @@
 ---
 name: grammar-of-graphics-and-declarative-visualization
-description: Build data visualizations with declarative grammars. Use when the user needs Vega-Lite, Vega, Observable Plot, or grammar-of-graphics reasoning, especially for tabular charts that do not require bespoke rendering.
+description: "使用声明式语法构建数据可视化。适用于需要 Vega-Lite、Vega、Observable Plot 或图形语法推理的场景，尤其适合无需定制渲染的表格图表。"
 ---
 
 # Grammar of Graphics and Declarative Visualization

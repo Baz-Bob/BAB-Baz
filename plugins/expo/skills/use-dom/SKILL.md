@@ -1,6 +1,6 @@
 ---
 name: use-dom
-description: Use Expo DOM components to run web code in a webview on native and as-is on web. Migrate web code to native incrementally.
+description: "使用 Expo DOM 组件在原生端通过 webview 运行 Web 代码，在 Web 端原样运行。逐步将 Web 代码迁移到原生端。"
 version: 1.0.0
 license: MIT
 ---

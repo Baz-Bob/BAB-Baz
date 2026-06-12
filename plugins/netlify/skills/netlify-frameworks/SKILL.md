@@ -1,6 +1,6 @@
 ---
 name: netlify-frameworks
-description: Guide for deploying web frameworks on Netlify. Use when setting up a framework project (Vite/React, Astro, TanStack Start, Next.js, Nuxt, SvelteKit, Remix) for Netlify deployment, configuring adapters or plugins, or troubleshooting framework-specific Netlify integration. Covers what Netlify needs from each framework and how adapters handle server-side rendering.
+description: "在 Netlify 上部署 Web 框架的指南。在为 Netlify 部署设置框架项目（Vite/React、Astro、TanStack Start、Next.js、Nuxt、SvelteKit、Remix）、配置适配器或插件，或排查框架与 Netlify 集成的特定问题时使用。涵盖每个框架对 Netlify 的要求，以及适配器如何处理服务端渲染。"
 ---
 
 # Frameworks on Netlify

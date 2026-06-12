@@ -1,6 +1,6 @@
 ---
 name: ai-gateway
-description: Vercel AI Gateway expert guidance. Use when configuring model routing, provider failover, cost tracking, or managing multiple AI providers through a unified API.
+description: "Vercel AI Gateway 专家指南。在配置模型路由、提供商故障转移、成本追踪，或通过统一 API 管理多个 AI 提供商时使用。"
 metadata:
   priority: 7
   docs:

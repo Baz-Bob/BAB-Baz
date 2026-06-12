@@ -1,6 +1,6 @@
 {
   "name": "help-scout",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Connect to sync Help Scout mailboxes and conversations for use in Codex.",
   "author": {
     "name": "OpenAI",
@@ -12,13 +12,13 @@
   "apps": "./.app.json",
   "interface": {
     "displayName": "Help Scout",
-    "shortDescription": "Connect to sync Help Scout mailboxes and conversations for use in Codex.",
-    "longDescription": "Connect to sync Help Scout mailboxes and conversations for use in Codex.",
+    "shortDescription": "连接并同步 Help Scout 邮箱和对话记录，在 Codex 中直接使用。",
+    "longDescription": "连接并同步 Help Scout 邮箱和对话记录，在 Codex 中直接使用。",
     "developerName": "OpenAI",
     "category": "Productivity",
     "capabilities": [],
     "defaultPrompt": [
-      "Summarize the Help Scout thread and next actions"
+      "总结 Help Scout 工单内容及下一步行动"
     ],
     "screenshots": [],
     "websiteURL": "https://www.helpscout.com/",

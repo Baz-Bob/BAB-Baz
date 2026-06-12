@@ -1,6 +1,6 @@
 ---
 name: google-calendar-group-scheduler
-description: Find and rank good meeting times for multiple people using connected Google Calendar data. Use when the user wants to schedule a group meeting, compare candidate slots across several attendees, find the best compromise time, or add a room check after narrowing the attendee-compatible options.
+description: "使用已连接的 Google Calendar 数据，为多人查找并排序合适的会议时间。当用户需要安排多人会议、对比多个与会者的候选时间段、找到最优妥协时间，或在缩小与会者可用时间后进一步检查会议室时触发。"
 ---
 
 # Google Calendar Group Scheduler

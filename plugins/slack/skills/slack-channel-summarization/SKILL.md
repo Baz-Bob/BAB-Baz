@@ -1,6 +1,6 @@
 ---
 name: slack-channel-summarization
-description: Summarize activity from one Slack channel and return a concise recap, post-ready update, or summary doc.
+description: "汇总某个 Slack 频道的动态，返回简洁的摘要、可直接发布的更新或摘要文档。"
 ---
 
 # Slack Channel Summarization

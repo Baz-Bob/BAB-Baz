@@ -1,6 +1,6 @@
 ---
 name: swiftui-view-refactor
-description: Refactor SwiftUI view files into stable, testable structure. Use when splitting large views, tightening data flow, or cleaning Observation ownership.
+description: "将 SwiftUI 视图文件重构为稳定、可测试的结构。适用于拆分大型视图、收紧数据流，或整理 Observation 所有权的场景。"
 ---
 
 # SwiftUI View Refactor

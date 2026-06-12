@@ -1,6 +1,6 @@
 ---
 name: ensembl-skill
-description: Submit compact Ensembl REST API requests for lookup, overlap, cross-reference, and variation endpoints. Use when a user wants concise Ensembl summaries
+description: "向 Ensembl REST API 提交简洁请求，用于查询、重叠、交叉引用和变异端点。适用于需要简明 Ensembl 摘要的场景。"
 ---
 
 ## Operating rules

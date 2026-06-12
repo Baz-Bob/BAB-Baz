@@ -1,6 +1,6 @@
 ---
 name: google-drive
-description: Use connected Google Drive as the single entrypoint for Drive, Docs, Sheets, and Slides work. Use when the user wants to find, fetch, organize, share, export, copy, or delete Drive files, or summarize and edit Google Docs, Google Sheets, and Google Slides through one unified Google Drive plugin.
+description: "将已连接的 Google Drive 作为统一入口，处理 Drive、Docs、Sheets 和 Slides 相关工作。适用于需要查找、获取、整理、共享、导出、复制或删除 Drive 文件，或通过统一的 Google Drive 插件摘要和编辑 Google Docs、Google Sheets、Google Slides 的场景。"
 ---
 
 # Google Drive

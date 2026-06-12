@@ -1,6 +1,6 @@
 ---
 name: routing-middleware
-description: Vercel Routing Middleware guidance — request interception before cache, rewrites, redirects, personalization. Works with any framework. Supports Edge, Node.js, and Bun runtimes. Use when intercepting requests at the platform level.
+description: "Vercel 路由中间件指南——在缓存前拦截请求、重写、重定向、个性化。兼容任何框架，支持 Edge、Node.js 和 Bun 运行时。在平台层面拦截请求时使用。"
 metadata:
   priority: 6
   docs:

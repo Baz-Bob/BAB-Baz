@@ -1,6 +1,6 @@
 ---
 name: build-model
-description: Build a multi-tab Excel financial model
+description: "构建多标签页 Excel 财务模型"
 ---
 
 Build a comprehensive Excel financial model (.xlsx) for the company named in the user's request. If no ticker or company is provided, ask for one before proceeding.

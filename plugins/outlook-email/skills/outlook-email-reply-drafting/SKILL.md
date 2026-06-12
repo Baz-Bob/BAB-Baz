@@ -1,6 +1,6 @@
 ---
 name: outlook-email-reply-drafting
-description: Draft Outlook email replies safely from connected mailbox context. Use when the user wants to reply to a thread, decide whether to reply-all, prepare a draft before sending, or turn the latest Outlook message into a polished response.
+description: "根据已连接邮箱的上下文，安全起草 Outlook 邮件回复。当用户需要回复某个会话、决定是否全部回复、在发送前准备草稿，或将最新 Outlook 邮件转化为精心回复时触发。"
 ---
 
 # Outlook Email Reply Drafting

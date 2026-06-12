@@ -1,6 +1,6 @@
 ---
 name: huggingface-datasets
-description: Use this skill for Hugging Face Dataset Viewer API workflows that fetch subset/split metadata, paginate rows, search text, apply filters, download parquet URLs, and read size or statistics.
+description: "适用于 Hugging Face Dataset Viewer API 工作流，包括获取子集/分片元数据、分页浏览行数据、文本搜索、应用筛选、下载 Parquet URL，以及读取大小或统计信息。"
 ---
 
 # Hugging Face Dataset Viewer

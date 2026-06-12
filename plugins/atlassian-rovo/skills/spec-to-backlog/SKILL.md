@@ -1,6 +1,6 @@
 ---
 name: spec-to-backlog
-description: "Automatically convert Confluence specification documents into structured Jira backlogs with Epics and implementation tickets. When an agent needs to: (1) Create Jira tickets from a Confluence page, (2) Generate a backlog from a specification, (3) Break down a spec into implementation tasks, or (4) Convert requirements into Jira issues. Handles reading Confluence pages, analyzing specifications, creating Epics with proper structure, and generating detailed implementation tickets linked to the Epic."
+description: "自动将 Confluence 规格文档转换为包含 Epic 和实现工单的结构化 Jira Backlog。适用于：(1) 从 Confluence 页面创建 Jira 工单，(2) 从规格生成 Backlog，(3) 将规格拆解为实现任务，(4) 将需求转换为 Jira 问题。处理读取 Confluence 页面、分析规格、创建结构化 Epic，并生成与 Epic 关联的详细实现工单。"
 ---
 
 # Spec to Backlog

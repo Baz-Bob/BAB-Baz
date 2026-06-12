@@ -1,6 +1,6 @@
 ---
 name: geospatial-and-cartographic-visualization
-description: Design geospatial and cartographic visualizations. Use when the user needs help deciding whether to use a map, choosing projections or basemaps, building choropleths or symbol maps, or implementing thematic maps, slippy maps, or geospatial interactions with D3 geo, Leaflet, MapLibre, Mapbox GL JS, Google Maps, OpenLayers, deck.gl, ArcGIS Maps SDK, Azure Maps, HERE Maps, CesiumJS, or related tools.
+description: "设计地理空间和制图可视化。适用于需要决定是否使用地图、选择投影或底图、构建等值区域图或符号地图，或使用 D3 geo、Leaflet、MapLibre、Mapbox GL JS、Google Maps、OpenLayers、deck.gl、ArcGIS Maps SDK、Azure Maps、HERE Maps、CesiumJS 等工具实现主题地图、瓦片地图或地理空间交互的场景。"
 ---
 
 # Geospatial and Cartographic Visualization

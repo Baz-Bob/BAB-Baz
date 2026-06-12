@@ -1,6 +1,6 @@
 ---
 name: slack
-description: Read Slack context, route to the right Slack workflow, and prepare or perform Slack writes that match the user's intent.
+description: "读取 Slack 上下文，路由到正确的 Slack 工作流，并准备或执行符合用户意图的 Slack 写入操作。"
 ---
 
 # Slack

@@ -1,6 +1,6 @@
 {
   "name": "myregistry-com",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "MyRegistry.com helps make gift-giving easy for friends & family to get you the gifts you really want!",
   "author": {
     "name": "MyRegistry.com",
@@ -12,13 +12,13 @@
   "apps": "./.app.json",
   "interface": {
     "displayName": "MyRegistry.com",
-    "shortDescription": "MyRegistry.com helps make gift-giving easy for friends & family to get you the gifts you really want!",
-    "longDescription": "MyRegistry.com helps make gift-giving easy for friends & family to get you the gifts you really want! Create a universal gift list for weddings, baby showers, birthdays, or any celebration and add gifts from any store.",
+    "shortDescription": "MyRegistry.com 帮助朋友和家人轻松送出你真正想要的礼物！",
+    "longDescription": "MyRegistry.com 帮助朋友和家人轻松送出你真正想要的礼物！为婚礼、迎婴派对、生日或任何庆典创建通用心愿清单，从任意商店添加心仪礼物。",
     "developerName": "MyRegistry.com",
-    "category": "Lifestyle",
+    "category": "Other",
     "capabilities": [],
     "defaultPrompt": [
-      "Find the relevant registry details in MyRegistry.com"
+      "在 MyRegistry.com 中查找相关心愿单详情"
     ],
     "screenshots": [],
     "websiteURL": "https://www.myregistry.com/",

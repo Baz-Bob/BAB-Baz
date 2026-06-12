@@ -1,6 +1,6 @@
 ---
 name: chunk
-description: Use CircleCI Chunk for AI-assisted CI/CD work through either the Chunk web UI or the chunk-cli. Trigger this skill when users ask to set up Chunk, troubleshoot or fix failing builds with Chunk, configure Chunk environments, schedule/proactively run Chunk tasks, or use chunk-cli commands such as init, validate, build-prompt, auth, sandbox, task, and skill install.
+description: "通过 Chunk 网页界面或 chunk-cli 完成 AI 辅助的 CI/CD 工作。适用于需要搭建 Chunk、借助 Chunk 排查或修复失败构建、配置 Chunk 环境、调度或主动运行 Chunk 任务，以及使用 chunk-cli 命令（如 init、validate、build-prompt、auth、sandbox、task、skill install）的场景。"
 ---
 
 # Chunk

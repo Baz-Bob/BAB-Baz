@@ -1,14 +1,6 @@
 ---
 name: twilio-cli-reference
-description: >
-  Twilio CLI reference for managing Twilio resources from the terminal.
-  Covers installation, credential profiles, phone number provisioning,
-  sending SMS and email, webhook configuration, local development with
-  a tunneling service, debugging with watch and logs, serverless deployment, and
-  plugin ecosystem. Use when the developer asks to "just do it",
-  "set this up", "run a command", mentions "CLI", "command line", or
-  "terminal", or when an AI agent can execute a task directly instead
-  of writing application code.
+description: "Twilio CLI 参考，用于在终端管理 Twilio 资源。涵盖安装、凭据 profile、电话号码购买、发送 SMS 和邮件、Webhook 配置、本地开发（含隧道工具）、使用 watch 和 logs 调试、Serverless 部署，以及插件生态。适用于开发者说「直接做」、「帮我配一下」、「跑个命令」，提及「CLI」、「命令行」、「终端」，或 AI 智能体可直接执行任务而无需编写应用代码的场景。"
 ---
 
 ## Overview

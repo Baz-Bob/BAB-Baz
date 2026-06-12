@@ -1,6 +1,6 @@
 ---
 name: outlook-calendar-free-up-time
-description: Find ways to open up meaningful free time in Outlook Calendar. Use when the user wants to clear part of their schedule, make room for focus time, create a longer uninterrupted block, or see the smallest set of calendar changes that would give time back.
+description: "在 Outlook Calendar 中寻找释放空闲时间的方法。当用户希望清出部分日程、腾出专注时段、创建更长的不间断时间块，或查看最小化日历调整方案以找回时间时触发。"
 ---
 
 # Outlook Calendar Free Up Time

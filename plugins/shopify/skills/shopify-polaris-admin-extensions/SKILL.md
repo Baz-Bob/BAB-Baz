@@ -1,6 +1,6 @@
 ---
 name: shopify-polaris-admin-extensions
-description: "Add custom actions and blocks from your app at contextually relevant spots throughout the Shopify Admin. Admin UI Extensions also supports scaffolding new adminextensions using Shopify CLI commands."
+description: "在 Shopify 后台的相关位置添加来自你应用的自定义操作和区块。Admin UI Extensions 还支持使用 Shopify CLI 命令脚手架新的 adminextension。"
 compatibility: Requires Node.js
 metadata:
   author: Shopify

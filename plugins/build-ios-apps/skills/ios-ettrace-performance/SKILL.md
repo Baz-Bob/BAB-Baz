@@ -1,6 +1,6 @@
 ---
 name: ios-ettrace-performance
-description: Capture and interpret iOS Simulator ETTrace profiles. Use when profiling launch or runtime latency, comparing traces, or finding CPU-heavy stacks.
+description: "采集并分析 iOS 模拟器的 ETTrace 性能剖析数据。适用于分析启动或运行时延迟、对比 trace 数据，或定位 CPU 密集型调用栈的场景。"
 ---
 
 # iOS ETTrace Performance

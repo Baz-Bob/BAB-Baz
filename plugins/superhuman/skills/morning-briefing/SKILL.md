@@ -1,6 +1,6 @@
 ---
 name: morning-briefing
-description: Generates a morning briefing that triages your inbox and previews your day using the Superhuman Mail MCP server — acting as an AI chief of staff. Use this skill whenever someone asks to "brief me on my day", "triage my inbox", "what's important in my email", "summarize my unread emails", "what do I need to deal with today", "chief of staff briefing", "morning update", "inbox summary", "what emails need my attention", "clear my inbox", or any variation of wanting a prioritized view of their email and calendar before they start working. Also trigger when someone says "I just woke up, what's going on" or "catch me up on my inbox". Trigger broadly — if someone wants to understand the state of their inbox or day at a glance, this skill should activate.
+description: "通过 Superhuman Mail MCP 服务器生成早间简报，对收件箱进行分类并预览当天日程——充当 AI 首席助理。适用于用户要求\"给我做一份每日简报\"、\"整理收件箱\"、\"哪些邮件比较重要\"、\"汇总未读邮件\"、\"今天需要处理哪些事\"、\"首席助理式简报\"、\"早间更新\"、\"收件箱摘要\"、\"哪些邮件需要关注\"、\"清理收件箱\"，或任何在开始工作前希望按优先级查看邮件和日程的场景。还适用于\"我刚起床，有什么事情要处理\"或\"帮我快速了解收件箱情况\"。触发范围宜宽——只要用户想一眼掌握收件箱状态或当天日程，本技能即应激活。"
 ---
 
 # Morning Briefing & Inbox Triage

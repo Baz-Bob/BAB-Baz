@@ -1,15 +1,6 @@
 ---
 name: twilio-account-setup
-description: >
-  Create and configure a Twilio account from scratch. Covers free trial signup,
-  trial limitations, getting credentials (Account SID and Auth Token), buying
-  a phone number, verifying recipient numbers for trial use, SDK installation,
-  first API call, subaccount management (creation, inheritance, credential
-  isolation, limits), and enabling specific products (AI Assistants,
-  Conversations, Verify, ConversationRelay, WhatsApp). Use this skill before
-  any other Twilio skill if you do not yet have a Twilio account or need to
-  enable a product. For Organization-level governance (SSO, SCIM, multi-team),
-  see `twilio-organizations-setup`.
+description: "从零创建并配置 Twilio 账户。涵盖免费试用注册、试用限制、获取凭据（Account SID 和 Auth Token）、购买电话号码、为试用账户验证收件人号码、SDK 安装、首次 API 调用、子账户管理（创建、继承、凭据隔离、限制），以及开通特定产品（AI Assistants、Conversations、Verify、ConversationRelay、WhatsApp）。若尚无 Twilio 账户或需要开通产品，请在使用其他 Twilio 技能前先使用此技能。组织级治理（SSO、SCIM、多团队）请参见 twilio-organizations-setup。"
 ---
 
 ## Overview

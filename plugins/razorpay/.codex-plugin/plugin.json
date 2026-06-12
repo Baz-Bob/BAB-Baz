@@ -1,6 +1,6 @@
 {
   "name": "razorpay",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Connect your Razorpay account to access your payment data through conversation.",
   "author": {
     "name": "Razorpay Software Private Limited",
@@ -12,13 +12,13 @@
   "apps": "./.app.json",
   "interface": {
     "displayName": "Razorpay",
-    "shortDescription": "Connect your Razorpay account to access your payment data through conversation.",
-    "longDescription": "Connect your Razorpay account to access your payment data through conversation.\nAsk Codex about your payments, orders, refunds, settlements, QR codes, payment links etc. Get instant answers to questions like \"Show me today's payments,\" \"What's the status of my recent settlements,\" or \"Find refunds from last week.\"\nPerfect for merchants who want quick insights without navigating dashboards. View transaction details, track settlement timelines, check saved payment methods, and analyze your payment activity\u2014all through natural language.\n\nWhat you can do:\n1. Retrieve payment and order details\n2. Check refund and settlement status\n3. View QR code and payment link activity\n4. Track payouts and reconciliation data\n5. Access saved customer payment methods\n\nRead-only access\u2014your data stays secure, and no transactions are executed through this app.",
+    "shortDescription": "连接你的 Razorpay 账户，通过对话访问支付数据。",
+    "longDescription": "连接你的 Razorpay 账户，通过对话访问支付数据。\n向 Codex 询问你的支付、订单、退款、结算、QR 码、支付链接等信息，即时获取答案，例如「显示今天的支付记录」、「近期结算状态如何」或「查找上周的退款」。\n非常适合希望快速获取数据而不想在仪表盘间来回切换的商户。通过自然语言查看交易详情、追踪结算时间线、查看已保存的支付方式，并分析支付活动。\n\n可用功能：\n1. 查询支付和订单详情\n2. 检查退款和结算状态\n3. 查看 QR 码和支付链接活动\n4. 追踪打款和对账数据\n5. 访问已保存的客户支付方式\n\n仅限只读访问——数据安全，不会通过本应用执行任何交易。",
     "developerName": "Razorpay Software Private Limited",
-    "category": "Productivity",
+    "category": "Finance",
     "capabilities": [],
     "defaultPrompt": [
-      "Check the relevant payment context in Razorpay"
+      "在 Razorpay 中查询相关支付背景"
     ],
     "screenshots": [],
     "websiteURL": "https://razorpay.com/",

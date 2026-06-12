@@ -1,6 +1,6 @@
 ---
 name: codex-expo-run-actions
-description: Wire Expo projects into the Codex app with project-local run scripts and .codex/environments/environment.toml actions. Use when the user wants the Codex app Run button, build/run actions, action buttons, or a stable Expo start/run workflow from Codex.
+description: "通过项目本地运行脚本和 .codex/environments/environment.toml actions 将 Expo 项目接入 Codex 应用。适用于需要 Codex 应用运行按钮、构建/运行 action、操作按钮，或在 Codex 中稳定启动 Expo 工作流的场景。"
 version: 1.0.0
 license: MIT
 ---

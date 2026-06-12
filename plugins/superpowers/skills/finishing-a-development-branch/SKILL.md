@@ -1,6 +1,6 @@
 ---
 name: finishing-a-development-branch
-description: Use when implementation is complete, all tests pass, and you need to decide how to integrate the work - guides completion of development work by presenting structured options for merge, PR, or cleanup
+description: "当实现完成、所有测试通过，需要决定如何集成工作时使用——引导完成开发工作，提供合并、PR 或清理的结构化选项"
 ---
 
 # Finishing a Development Branch

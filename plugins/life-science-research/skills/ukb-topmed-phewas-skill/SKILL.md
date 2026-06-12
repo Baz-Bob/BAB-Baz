@@ -1,6 +1,6 @@
 ---
 name: ukb-topmed-phewas-skill
-description: Fetch compact UKB-TOPMed PheWAS summaries for single variants by accepting rsID, GRCh37, or GRCh38 input and resolving to the required GRCh38 query. Use when a user wants concise UKB-TOPMed association results for one variant
+description: "获取 UKB-TOPMed PheWAS 单变异体的简明摘要，支持 rsID、GRCh37 或 GRCh38 输入，并自动解析为所需的 GRCh38 查询。适用于需要某一变异体简明 UKB-TOPMed 关联结果的场景。"
 ---
 
 ## Operating rules

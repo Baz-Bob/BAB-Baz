@@ -1,6 +1,6 @@
 ---
 name: packaging-notarization
-description: Prepare macOS packaging and notarization workflows. Use when archiving apps, validating bundles, or explaining distribution-only failures.
+description: "准备 macOS 打包和公证工作流。适用于归档应用、验证 bundle，或排查仅在分发环节出现的失败的场景。"
 ---
 
 # Packaging & Notarization

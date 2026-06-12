@@ -1,6 +1,6 @@
 {
   "name": "jam",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Screen record with context",
   "author": {
     "name": "Jam",
@@ -14,8 +14,8 @@
   "interface": {
     "displayName": "Jam",
     "developerName": "Jam",
-    "shortDescription": "Screen record with context",
-    "longDescription": "Screen record with context",
+    "shortDescription": "带上下文的屏幕录制",
+    "longDescription": "带上下文的屏幕录制",
     "category": "Productivity",
     "capabilities": [],
     "websiteURL": "https://jam.dev",
@@ -23,7 +23,7 @@
     "termsOfServiceURL": "https://jam.dev/terms-of-service",
     "brandColor": "#7C3AED",
     "defaultPrompt": [
-      "What does this bug report show"
+      "这个 Bug 报告反映了什么问题"
     ],
     "screenshots": [],
     "composerIcon": "./assets/app-icon.png",

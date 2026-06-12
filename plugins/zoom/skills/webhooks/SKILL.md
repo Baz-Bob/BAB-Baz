@@ -1,6 +1,6 @@
 ---
 name: setup-zoom-webhooks
-description: Use when building Zoom webhooks.
+description: "构建 Zoom webhook 时使用。"
 ---
 
 # Setup Zoom Webhooks

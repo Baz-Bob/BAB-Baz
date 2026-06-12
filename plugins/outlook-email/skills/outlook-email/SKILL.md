@@ -1,6 +1,6 @@
 ---
 name: outlook-email
-description: Triage Outlook mail, extract tasks, clean up subscriptions, draft responses, and route shared mailbox work. Use when the user asks to inspect an Outlook inbox or thread, summarize open actions and deadlines, clean up newsletters, draft replies or forwards, organize mailbox follow-up work, or act on a delegated/shared Outlook mailbox.
+description: "分类 Outlook 邮件、提取任务、清理订阅邮件、起草回复，并处理共享邮箱工作。适用于查看 Outlook 收件箱或会话、汇总待处理行动项和截止日期、清理新闻订阅、起草回复或转发邮件、整理邮箱跟进事项，或处理委托/共享 Outlook 邮箱。"
 ---
 
 # Outlook Email

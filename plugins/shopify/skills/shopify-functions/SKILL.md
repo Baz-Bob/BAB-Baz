@@ -1,6 +1,6 @@
 ---
 name: shopify-functions
-description: "Shopify Functions allow developers to customize the backend logic that powers parts of Shopify. Available APIs: Discount, Cart and Checkout Validation, Cart Transform, Pickup Point Delivery Option Generator, Delivery Customization, Fulfillment Constraints, Local Pickup Delivery Option Generator, Order Routing Location Rule, Payment Customization"
+description: "Shopify Functions 允许开发者自定义驱动 Shopify 部分功能的后端逻辑。可用 API：折扣、购物车与结账验证、购物车转换、自提点配送选项生成器、配送定制、履单约束、本地自提配送选项生成器、订单路由选址规则、支付定制。"
 compatibility: Requires Node.js
 metadata:
   author: Shopify

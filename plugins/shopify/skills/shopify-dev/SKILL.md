@@ -1,6 +1,6 @@
 ---
 name: shopify-dev
-description: "Search Shopify developer documentation across all APIs. Use only when no API-specific skill applies."
+description: "跨所有 API 搜索 Shopify 开发者文档。仅在没有适用的特定 API 技能时使用。"
 compatibility: Requires Node.js
 metadata:
   author: Shopify

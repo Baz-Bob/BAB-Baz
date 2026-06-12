@@ -1,6 +1,6 @@
 ---
 name: notion-research-documentation
-description: Research across Notion and synthesize into structured documentation; use when gathering info from multiple Notion sources to produce briefs, comparisons, or reports with citations.
+description: "跨 Notion 进行研究并整合为结构化文档。适用于从多个 Notion 来源汇集信息，产出带有引用的简报、对比分析或报告。"
 metadata:
   short-description: Research Notion content and produce briefs/reports
 ---

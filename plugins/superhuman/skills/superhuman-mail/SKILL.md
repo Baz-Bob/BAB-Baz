@@ -1,6 +1,6 @@
 ---
 name: superhuman-mail
-description: Use Superhuman Mail MCP for email and calendar workflows such as searching inboxes, reading threads, drafting or sending mail, managing labels, checking read statuses, finding availability, and creating or updating events.
+description: "使用 Superhuman Mail MCP 处理邮件和日历工作流，包括搜索收件箱、阅读邮件线程、起草或发送邮件、管理标签、查看已读状态、查找空闲时间，以及创建或更新日历活动。"
 ---
 
 # Superhuman Mail

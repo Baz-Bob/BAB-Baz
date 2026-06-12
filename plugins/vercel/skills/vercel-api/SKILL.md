@@ -1,6 +1,6 @@
 ---
 name: vercel-api
-description: Vercel app and REST API expert guidance. Use when the agent needs live access to Vercel projects, deployments, environment variables, domains, logs, or documentation through the connected Vercel app or REST API.
+description: "Vercel 应用和 REST API 专家指南。当智能体需要通过已连接的 Vercel 应用或 REST API 实时访问 Vercel 项目、部署、环境变量、域名、日志或文档时使用。"
 metadata:
   priority: 7
   docs:

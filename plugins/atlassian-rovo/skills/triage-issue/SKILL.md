@@ -1,6 +1,6 @@
 ---
 name: triage-issue
-description: "Intelligently triage bug reports and error messages by searching for duplicates in Jira and offering to create new issues or add comments to existing ones. When an agent needs to: (1) Triage a bug report or error message, (2) Check if an issue is a duplicate, (3) Find similar past issues, (4) Create a new bug ticket with proper context, or (5) Add information to an existing ticket. Searches Jira for similar issues, identifies duplicates, checks fix history, and helps create well-structured bug reports."
+description: "通过搜索 Jira 中的重复项，智能分类 Bug 报告和错误信息，并提供创建新问题或在已有工单上追加评论的建议。适用于：(1) 分类 Bug 报告或错误信息，(2) 检查问题是否重复，(3) 查找历史相似问题，(4) 创建带完整上下文的新 Bug 工单，(5) 向现有工单添加信息。搜索 Jira 中的相似问题，识别重复项，检查修复历史，并协助生成结构完整的 Bug 报告。"
 ---
 
 # Triage Issue

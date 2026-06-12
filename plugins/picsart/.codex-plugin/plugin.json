@@ -1,6 +1,6 @@
 {
   "name": "picsart",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Image editing, creative assets, and design workflows from Picsart",
   "author": {
     "name": "Picsart",
@@ -13,20 +13,20 @@
   "apps": "./.app.json",
   "interface": {
     "displayName": "Picsart",
-    "shortDescription": "Image editing, creative assets, and design workflows from Picsart",
-    "longDescription": "Image editing, creative assets, and design workflows from Picsart",
+    "shortDescription": "来自 Picsart 的图像编辑、创意素材及设计工作流",
+    "longDescription": "来自 Picsart 的图像编辑、创意素材及设计工作流",
     "developerName": "Picsart",
-    "category": "Creative Production",
+    "category": "Creativity",
     "capabilities": [],
     "websiteURL": "https://picsart.com",
     "defaultPrompt": [
-      "Turn this product photo into a 10-second vertical video ad for Reels and TikTok.",
-      "Generate a cinematic 15-second product teaser from a text prompt.",
-      "Generate 5 on-brand product shots and pick the best aspect ratio for Instagram."
+      "将这张产品图转成适用于 Reels 和 TikTok 的 10 秒竖版视频广告。",
+      "根据文字提示生成一段 15 秒的电影感产品预告视频。",
+      "生成 5 张符合品牌调性的产品图，并推荐最适合 Instagram 的宽高比。"
     ],
     "brandColor": "#C209C8",
-    "composerIcon": "./assets/logo.png",
-    "logo": "./assets/logo.png",
+    "composerIcon": "./assets/logo-padded.png",
+    "logo": "./assets/logo-padded.png",
     "screenshots": []
   }
 }

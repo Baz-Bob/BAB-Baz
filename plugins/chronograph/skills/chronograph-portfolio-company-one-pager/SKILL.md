@@ -1,16 +1,6 @@
 ---
 name: chronograph-portfolio-company-one-pager
-description: >
-  GP platform one-pager and investor report generator for private equity portfolio companies.
-  Use this skill whenever a user asks to generate a company tearsheet, one-pager, investor
-  report, portfolio overview, or company deep-dive — especially when they name a company or
-  ask to "build a report", "create a one-pager", or "show me a tearsheet". Also trigger when
-  the user asks to include commentary, quarterly updates, investment narratives, or any
-  Investment Overview in the report output. This skill handles live data fetching via a
-  connected MCP data source OR from an uploaded Excel model, metric formatting, AI-generated
-  or model-sourced commentary, and rendering a fully styled HTML one-pager. Also trigger for
-  LP quarterly updates, valuation summaries, and portco performance pages — any output that
-  combines financials, valuation, and return data for a single portfolio company.
+description: "面向私募股权投资组合公司的 GP 平台一页纸(one-pager)与投资人报告生成器。当用户要生成公司 tearsheet、一页纸、投资人报告、组合概览或公司深度分析时使用——尤其当他们点名某家公司或说「做份报告」「做个 one-pager」「给我看 tearsheet」。当用户要在报告里加入点评、季度更新、投资叙述或任何 Investment Overview 时也触发。本技能支持通过连接的 MCP 数据源或上传的 Excel 模型实时取数、指标格式化、AI 生成或模型来源的点评,并渲染成完整样式的 HTML 一页纸。LP 季度更新、估值摘要、被投公司业绩页——任何把财务、估值与回报数据汇总到单家组合公司的产出都适用。"
 ---
 
 # GP Report Builder

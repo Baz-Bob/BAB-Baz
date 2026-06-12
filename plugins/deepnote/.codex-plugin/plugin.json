@@ -1,6 +1,6 @@
 {
   "name": "deepnote",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Use Deepnote's collaborative data workspace to explore data, automate notebooks and SQL workflows, and turn analysis into shareable results.",
   "author": {
     "name": "Deepnote",
@@ -21,10 +21,10 @@
   "apps": "./.app.json",
   "interface": {
     "displayName": "Deepnote",
-    "shortDescription": "Explore data and automate analysis in Deepnote",
-    "longDescription": "Deepnote gives teams a collaborative workspace for notebooks, SQL, apps, and data workflows. This plugin helps OpenAI work with connected Deepnote projects, inspect and run notebooks, and turn workspace context into useful analysis and shareable results.",
+    "shortDescription": "在 Deepnote 中探索数据并自动化分析",
+    "longDescription": "Deepnote 为团队提供集笔记本、SQL、应用和数据工作流于一体的协作工作区。本插件帮助 OpenAI 操作已连接的 Deepnote 项目、查看并运行笔记本，将工作区上下文转化为有价值的分析结果和可共享的产出。",
     "developerName": "Deepnote",
-    "category": "Productivity",
+    "category": "Data & Analytics",
     "capabilities": [
       "Interactive",
       "Read",
@@ -34,9 +34,9 @@
     "privacyPolicyURL": "https://deepnote.com/privacy",
     "termsOfServiceURL": "https://deepnote.com/terms",
     "defaultPrompt": [
-      "Summarize my Deepnote workspace and recent notebook activity",
-      "Explore active data connections to my Deepnote workspace",
-      "Create a notebook exploring S&P 500 vs. Nasdaq gains over the last 5 years"
+      "总结我的 Deepnote 工作区及近期笔记本活动",
+      "探索连接到我的 Deepnote 工作区的有效数据源",
+      "创建一个笔记本，分析近 5 年 S&P 500 与 Nasdaq 的涨幅对比"
     ],
     "brandColor": "#3793EF",
     "composerIcon": "./assets/composer.svg",

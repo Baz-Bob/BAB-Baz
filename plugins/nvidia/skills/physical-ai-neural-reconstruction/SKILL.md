@@ -1,6 +1,6 @@
 ---
 name: physical-ai-neural-reconstruction
-description: "Router for NVIDIA NuRec/NRE: USDZ rendering, NCore conversion, 3DGS, gRPC sensor sim, PhysicalAI HF datasets. Do NOT use for SimReady or infra setup."
+description: "NVIDIA NuRec/NRE 的路由器：USDZ 渲染、NCore 转换、3DGS、gRPC 传感器仿真、PhysicalAI HF 数据集。不适用于 SimReady 或基础设施配置。"
 license: Apache-2.0
 version: "0.3.0"
 tools:

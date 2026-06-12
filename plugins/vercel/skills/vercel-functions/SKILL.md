@@ -1,6 +1,6 @@
 ---
 name: vercel-functions
-description: Vercel Functions expert guidance — Serverless Functions, Edge Functions, Fluid Compute, streaming, Cron Jobs, and runtime configuration. Use when configuring, debugging, or optimizing server-side code running on Vercel.
+description: "Vercel Functions 专家指南——Serverless Functions、Edge Functions、Fluid Compute、流式传输、Cron Jobs 和运行时配置。在配置、调试或优化 Vercel 上运行的服务端代码时使用。"
 metadata:
   priority: 8
   docs:

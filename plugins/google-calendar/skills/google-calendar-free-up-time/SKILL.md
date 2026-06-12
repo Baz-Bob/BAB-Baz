@@ -1,6 +1,6 @@
 ---
 name: google-calendar-free-up-time
-description: Find ways to open up meaningful free time in a connected Google Calendar. Use when the user wants to clear up their day, make room for focus time, create a longer uninterrupted block, or see the smallest set of calendar changes that would give time back.
+description: "在已连接的 Google Calendar 中寻找释放空闲时间的方法。当用户希望清出当天时间、腾出专注时段、创建更长的不间断时间块，或查看最小化日历调整方案以找回时间时触发。"
 ---
 
 # Google Calendar Free Up Time

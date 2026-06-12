@@ -1,6 +1,6 @@
 {
   "name": "skywatch",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Search and explore satellite imagery from top providers including Vantor, Planet, Airbus, and more, all in...",
   "author": {
     "name": "SkyWatch Space Applications Inc.",
@@ -13,8 +13,8 @@
   "apps": "./.app.json",
   "interface": {
     "displayName": "SkyWatch",
-    "shortDescription": "Search and explore satellite imagery from top providers including Vantor, Planet, Airbus, and more, all in...",
-    "longDescription": "Search and explore satellite imagery from top providers including Vantor, Planet, Airbus, and more, all in one place. SkyWatch lets you find archive imagery by location, date, resolution, and cloud cover, compare pricing across providers, and browse available satellites and product offerings. Results include direct links to view and order imagery on SkyWatch Explore.",
+    "shortDescription": "在一个平台上搜索和浏览来自 Vantor、Planet、Airbus 等顶级供应商的卫星图像……",
+    "longDescription": "在一个平台上搜索和浏览来自 Vantor、Planet、Airbus 等顶级供应商的卫星图像。SkyWatch 支持按位置、日期、分辨率和云量筛选存档图像，跨供应商比较价格，并浏览可用卫星及产品目录。搜索结果包含在 SkyWatch Explore 上查看和订购图像的直达链接。",
     "developerName": "SkyWatch Space Applications Inc.",
     "category": "Productivity",
     "capabilities": [],
@@ -22,7 +22,7 @@
     "privacyPolicyURL": "https://skywatch.com/privacy/",
     "termsOfServiceURL": "https://s3-us-west-2.amazonaws.com/skywatch-legal/SkyWatch+Terms+of+Service.pdf",
     "defaultPrompt": [
-      "Find recent satellite images of the Golden Gate Bridge"
+      "查找金门大桥的近期卫星图像"
     ],
     "screenshots": [],
     "composerIcon": "./assets/app-icon.png",

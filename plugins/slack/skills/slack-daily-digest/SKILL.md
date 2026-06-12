@@ -1,6 +1,6 @@
 ---
 name: slack-daily-digest
-description: Create a daily Slack digest from selected channels or topics. Use when the user asks for a daily Slack recap or summary of today's Slack activity.
+description: "从选定的频道或话题创建 Slack 每日摘要。当用户请求 Slack 每日回顾或今日 Slack 活动摘要时触发。"
 ---
 
 # Slack Daily Digest

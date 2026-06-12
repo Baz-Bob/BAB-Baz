@@ -1,6 +1,6 @@
 ---
 name: render-migrate-from-heroku
-description: "Migrate from Heroku to Render by reading local project files and generating equivalent Render services. Triggers: any mention of migrating from Heroku, moving off Heroku, Heroku to Render migration, or switching from Heroku. Reads Procfile, dependency files, and app config from the local repo. Optionally uses Heroku MCP to enrich with live config vars, add-on details, and dyno sizes. Uses Render MCP or Blueprint YAML to create services."
+description: "通过读取本地项目文件并生成等效的 Render 服务，将应用从 Heroku 迁移到 Render。触发条件：任何提及从 Heroku 迁移、离开 Heroku、Heroku 转 Render 或切换平台的场景。读取本地仓库中的 Procfile、依赖文件和应用配置。可选择使用 Heroku MCP 补充实时配置变量、插件详情和 dyno 规格。使用 Render MCP 或 Blueprint YAML 创建服务。"
 license: MIT
 compatibility: Render MCP server recommended for direct creation and automated verification; not required for the Blueprint path. Heroku MCP server is optional (enhances config var and add-on discovery).
 metadata:

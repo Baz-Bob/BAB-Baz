@@ -1,6 +1,6 @@
 ---
 name: teams-daily-digest
-description: Create a daily Microsoft Teams digest from selected chats, channels, or workstreams. Use when the user asks for a daily Teams recap or summary of today's Teams activity.
+description: "从选定的聊天、频道或工作流创建 Microsoft Teams 每日摘要。当用户请求 Teams 每日回顾或今日 Teams 活动摘要时触发。"
 ---
 
 # Teams Daily Digest

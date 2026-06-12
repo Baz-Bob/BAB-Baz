@@ -1,6 +1,6 @@
 {
   "name": "pylon",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Access Pylon's customer support platform directly from Codex to search, manage, and resolve customer issues.",
   "author": {
     "name": "Pylon Labs Inc.",
@@ -13,8 +13,8 @@
   "apps": "./.app.json",
   "interface": {
     "displayName": "Pylon",
-    "shortDescription": "Access Pylon's customer support platform directly from Codex to search, manage, and resolve customer issues.",
-    "longDescription": "Access Pylon's customer support platform directly from Codex to search, manage, and resolve\ncustomer issues. Stay on top of your support queue while connecting Codex's insights to real customer conversations.\n\nYou can use the Pylon app to:\n  \u2022 Check your queue: \"What Pylon issues are assigned to me that need a response?\"\n  \u2022 Research customers: \"Summarize recent issues from Acme Corp and flag any escalations.\"\n  \u2022 Update issues: \"Mark the billing issue from Sarah as resolved and add a note that we issued a refund.\"",
+    "shortDescription": "直接在 Codex 中访问 Pylon 客户支持平台，搜索、管理并解决客户问题。",
+    "longDescription": "直接在 Codex 中访问 Pylon 客户支持平台，搜索、管理并解决客户问题。在处理支持队列的同时，将 Codex 的洞察与真实客户对话相结合。\n\n你可以用 Pylon 应用：\n  • 查看队列：「有哪些分配给我、待回复的 Pylon 工单？」\n  • 了解客户：「汇总 Acme Corp 近期工单，并标出需要升级处理的问题。」\n  • 更新工单：「将 Sarah 提交的账单问题标记为已解决，并备注已办理退款。」",
     "developerName": "Pylon Labs Inc.",
     "category": "Productivity",
     "capabilities": [],
@@ -22,7 +22,7 @@
     "privacyPolicyURL": "https://www.usepylon.com/privacy",
     "termsOfServiceURL": "https://www.usepylon.com/terms",
     "defaultPrompt": [
-      "Can you summarize my most recent issues"
+      "汇总我最近的工单"
     ],
     "screenshots": [],
     "composerIcon": "./assets/app-icon.png",

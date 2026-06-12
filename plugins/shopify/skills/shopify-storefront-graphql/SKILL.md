@@ -1,6 +1,6 @@
 ---
 name: shopify-storefront-graphql
-description: "Use for custom storefronts requiring direct GraphQL queries/mutations for data fetching and cart operations. Choose this when you need full control over data fetching and rendering your own UI. NOT for Web Components - if the prompt mentions HTML tags like <shopify-store>, <shopify-cart>, use storefront-web-components instead."
+description: "适用于需要直接使用 GraphQL 查询/变更进行数据获取和购物车操作的自定义店面。当需要完全控制数据获取和自定义 UI 渲染时选择本技能。不适用于 Web Components——如果提示词涉及 `<shopify-store>`、`<shopify-cart>` 等 HTML 标签，请使用 storefront-web-components。"
 compatibility: Requires Node.js
 metadata:
   author: Shopify

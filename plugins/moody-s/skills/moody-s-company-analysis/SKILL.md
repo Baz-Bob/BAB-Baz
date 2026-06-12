@@ -1,6 +1,6 @@
 ---
 name: moody-s-company-analysis
-description: Use when the user asks for Moody's company profiles, ownership, ratings, credit opinions, financial statements, filings, peers, research, or credit-risk analysis for a company.
+description: "当用户需要 Moody's 公司档案、股权结构、评级、信用意见、财务报表、备案文件、同业对比、研究报告或针对某公司的信用风险分析时使用。"
 ---
 
 # Moody's Company Analysis

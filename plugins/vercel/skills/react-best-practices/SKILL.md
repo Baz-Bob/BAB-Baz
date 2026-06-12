@@ -1,6 +1,6 @@
 ---
 name: react-best-practices
-description: React best-practices reviewer for TSX files. Triggers after editing multiple TSX components to run a condensed quality checklist covering component structure, hooks usage, accessibility, performance, and TypeScript patterns.
+description: "TSX 文件的 React 最佳实践审查器。在编辑多个 TSX 组件后触发，运行简洁的质量检查清单，涵盖组件结构、Hooks 用法、无障碍性、性能和 TypeScript 模式。"
 metadata:
   priority: 4
   docs:

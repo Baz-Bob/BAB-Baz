@@ -1,6 +1,6 @@
 ---
 name: react-three-fiber-game
-description: Build React-hosted 3D browser games with React Three Fiber. Use when the user wants pmndrs-based scene composition, shared React state, and 3D HUD integration inside a React app.
+description: "使用 React Three Fiber 构建 React 承载的 3D 浏览器游戏。当用户需要基于 pmndrs 的场景组合、共享 React 状态，以及在 React 应用中集成 3D HUD 时使用。"
 ---
 
 # React Three Fiber Game

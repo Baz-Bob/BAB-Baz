@@ -1,6 +1,6 @@
 ---
 name: build-zoom-meeting-app
-description: Use when embedding meetings.
+description: "嵌入会议时使用。"
 ---
 
 # /build-zoom-meeting-app

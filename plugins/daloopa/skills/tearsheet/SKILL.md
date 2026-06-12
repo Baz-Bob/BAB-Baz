@@ -1,6 +1,6 @@
 ---
 name: tearsheet
-description: Quick one-page company overview and snapshot
+description: "简洁的单页公司概览与快照"
 ---
 
 Generate a concise company tearsheet for the company specified by the user named in the user's request. If no ticker or company is provided, ask for one before proceeding.

@@ -1,6 +1,6 @@
 ---
 name: magicpath
-description: Use when the user mentions MagicPath, designs, UI components, themes, canvas selections, or repo-to-canvas UI work; run magicpath-ai to search, inspect, install, or author components.
+description: "当用户提到 MagicPath、设计、UI 组件、主题、画布选区或代码仓库转画布 UI 工作时使用；运行 magicpath-ai 来搜索、查看、安装或创作组件。"
 allowed-tools: Bash(npx -y magicpath-ai *)
 user-invocable: true
 ---

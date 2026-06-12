@@ -1,6 +1,6 @@
 {
   "name": "outreach",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Sales engagement, prospects, sequences, and deal activity context",
   "author": {
     "name": "Outreach",
@@ -13,18 +13,18 @@
   "apps": "./.app.json",
   "interface": {
     "displayName": "Outreach",
-    "shortDescription": "Sales engagement, prospects, sequences, and deal activity context",
-    "longDescription": "Sales engagement, prospects, sequences, and deal activity context",
+    "shortDescription": "销售互动、潜在客户、序列及交易活动上下文",
+    "longDescription": "销售互动、潜在客户、序列及交易活动上下文",
     "developerName": "Outreach",
-    "category": "Sales",
+    "category": "Business & Operations",
     "capabilities": [],
     "websiteURL": "https://www.outreach.io",
     "privacyPolicyURL": "https://www.outreach.io/privacy-policy",
     "termsOfServiceURL": "https://www.outreach.io/terms-of-service",
     "defaultPrompt": [
-      "Find stalled Outreach prospects and summarize the next best follow-up.",
-      "Search Outreach sequences for this account and summarize recent engagement.",
-      "Draft a concise Outreach follow-up using recent prospect activity."
+      "找出 Outreach 中停滞的潜在客户并汇总最佳后续跟进方式。",
+      "搜索该账户的 Outreach 序列并汇总近期互动情况。",
+      "根据近期潜在客户活动，起草一封简洁的 Outreach 跟进邮件。"
     ],
     "brandColor": "#5951FF",
     "composerIcon": "./assets/logo.png",

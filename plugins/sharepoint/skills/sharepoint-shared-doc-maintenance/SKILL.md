@@ -1,6 +1,6 @@
 ---
 name: sharepoint-shared-doc-maintenance
-description: Maintain shared SharePoint strategy, roadmap, planning, or status documents from changing source documents. Use when the user wants cross-document synthesis, source-of-truth propagation, or targeted updates to a maintained shared document.
+description: "根据变化中的来源文档，维护 SharePoint 上共享的策略、路线图、规划或状态文档。适用于跨文档综合、真实来源传播，或对维护中的共享文档进行定向更新。"
 ---
 
 # SharePoint Shared Doc Maintenance

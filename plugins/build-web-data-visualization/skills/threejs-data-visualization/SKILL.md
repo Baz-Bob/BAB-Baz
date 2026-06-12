@@ -1,6 +1,6 @@
 ---
 name: threejs-data-visualization
-description: Render WebGL-accelerated data visualizations with Three.js, raw WebGL, deck.gl, luma.gl, PixiJS, Sigma.js, Plotly WebGL traces, ECharts GL, CesiumJS, Babylon.js, or related GPU libraries. Use when the visualization needs true spatial structure, dense 2D or 3D GPU rendering, particle or flow animation, volumetric views, or interactive exploration that adds real analytical value.
+description: "使用 Three.js、原生 WebGL、deck.gl、luma.gl、PixiJS、Sigma.js、Plotly WebGL traces、ECharts GL、CesiumJS、Babylon.js 或相关 GPU 库渲染 WebGL 加速的数据可视化。适用于可视化需要真实空间结构、密集 2D 或 3D GPU 渲染、粒子或流场动画、体积视图，或能真正提升分析价值的交互式探索的场景。"
 ---
 
 # Three.js and WebGL Data Visualization

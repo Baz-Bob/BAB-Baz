@@ -1,6 +1,6 @@
 ---
 name: ngs-dna-somatic-variants
-description: Run or plan tumor-normal, tumor-only, WGS, WES, or cancer-panel somatic variant workflows with pairing, contamination, panel-of-normals, purity, QC, and annotation checks.
+description: "运行或规划肿瘤-正常配对、仅肿瘤、WGS、WES 或癌症 panel 体细胞变异工作流，包含样本配对、污染检测、正常对照 panel、纯度、QC 和注释检查。"
 ---
 
 # Somatic DNA Variants

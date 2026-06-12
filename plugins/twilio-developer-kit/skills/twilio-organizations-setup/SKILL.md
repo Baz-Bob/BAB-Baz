@@ -1,12 +1,6 @@
 ---
 name: twilio-organizations-setup
-description: >
-  Set up and manage Twilio Organizations for centralized account and user
-  governance. Covers the Organization > Account > Subaccount hierarchy,
-  roles (Owner/Admin/Standard), managed vs independent accounts, domain
-  registration, SSO enforcement, SCIM provisioning, and Organization
-  merging. Use this skill when managing multiple Twilio accounts or users
-  across teams.
+description: "设置并管理 Twilio Organizations，实现账户和用户的集中治理。涵盖 Organization > Account > Subaccount 层级结构、角色（Owner/Admin/Standard）、受管账户与独立账户、域名注册、SSO 强制执行、SCIM 配置，以及 Organization 合并。适用于管理多个 Twilio 账户或跨团队用户的场景。"
 ---
 
 ## Overview

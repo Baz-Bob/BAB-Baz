@@ -1,6 +1,6 @@
 ---
 name: comp-sheet
-description: Build an industry comp sheet Excel model with deep operational KPIs
+description: "构建包含深度运营 KPI 的行业可比公司 Excel 模型"
 ---
 
 Build a multi-company industry comp sheet Excel model for the company named in the user's request. If no ticker or company is provided, ask for one before proceeding.

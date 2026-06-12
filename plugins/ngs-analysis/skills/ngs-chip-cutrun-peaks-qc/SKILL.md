@@ -1,6 +1,6 @@
 ---
 name: ngs-chip-cutrun-peaks-qc
-description: Run or plan ChIP-seq, CUT&RUN, or CUT&Tag QC, control handling, spike-in, peak calling, broad-vs-narrow target selection, replicate, bigWig, and differential binding workflows.
+description: "运行或规划 ChIP-seq、CUT&RUN 或 CUT&Tag 的 QC、对照处理、spike-in、peak calling、宽/窄 peak 目标选择、重复样本、bigWig 和差异结合分析工作流。"
 ---
 
 # ChIP/CUT&RUN Peaks QC

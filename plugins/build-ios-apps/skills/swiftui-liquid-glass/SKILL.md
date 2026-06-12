@@ -1,6 +1,6 @@
 ---
 name: swiftui-liquid-glass
-description: Implement and review iOS 26+ SwiftUI Liquid Glass UI. Use when adopting Liquid Glass or checking its correctness, performance, and design fit.
+description: "实现并审查 iOS 26+ SwiftUI Liquid Glass UI。适用于采用 Liquid Glass 或检验其正确性、性能和设计契合度的场景。"
 ---
 
 # SwiftUI Liquid Glass

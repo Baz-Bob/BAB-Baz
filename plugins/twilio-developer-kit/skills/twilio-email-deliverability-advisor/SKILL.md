@@ -1,10 +1,6 @@
 ---
 name: twilio-email-deliverability-advisor
-description: >
-  Deliverability advisor for the Twilio Email API specifically. Use ONLY when
-  the developer explicitly mentions Twilio Email, comms.twilio.com, or a
-  Twilio (non-SendGrid) email program. For all other deliverability questions
-  — including generic ones — use twilio-sendgrid-deliverability-advisor.
+description: "专门针对 Twilio Email API 的投递顾问技能。仅在开发者明确提及 Twilio Email、comms.twilio.com 或 Twilio（非 SendGrid）邮件项目时使用。其他所有投递问题（包括通用问题）请使用 twilio-sendgrid-deliverability-advisor。层级：发现。"
 tier: discover
 ---
 

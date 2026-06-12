@@ -1,6 +1,6 @@
 ---
 name: shopify-pos-ui
-description: "Build retail point-of-sale applications using Shopify's POS UI components. These components provide a consistent and familiar interface for POS applications. POS UI Extensions also supports scaffolding new POS extensions using Shopify CLI commands. Keywords: POS, Retail, smart grid"
+description: "使用 Shopify POS UI 组件构建零售销售点应用。这些组件为 POS 应用提供一致且熟悉的界面。POS UI Extensions 还支持使用 Shopify CLI 命令脚手架新的 POS 扩展。关键词：POS、Retail、smart grid。"
 compatibility: Requires Node.js
 metadata:
   author: Shopify

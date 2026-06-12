@@ -1,6 +1,6 @@
 ---
 name: netlify-edge-functions
-description: Guide for writing Netlify Edge Functions. Use when building middleware, geolocation-based logic, request/response manipulation, authentication checks, A/B testing, or any low-latency edge compute. Covers Deno runtime, context.next() middleware pattern, geolocation, and when to choose edge vs serverless.
+description: "编写 Netlify Edge Functions 的指南。在构建中间件、基于地理位置的逻辑、请求/响应处理、身份验证检查、A/B 测试，或任何低延迟边缘计算场景时使用。涵盖 Deno 运行时、`context.next()` 中间件模式、地理位置，以及何时选择边缘函数而非 Serverless 函数。"
 ---
 
 # Netlify Edge Functions

@@ -1,6 +1,6 @@
 {
   "name": "dovetail",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Connect Dovetail inside Codex to turn customer feedback into decisions without leaving your conversation.",
   "author": {
     "name": "Dovetail",
@@ -11,14 +11,14 @@
   "keywords": [],
   "apps": "./.app.json",
   "interface": {
-    "displayName": "Dovetail ",
-    "shortDescription": "Connect Dovetail inside Codex to turn customer feedback into decisions without leaving your conversation.",
-    "longDescription": "Connect Dovetail inside Codex to turn customer feedback into decisions without leaving your conversation. Search your Dovetail workspace for relevant projects, notes, docs, and themes, and get results back instantly. Ask things like \u201cSummarize top friction points impacting enterprise renewal conversations\u201d to surface evidence in seconds.",
+    "displayName": "Dovetail",
+    "shortDescription": "将 Dovetail 接入 Codex，无需切换界面即可将客户反馈转化为决策依据。",
+    "longDescription": "将 Dovetail 接入 Codex，无需切换界面即可将客户反馈转化为决策依据。在 Dovetail 工作区中搜索相关项目、笔记、文档和主题，即时获取结果。例如，输入「总结影响企业级续约对话的主要痛点」，即可在数秒内浮现关键证据。",
     "developerName": "Dovetail",
     "category": "Productivity",
     "capabilities": [],
     "defaultPrompt": [
-      "Find the relevant customer insights in Dovetail"
+      "在 Dovetail 中查找相关客户洞察"
     ],
     "screenshots": [],
     "websiteURL": "https://dovetail.com",

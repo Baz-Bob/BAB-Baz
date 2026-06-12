@@ -1,6 +1,6 @@
 ---
 name: stripe-best-practices
-description: Guides Stripe integration decisions — API selection (Checkout Sessions vs PaymentIntents), Connect platform setup (Accounts v2, controller properties), billing/subscriptions, Treasury financial accounts, integration surfaces (Checkout, Payment Element), and migrating from deprecated Stripe APIs. Use when building, modifying, or reviewing any Stripe integration — including accepting payments, building marketplaces, integrating Stripe, processing payments, setting up subscriptions, or creating connected accounts.
+description: "指导 Stripe 集成决策——API 选择（Checkout Sessions 对比 PaymentIntents）、Connect 平台搭建（Accounts v2、controller 属性）、账单/订阅、Treasury 金融账户、集成界面（Checkout、Payment Element），以及从已废弃 Stripe API 迁移。适用于构建、修改或审查任何 Stripe 集成——包括接入支付、构建市场、集成 Stripe、处理付款、设置订阅或创建关联账户。"
 ---
 
 Latest Stripe API version: **2026-02-25.clover**. Always use the latest API version and SDK unless the user specifies otherwise.

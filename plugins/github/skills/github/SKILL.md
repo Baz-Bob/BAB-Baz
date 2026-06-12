@@ -1,6 +1,6 @@
 ---
 name: github
-description: Triage and orient GitHub repository, pull request, and issue work through the connected GitHub app. Use when the user asks for general GitHub help, wants PR or issue summaries, or needs repository context before choosing a more specific GitHub workflow.
+description: "通过已连接的 GitHub 应用，对仓库、pull request 和 issue 进行分诊与梳理。适用于用户寻求 GitHub 通用帮助、需要 PR 或 issue 摘要，或在选择更具体的 GitHub 工作流之前需要了解仓库背景的场景。"
 ---
 
 # GitHub

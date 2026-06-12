@@ -1,6 +1,6 @@
 ---
 name: ncbi-pmc-skill
-description: Submit compact NCBI PMC Open Access requests for article/file availability metadata. Use when a user wants concise PMC Open Access summaries; save raw XML only on request.
+description: "向 NCBI PMC Open Access 提交简洁请求，查询文章/文件可用性元数据。适用于需要简明 PMC Open Access 摘要的场景；仅在明确要求时保存原始 XML。"
 ---
 
 ## Operating rules

@@ -1,6 +1,6 @@
 ---
 name: appkit-interop
-description: Bridge macOS SwiftUI into AppKit narrowly. Use when implementing representables, reaching NSWindow or panels, handling menus, or using the responder chain.
+description: "以最小化方式将 macOS SwiftUI 桥接到 AppKit。适用于实现 representable、访问 NSWindow 或面板、处理菜单，或使用响应者链的场景。"
 ---
 
 # AppKit Interop

@@ -1,6 +1,6 @@
 ---
 name: shopify-custom-data
-description: "MUST be used first when prompts mention Metafields or Metaobjects. Use Metafields and Metaobjects to model and store custom data for your app. Metafields extend built-in Shopify data types like products or customers, Metaobjects are custom data types that can be used to store bespoke data structures. Metafield and Metaobject definitions provide a schema and configuration for values to follow."
+description: "提示词中涉及 Metafield 或 Metaobject 时**必须优先使用**。使用 Metafield 和 Metaobject 为应用建模和存储自定义数据。Metafield 扩展 Shopify 内置数据类型（如商品或客户），Metaobject 是可存储任意自定义数据结构的自定义类型。Metafield 和 Metaobject 的定义为字段值提供 schema 和配置约束。"
 compatibility: Requires Node.js
 metadata:
   author: Shopify

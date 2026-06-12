@@ -1,6 +1,6 @@
 ---
 name: gwas-catalog-skill
-description: Submit compact GWAS Catalog REST API v2 requests for studies, associations, SNPs, EFO traits, genes, publications, loci, and metadata. Use when a user wants concise GWAS Catalog summaries
+description: "向 GWAS Catalog REST API v2 提交简洁请求，查询研究、关联、SNP、EFO 性状、基因、发表文献、位点和元数据。适用于需要简明 GWAS Catalog 摘要的场景。"
 ---
 
 ## Operating rules

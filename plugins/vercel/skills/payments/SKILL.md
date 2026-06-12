@@ -1,6 +1,6 @@
 ---
 name: payments
-description: Stripe payments integration guidance — native Vercel Marketplace setup, checkout sessions, webhook handling, subscription billing, and the Stripe SDK. Use when implementing payments, subscriptions, or processing transactions.
+description: "Stripe 支付集成指南——Vercel Marketplace 原生配置、Checkout Session、Webhook 处理、订阅计费和 Stripe SDK。在实现付款、订阅或处理交易时使用。"
 metadata:
   priority: 5
   docs:

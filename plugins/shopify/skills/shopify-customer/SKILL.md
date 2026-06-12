@@ -1,6 +1,6 @@
 ---
 name: shopify-customer
-description: "The Customer Account API allows customers to access their own data including orders, payment methods, and addresses."
+description: "Customer Account API 允许客户访问自己的数据，包括订单、支付方式和地址。"
 compatibility: Requires Node.js
 metadata:
   author: Shopify

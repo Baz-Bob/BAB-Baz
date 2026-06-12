@@ -1,6 +1,6 @@
 ---
 name: web-game-foundations
-description: Set browser-game architecture before implementation. Use when the user needs engine choice, simulation and render boundaries, input model, asset organization, or save/debug/performance strategy.
+description: "在实现前搭建浏览器游戏架构。当用户需要引擎选型、模拟与渲染边界划分、输入模型、资产组织，或存档/调试/性能策略时使用。"
 ---
 
 # Web Game Foundations

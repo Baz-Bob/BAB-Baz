@@ -1,6 +1,6 @@
 ---
 name: gnomad-graphql-skill
-description: Submit compact gnomAD GraphQL requests for frequency, gene constraint, and variant context queries. Use when a user wants concise gnomAD summaries
+description: "向 gnomAD 提交简洁的 GraphQL 请求，查询频率、基因约束和变异体上下文。适用于需要简明 gnomAD 摘要的场景。"
 ---
 
 ## Operating rules

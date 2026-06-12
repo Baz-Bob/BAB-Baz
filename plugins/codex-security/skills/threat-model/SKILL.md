@@ -1,6 +1,6 @@
 ---
 name: threat-model
-description: Use when Codex is already in the threat-modeling phase of a security scan, the user explicitly invokes $threat-model, or the user explicitly asks to create, update, or persist a repository threat model. Do not use as the primary trigger for full PR, commit, branch, patch, or repository scans.
+description: "当 Codex 已处于安全扫描的威胁建模阶段、用户明确调用 $threat-model，或用户明确要求创建、更新或持久化仓库威胁模型时使用。不作为完整 PR、提交、分支、补丁或仓库扫描的主触发器。"
 metadata:
   short-description: Build a repository threat model
 ---

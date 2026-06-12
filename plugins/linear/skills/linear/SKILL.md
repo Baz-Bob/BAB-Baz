@@ -1,6 +1,6 @@
 ---
 name: linear
-description: Manage issues, projects & team workflows in Linear. Use when the user wants to read, create or updates tickets in Linear.
+description: "在 Linear 中管理问题、项目和团队工作流。适用于用户需要读取、创建或更新 Linear 工单的场景。"
 ---
 
 # Linear

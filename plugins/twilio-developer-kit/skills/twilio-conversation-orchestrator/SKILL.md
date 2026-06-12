@@ -1,12 +1,6 @@
 ---
 name: twilio-conversation-orchestrator
-description: >
-  Configure automatic conversation capture and routing with Twilio Conversation
-  Orchestrator. Covers Configuration creation, channel capture rules, grouping
-  types, status timeouts, Memory Store linkage, Intelligence linkage, and
-  conversation lifecycle. Use this skill to automatically capture SMS, voice,
-  WhatsApp, RCS, and web chat traffic into unified conversations without
-  manually creating conversations or participants.
+description: "通过 Twilio Conversation Orchestrator 配置自动对话采集和路由。涵盖配置创建、渠道采集规则、分组类型、状态超时、Memory Store 关联、Intelligence 关联，以及对话生命周期管理。使用此技能可自动将 SMS、语音、WhatsApp、RCS 和网页聊天流量采集到统一对话中，无需手动创建对话或参与者。"
 ---
 
 # Conversation Orchestrator

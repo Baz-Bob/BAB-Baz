@@ -1,6 +1,6 @@
 ---
 name: encode-skill
-description: Submit compact ENCODE REST API requests for object lookups, portal-style search, and metadata retrieval. Use when a user wants concise ENCODE summaries
+description: "向 ENCODE REST API 提交简洁请求，用于对象查询、门户式搜索和元数据检索。适用于需要简明 ENCODE 摘要的场景。"
 ---
 
 ## Operating rules

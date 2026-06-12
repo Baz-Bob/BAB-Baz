@@ -1,6 +1,6 @@
 ---
 name: initiate
-description: Initiate coverage — generate both research note (HTML) and Excel model
+description: "发起覆盖——同时生成研究报告（HTML）和 Excel 模型"
   (.xlsx)
 ---
 

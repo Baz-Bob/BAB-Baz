@@ -1,6 +1,6 @@
 ---
 name: chembl-skill
-description: Submit compact ChEMBL API requests for activity, molecule, target, mechanism, and text-search endpoints. Use when a user wants concise ChEMBL summaries
+description: "向 ChEMBL API 提交简洁请求，查询活性、分子、靶标、机制和全文搜索端点。适用于需要简明 ChEMBL 摘要的场景。"
 ---
 
 ## Operating rules

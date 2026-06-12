@@ -1,6 +1,6 @@
 {
   "name": "omni-analytics",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Query Omni using the same semantic model, permissions, and logic defined by your data team directly from Codex.",
   "author": {
     "name": "Omni Analytics",
@@ -13,20 +13,20 @@
   "apps": "./.app.json",
   "interface": {
     "displayName": "Omni Analytics",
-    "shortDescription": "Query Omni using the same semantic model, permissions, and logic defined by your data team directly from Codex.",
-    "longDescription": "Query Omni using the same semantic model, permissions, and logic defined by your data team directly from Codex. Allow internal teams to ask data questions in their AI workflows without logging into Omni directly, while still enforcing row-level security and business definitions.",
+    "shortDescription": "在 Codex 中直接使用数据团队定义的语义模型、权限和逻辑查询 Omni。",
+    "longDescription": "在 Codex 中直接使用数据团队定义的语义模型、权限和逻辑查询 Omni。让内部团队在 AI 工作流中提问数据问题，无需直接登录 Omni，同时仍强制执行行级安全和业务定义。",
     "developerName": "Omni Analytics",
-    "category": "Productivity",
+    "category": "Data & Analytics",
     "capabilities": [],
     "websiteURL": "https://www.omni.co",
     "privacyPolicyURL": "https://omni.co/privacy",
     "termsOfServiceURL": "https://omni.co/terms",
     "defaultPrompt": [
-      "Show me last year's orders by status"
+      "按状态显示去年的订单"
     ],
     "brandColor": "#F686AC",
-    "composerIcon": "./assets/logo.png",
-    "logo": "./assets/logo.png",
+    "composerIcon": "./assets/app-icon.png",
+    "logo": "./assets/app-icon.png",
     "screenshots": []
   }
 }

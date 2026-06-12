@@ -1,6 +1,6 @@
 ---
 name: openai-api-troubleshooting
-description: Use when an OpenAI API request fails and Codex needs to classify the likely cause, explain the next step, and route to the right follow-up. Covers common runtime failures such as blocked outbound network access, invalid credentials, exhausted API quota or credits, rate limits, and model, project, or organization access issues; delegate key provisioning to openai-platform-api-key and current documentation lookups to openai-docs.
+description: "当 OpenAI API 请求失败时使用，帮助 Codex 判断可能的原因、说明下一步操作并路由到正确的后续处理。涵盖常见运行时故障，如出站网络访问被拦截、凭据无效、API 额度或余额耗尽、速率限制，以及模型、项目或组织访问权限问题；密钥获取委托给 openai-platform-api-key，最新文档查询委托给 openai-docs。"
 ---
 
 # OpenAI API Troubleshooting

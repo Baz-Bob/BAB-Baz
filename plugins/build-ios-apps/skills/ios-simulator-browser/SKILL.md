@@ -1,6 +1,6 @@
 ---
 name: ios-simulator-browser
-description: Mirror an iOS Simulator into the Codex in-app browser and render SwiftUI previews from importable Swift packages in that simulator with hot reload. Use when a user wants to watch or interact with an iOS app in the browser, see a SwiftUI preview outside Xcode Canvas, iterate live on a preview, or capture browser-visible simulator proof.
+description: "将 iOS 模拟器镜像到 Codex 内置浏览器，并在该模拟器中热重载渲染可导入 Swift 包的 SwiftUI 预览。适用于需要在浏览器中查看或操作 iOS 应用、在 Xcode Canvas 之外查看 SwiftUI 预览、实时迭代预览，或在浏览器中截取模拟器证明截图的场景。"
 ---
 
 # iOS Simulator Browser

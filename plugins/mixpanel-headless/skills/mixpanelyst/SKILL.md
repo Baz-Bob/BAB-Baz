@@ -1,6 +1,6 @@
 ---
 name: mixpanelyst
-description: This skill should be used when the user asks about Mixpanel product analytics, event data, funnel analysis, retention curves, cohort analysis, segmentation queries, user behavior, conversion rates, churn, DAU/MAU, ARPU, revenue metrics, feature adoption, A/B test results, user paths, flow analysis, or any request to query, explore, visualize, or analyze Mixpanel data using Python. Also use when the user asks to read, write, or manage Mixpanel "business context" — the markdown documentation that grounds AI assistants in an organization's structure and goals.
+description: "当用户询问 Mixpanel 产品分析、事件数据、漏斗分析、留存曲线、队列分析、分群查询、用户行为、转化率、流失、DAU/MAU、ARPU、营收指标、功能采用率、A/B 测试结果、用户路径、流程分析，或需要用 Python 查询、探索、可视化或分析 Mixpanel 数据时使用。也适用于读取、写入或管理 Mixpanel「业务背景」——即用于帮助 AI 助手理解组织结构与目标的 Markdown 文档。"
 allowed-tools: Bash Read Write WebFetch
 ---
 

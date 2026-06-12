@@ -1,6 +1,6 @@
 ---
 name: cron-jobs
-description: Vercel Cron Jobs configuration and best practices. Use when adding, editing, or debugging scheduled tasks in vercel.json.
+description: "Vercel Cron Jobs 配置与最佳实践。在 vercel.json 中添加、编辑或调试计划任务时使用。"
 metadata:
   priority: 6
   docs:

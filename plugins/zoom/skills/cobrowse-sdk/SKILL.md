@@ -1,6 +1,6 @@
 ---
 name: zoom-cobrowse-sdk
-description: Use when using Cobrowse.
+description: "使用 Cobrowse SDK 时使用。"
 ---
 
 # Zoom Cobrowse SDK

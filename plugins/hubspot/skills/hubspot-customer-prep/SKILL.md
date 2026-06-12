@@ -1,6 +1,6 @@
 ---
 name: hubspot-customer-prep
-description: Use when preparing HubSpot customer briefs for meetings, renewals, QBRs, sales calls, escalations, handoffs, or follow-ups.
+description: "当需要为会议、续约、季度业务回顾、销售电话、升级处理、交接或跟进准备 HubSpot 客户简报时使用。"
 ---
 
 # HubSpot Customer Prep

@@ -1,6 +1,6 @@
 ---
 name: shopify-partner
-description: "The Partner API lets you programmatically access data about your Partner Dashboard, including your apps, themes, and affiliate referrals."
+description: "Partner API 允许通过程序访问合作伙伴仪表盘的数据，包括应用、主题和推荐佣金。"
 compatibility: Requires Node.js
 metadata:
   author: Shopify

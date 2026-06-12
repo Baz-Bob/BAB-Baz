@@ -1,6 +1,6 @@
 ---
 name: d3-data-visualization
-description: Build custom data visualizations with D3. Use when the user needs SVG or DOM-based charts, rich annotation, domain-native contextual backgrounds, data joins, custom scales or interactions, scroll-driven SVG scene states, or precise control over browser visualization behavior.
+description: "使用 D3 构建自定义数据可视化。适用于需要基于 SVG 或 DOM 的图表、丰富标注、领域原生背景、数据连接、自定义比例尺或交互、滚动驱动的 SVG 场景状态，或对浏览器可视化行为需要精确控制的场景。"
 ---
 
 # D3 Data Visualization

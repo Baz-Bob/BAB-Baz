@@ -1,6 +1,6 @@
 {
   "name": "outlook-email",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Work with Outlook Email using the configured Microsoft Outlook app connector.",
   "author": {
     "name": "OpenAI",
@@ -19,10 +19,10 @@
   "apps": "./.app.json",
   "interface": {
     "displayName": "Outlook Email",
-    "shortDescription": "Triage Outlook inboxes and draft replies",
-    "longDescription": "Use Outlook Email to triage inboxes, summarize threads, extract actions, and draft replies or forwards through the connected Microsoft Outlook app.",
+    "shortDescription": "整理 Outlook 收件箱并起草回复",
+    "longDescription": "使用 Outlook Email 整理收件箱、汇总会话、提取行动项，并通过已连接的 Microsoft Outlook 应用起草回复或转发邮件。",
     "developerName": "OpenAI",
-    "category": "Productivity",
+    "category": "Communication",
     "capabilities": [
       "Interactive",
       "Write"
@@ -31,7 +31,7 @@
     "privacyPolicyURL": "https://www.microsoft.com/en-us/privacy/privacystatement",
     "termsOfServiceURL": "https://www.microsoft.com/en-us/servicesagreement/",
     "defaultPrompt": [
-      "Triage inbox, summarize thread, or draft reply or forward"
+      "整理收件箱、汇总会话或起草回复/转发"
     ],
     "brandColor": "#0078D4",
     "composerIcon": "./assets/app-icon.png",

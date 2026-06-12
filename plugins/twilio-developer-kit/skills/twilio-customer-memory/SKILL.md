@@ -1,11 +1,6 @@
 ---
 name: twilio-customer-memory
-description: >
-  Store and retrieve customer context using Twilio Conversation Memory.
-  Covers Memory Store provisioning, profile management, traits, observations,
-  conversation summaries, and semantic Recall. Use this skill to give AI agents
-  or human agents persistent memory of customer interactions across sessions
-  and channels.
+description: "使用 Twilio Conversation Memory 存储和检索客户上下文。涵盖 Memory Store 配置、档案管理、特征、观察记录、对话摘要，以及语义召回。使用此技能可让 AI 智能体或人工坐席在跨会话、跨渠道的客户互动中拥有持久化记忆。"
 ---
 
 ## Overview

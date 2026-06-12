@@ -1,7 +1,6 @@
 ---
 name: aiq-research
-description: |
-  Use when asked to run deep research or AI-Q research through a reachable NVIDIA AI-Q Blueprint backend.
+description: "当需要通过可达的 NVIDIA AI-Q Blueprint 后端运行深度研究或 AI-Q research 时使用。"
 license: Apache-2.0
 permissions:
   env:

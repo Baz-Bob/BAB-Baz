@@ -1,6 +1,6 @@
 ---
 name: build-zoom-meeting-sdk-app
-description: Use when using Meeting SDK.
+description: "使用 Meeting SDK 时使用。"
 ---
 
 # Build Zoom Meeting SDK App

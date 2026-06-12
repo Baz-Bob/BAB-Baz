@@ -1,6 +1,6 @@
 ---
 name: build-zoom-bot
-description: Use when building bots.
+description: "构建机器人时使用。"
 ---
 
 # /build-zoom-bot

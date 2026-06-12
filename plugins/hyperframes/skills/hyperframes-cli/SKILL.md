@@ -1,6 +1,6 @@
 ---
 name: hyperframes-cli
-description: HyperFrames CLI tool — hyperframes init, lint, inspect, preview, render, transcribe, tts, doctor, browser, info, upgrade, compositions, docs, benchmark. Use when scaffolding a project, linting, validating, inspecting visual layout in compositions, previewing in the studio, rendering to video, transcribing audio, generating TTS, or troubleshooting the HyperFrames environment.
+description: "HyperFrames CLI 工具——hyperframes init、lint、inspect、preview、render、transcribe、tts、doctor、browser、info、upgrade、compositions、docs、benchmark。适用于以下场景：脚手架初始化、代码检查、校验、在合成中检查视觉布局、在工作室中预览、渲染为视频、转录音频、生成 TTS，或排查 HyperFrames 环境问题。"
 ---
 
 # HyperFrames CLI

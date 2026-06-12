@@ -1,6 +1,6 @@
 ---
 name: cellxgene-skill
-description: Submit compact CELLxGENE Discover API requests for public collection and dataset metadata. Use when a user wants concise single-cell collection summaries
+description: "向 CELLxGENE Discover API 提交简洁请求，查询公开合集和数据集元数据。适用于需要简明单细胞合集摘要的场景。"
 ---
 
 ## Operating rules

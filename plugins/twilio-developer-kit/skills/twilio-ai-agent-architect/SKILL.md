@@ -1,12 +1,6 @@
 ---
 name: twilio-ai-agent-architect
-description: >
-  Planning skill for AI-powered conversational agents. Qualifies the
-  developer's use case across outcome sophistication, entry point, and
-  customer profile to recommend the right Twilio Conversations architecture and
-  implementation skills. Handles both high-level requests ("build me a
-  voice AI assistant") and specific ones ("integrate ConversationRelay
-  with my OpenAI backend").
+description: "用于构建 AI 对话智能体的规划技能。根据开发者的目标复杂度、接入点和客户画像，推荐合适的 Twilio Conversations 架构和实施技能。适用于「帮我做一个语音 AI 助手」等高层请求，也适用于「把 ConversationRelay 与我的 OpenAI 后端集成」等具体需求。层级：发现。"
 tier: discover
 ---
 

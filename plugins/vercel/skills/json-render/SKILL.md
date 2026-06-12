@@ -1,6 +1,6 @@
 ---
 name: json-render
-description: AI chat response rendering guidance — handling UIMessage parts, tool call displays, streaming states, and structured data presentation. Use when building custom chat UIs, rendering tool results, or troubleshooting AI response display issues.
+description: "AI 聊天响应渲染指南——处理 UIMessage 部分、工具调用展示、流式状态和结构化数据呈现。在构建自定义聊天 UI、渲染工具调用结果，或排查 AI 响应展示问题时使用。"
 metadata:
   priority: 4
   docs:

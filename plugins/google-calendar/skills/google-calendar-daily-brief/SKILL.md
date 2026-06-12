@@ -1,6 +1,6 @@
 ---
 name: google-calendar-daily-brief
-description: Build polished one-day Google Calendar briefs. Use when the user asks for today, tomorrow, or a specific date summary with an agenda, conflict flags, free windows, remaining-meeting readouts, or a calendar brief, and the Google Calendar connector is available.
+description: "生成精美的 Google Calendar 单日简报。当用户询问今天、明天或特定日期的日程摘要，包括议程、冲突提示、空闲时段、剩余会议数量或日历简报时触发（需已连接 Google Calendar）。"
 ---
 
 # Google Calendar Daily Brief

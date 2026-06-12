@@ -1,6 +1,6 @@
 ---
 name: genebass-gene-burden-skill
-description: Submit compact Genebass gene burden requests for one Ensembl gene ID and one burden set. Use when a user wants concise Genebass PheWAS summaries
+description: "向 Genebass 提交简洁的基因负担请求，针对单个 Ensembl 基因 ID 和一个负担集。适用于需要简明 Genebass PheWAS 摘要的场景。"
 ---
 
 ## Operating rules

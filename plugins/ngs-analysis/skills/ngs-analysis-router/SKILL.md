@@ -1,6 +1,6 @@
 ---
 name: ngs-analysis-router
-description: Route BCL, FASTQ, BAM/CRAM, count-matrix, or VCF sequencing requests to the right public NGS analysis skill and ask only the missing assay-specific setup questions.
+description: "将 BCL、FASTQ、BAM/CRAM、count matrix 或 VCF 测序请求路由到正确的公开 NGS 分析技能，并只询问缺少的检测类型特定配置问题。"
 ---
 
 # Life Sciences NGS Analysis Router

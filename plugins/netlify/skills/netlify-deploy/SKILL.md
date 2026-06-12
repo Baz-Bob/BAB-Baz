@@ -1,6 +1,6 @@
 ---
 name: netlify-deploy
-description: Deploy projects to Netlify with the Netlify CLI. Use when the user wants to link a repo, validate deploy settings, run a deploy, or choose between preview and production flows.
+description: "使用 Netlify CLI 将项目部署到 Netlify。当用户需要关联仓库、验证部署设置、执行部署，或在预览和生产流程之间选择时使用。"
 ---
 
 # Netlify Deployment Skill

@@ -1,6 +1,6 @@
 ---
 name: google-drive-comments
-description: Write, reply to, and resolve Google Drive comments on Docs, Sheets, Slides, and Drive files with evidence-backed location context. Use when the user asks to leave comments, review a file with comments, respond to comment threads, or resolve Drive comments.
+description: "在 Docs、Sheets、Slides 和 Drive 文件上撰写、回复及解决评论，并附上有依据的位置上下文。适用于需要添加评论、带评论地审阅文件、回复评论线程或解决 Drive 评论的场景。"
 ---
 
 # Google Drive Comments

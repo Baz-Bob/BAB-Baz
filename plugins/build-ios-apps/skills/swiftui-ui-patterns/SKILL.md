@@ -1,6 +1,6 @@
 ---
 name: swiftui-ui-patterns
-description: Build and refactor SwiftUI UI with component patterns and examples. Use when shaping navigation, state, layouts, controls, or screen composition.
+description: "使用组件模式和示例构建并重构 SwiftUI UI。适用于规划导航、状态、布局、控件或页面组合的场景。"
 ---
 
 # SwiftUI UI Patterns

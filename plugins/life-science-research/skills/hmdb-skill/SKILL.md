@@ -1,6 +1,6 @@
 ---
 name: hmdb-skill
-description: Submit compact HMDB search requests for metabolites, proteins, diseases, and pathways. Use when a user wants concise HMDB summaries
+description: "向 HMDB 提交简洁的搜索请求，查询代谢物、蛋白质、疾病和通路。适用于需要简明 HMDB 摘要的场景。"
 ---
 
 ## Operating rules

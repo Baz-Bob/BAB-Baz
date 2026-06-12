@@ -1,6 +1,6 @@
 ---
 name: alphafold-skill
-description: Submit compact AlphaFold Protein Structure Database API requests for prediction, UniProt summary, sequence summary, and annotation lookups. Use when a user wants AlphaFold metadata or concise structure summaries
+description: "向 AlphaFold 蛋白质结构数据库 API 提交简洁请求，用于预测、UniProt 摘要、序列摘要和注释查询。适用于需要 AlphaFold 元数据或简明结构摘要的场景。"
 ---
 
 ## Operating rules

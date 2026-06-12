@@ -1,6 +1,6 @@
 ---
 name: game-playtest
-description: Run browser-game playtests and frontend QA. Use when the user asks for smoke tests, screenshot-based verification, browser automation, HUD or overlay review, or structured issue-finding in a browser game.
+description: "运行浏览器游戏测试和前端 QA。当用户需要冒烟测试、基于截图的验证、浏览器自动化、HUD 或叠加层审查，或在浏览器游戏中进行结构化问题排查时使用。"
 ---
 
 # Game Playtest

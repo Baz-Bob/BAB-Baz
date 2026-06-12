@@ -1,6 +1,6 @@
 ---
 name: setup
-description: Verify Daloopa MCP connection and show available skills
+description: "验证 Daloopa MCP 连接并查看可用技能"
 ---
 
 Walk the user through verifying their Daloopa setup for Codex or ChatGPT. Be conversational and helpful.

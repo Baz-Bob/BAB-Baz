@@ -1,6 +1,6 @@
 ---
 name: shopify-polaris-app-home
-description: "Build your app's primary user interface embedded in the Shopify admin. If the prompt just mentions `Polaris` and you can't tell based off of the context what API they meant, assume they meant this API."
+description: "构建嵌入在 Shopify 后台的应用主界面。如果提示词只提到 `Polaris` 且无法从上下文判断具体 API，默认使用本 API。"
 compatibility: Requires Node.js
 metadata:
   author: Shopify

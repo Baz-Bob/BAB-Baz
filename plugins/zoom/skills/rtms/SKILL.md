@@ -1,6 +1,6 @@
 ---
 name: zoom-rtms
-description: Use when using RTMS.
+description: "使用 RTMS 时使用。"
 ---
 
 # Zoom Realtime Media Streams

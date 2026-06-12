@@ -1,6 +1,6 @@
 ---
 name: phaser-2d-game
-description: Implement 2D browser games with Phaser. Use when the user wants a Phaser, TypeScript, and Vite stack for scenes, gameplay systems, cameras, sprite animation, and DOM-overlay HUD patterns.
+description: "使用 Phaser 实现 2D 浏览器游戏。当用户需要基于 Phaser、TypeScript 和 Vite 的技术栈，包括场景、游戏系统、相机、精灵动画和 DOM 叠加 HUD 模式时使用。"
 ---
 
 # Phaser 2D Game

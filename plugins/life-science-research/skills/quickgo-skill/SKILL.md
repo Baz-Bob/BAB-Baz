@@ -1,6 +1,6 @@
 ---
 name: quickgo-skill
-description: Submit compact QuickGO requests for GO terms, annotations, and ontology traversal. Use when a user wants concise QuickGO summaries
+description: "向 QuickGO 提交简洁请求，查询 GO 词条、注释和本体遍历。适用于需要简明 QuickGO 摘要的场景。"
 ---
 
 ## Operating rules

@@ -1,6 +1,6 @@
 ---
 name: vercel-cli
-description: Vercel CLI expert guidance. Use when deploying, managing environment variables, linking projects, viewing logs, managing domains, or interacting with the Vercel platform from the command line.
+description: "Vercel CLI 专家指南。在从命令行部署、管理环境变量、关联项目、查看日志、管理域名，或与 Vercel 平台交互时使用。"
 metadata:
   priority: 4
   docs:

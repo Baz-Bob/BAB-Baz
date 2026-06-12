@@ -1,6 +1,6 @@
 ---
 name: outlook-email-shared-mailboxes
-description: Work with delegated or shared Outlook Email mailboxes. Use when the user explicitly wants to read another mailbox, send from or on behalf of a shared mailbox, mark shared mail read or unread, move shared mail, or browse folders in a shared mailbox.
+description: "操作委托或共享 Outlook 邮箱。当用户明确需要读取其他邮箱、以共享邮箱身份发送邮件、标记共享邮件已读/未读、移动共享邮件，或浏览共享邮箱文件夹时触发。"
 ---
 
 # Outlook Email Shared Mailboxes

@@ -1,6 +1,6 @@
 ---
 name: shopify-polaris-customer-account-extensions
-description: "Build custom functionality that merchants can install at defined points on the Order index, Order status, and Profile pages in customer accounts. Customer Account UI Extensions also supports scaffolding new customer account extensions using Shopify CLI commands."
+description: "在客户账户的订单列表、订单状态和个人资料页面的指定节点构建可供商家安装的自定义功能。Customer Account UI Extensions 还支持使用 Shopify CLI 命令脚手架新的客户账户扩展。"
 compatibility: Requires Node.js
 metadata:
   author: Shopify

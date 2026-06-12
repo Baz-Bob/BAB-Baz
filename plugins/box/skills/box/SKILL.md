@@ -1,6 +1,6 @@
 ---
 name: box-content-api
-description: Build and troubleshoot Box integrations for uploads, folders, folder listings, downloads and previews, shared links, collaborations, search, metadata, event-driven automations, and Box AI retrieval flows. Use when Codex needs to add Box APIs or SDKs to an app, wire Box-backed document workflows, organize or share content, react to new files, or fetch Box content for search, summarization, extraction, or question-answering.
+description: "构建并排查 Box 集成，涵盖文件上传、文件夹管理、文件夹列表、下载与预览、共享链接、协作、搜索、元数据、事件驱动自动化以及 Box AI 检索流程。适用于需要在应用中接入 Box API 或 SDK、打通以 Box 为存储后端的文档工作流、整理或共享内容、响应新文件事件，或从 Box 中获取内容进行搜索、摘要、提取或问答的场景。"
 ---
 
 # Box Content API

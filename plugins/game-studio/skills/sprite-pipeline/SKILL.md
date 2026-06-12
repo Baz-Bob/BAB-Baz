@@ -1,6 +1,6 @@
 ---
 name: sprite-pipeline
-description: Generate and normalize 2D sprite animations. Use when the user asks for full-strip generation from approved source frames, consistent anchor and scale normalization, or preview assets for browser-game animation.
+description: "生成和规范化 2D 精灵动画。当用户需要从已审批的源帧生成完整动画条、统一锚点和缩放，或为浏览器游戏动画准备预览资产时使用。"
 ---
 
 # Sprite Pipeline

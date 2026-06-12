@@ -1,6 +1,6 @@
 ---
 name: statistical-and-uncertainty-visualization
-description: Design statistically honest and uncertainty-aware visualizations. Use when the user needs help showing distributions, intervals, confidence, missingness, sampling effects, or analytical rigor in charts and dashboards.
+description: "设计统计诚实且能体现不确定性的可视化。适用于需要展示分布、区间、置信度、缺失数据、采样效应，或在图表和仪表盘中体现分析严谨性的场景。"
 ---
 
 # Statistical and Uncertainty Visualization

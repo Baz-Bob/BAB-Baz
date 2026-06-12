@@ -1,6 +1,6 @@
 ---
 name: netlify-functions
-description: Guide for writing Netlify serverless functions. Use when creating API endpoints, background processing, scheduled tasks, or any server-side logic using Netlify Functions. Covers modern syntax (default export + Config), TypeScript, path routing, background functions, scheduled functions, streaming, and method routing.
+description: "编写 Netlify Serverless 函数的指南。在创建 API 端点、后台处理、计划任务，或任何使用 Netlify Functions 的服务端逻辑时使用。涵盖现代语法（默认导出 + Config）、TypeScript、路径路由、后台函数、计划函数、流式传输和方法路由。"
 ---
 
 # Netlify Functions

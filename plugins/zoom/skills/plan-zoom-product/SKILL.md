@@ -1,6 +1,6 @@
 ---
 name: plan-zoom-product
-description: Use when choosing products.
+description: "选择产品方案时使用。"
 ---
 
 # /plan-zoom-product

@@ -1,6 +1,6 @@
 ---
 name: shopify-onboarding-merchant
-description: "Set up and connect a Shopify store from your AI assistant. Use when the user wants to: set up my Shopify store, connect my store, install Shopify plugin, get started with Shopify, manage my store, add products to my store, merchant onboarding, start selling online, Shopify setup help, create my first store, how do I set up an online store, import products, migrate from Square, migrate from WooCommerce, migrate from Etsy, migrate from Amazon, migrate from eBay, migrate from Wix, import from Google Merchant Center, migrate from Clover, migrate from Lightspeed, move products to Shopify, import catalog, replatform to Shopify. This is for store owners — not developers."
+description: "通过 AI 助手配置和连接 Shopify 店铺。适用于用户需要：配置 Shopify 店铺、连接店铺、安装 Shopify 插件、Shopify 入门、管理店铺、添加商品、商家入门引导、开始在线销售、Shopify 配置帮助、创建第一个店铺、如何搭建网店、导入商品、从 Square/WooCommerce/Etsy/Amazon/eBay/Wix/Google Merchant Center/Clover/Lightspeed 迁移、移动商品目录、迁移到 Shopify。本技能面向店铺所有者，不面向开发者。"
 compatibility: Claude Code, Claude Desktop, Cursor
 context: fork
 maintainer: Shopify

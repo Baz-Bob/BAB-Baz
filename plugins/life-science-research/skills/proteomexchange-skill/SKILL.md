@@ -1,6 +1,6 @@
 ---
 name: proteomexchange-skill
-description: Submit compact ProteomeXchange PROXI requests for datasets, libraries, peptidoforms, proteins, PSMs, spectra, and USI examples. Use when a user wants concise PROXI summaries
+description: "向 ProteomeXchange PROXI 提交简洁请求，查询数据集、文库、肽段形式、蛋白质、PSM、谱图和 USI 示例。适用于需要简明 PROXI 摘要的场景。"
 ---
 
 ## Operating rules

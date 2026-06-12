@@ -1,6 +1,6 @@
 ---
 name: bootstrap
-description: Project bootstrapping orchestrator for repos that depend on Vercel-linked resources (databases, auth, and managed integrations). Use when setting up or repairing a repository so linking, environment provisioning, env pulls, and first-run db/dev commands happen in the correct safe order.
+description: "依赖 Vercel 关联资源（数据库、身份验证和托管集成）的仓库项目引导协调器。在设置或修复仓库时使用，确保关联、环境配置、env 拉取和首次运行 db/dev 命令按正确且安全的顺序执行。"
 metadata:
   priority: 8
   docs:

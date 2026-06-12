@@ -1,6 +1,6 @@
 ---
 name: signing-entitlements
-description: Inspect macOS signing, entitlements, and Gatekeeper issues. Use when diagnosing code signing, sandbox, hardened runtime, or trust failures.
+description: "检查 macOS 签名、权限和 Gatekeeper 问题。适用于诊断代码签名、沙箱、强化运行时或信任失败的场景。"
 ---
 
 # Signing & Entitlements

@@ -1,6 +1,6 @@
 {
   "name": "factset",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Financial data, estimates, market analytics, and research context",
   "author": {
     "name": "FactSet",
@@ -13,15 +13,15 @@
   "interface": {
     "displayName": "FactSet",
     "developerName": "FactSet",
-    "shortDescription": "Financial data, estimates, market analytics, and research context",
-    "longDescription": "Financial data, estimates, market analytics, and research context",
-    "category": "Research",
+    "shortDescription": "金融数据、预测、市场分析与研究背景",
+    "longDescription": "金融数据、预测、市场分析与研究背景",
+    "category": "Finance",
     "capabilities": [],
     "brandColor": "#182850",
     "defaultPrompt": [
-      "Pull FactSet consensus estimates and recent price performance for a ticker.",
-      "Compare margins, revenue growth, and valuation multiples across this peer set in FactSet.",
-      "Find recent broker research headlines for a company in FactSet and summarize sentiment."
+      "提取某股票代码的 FactSet 一致性预测和近期价格表现。",
+      "在 FactSet 中对比这组同行的利润率、营收增长和估值倍数。",
+      "查找 FactSet 中某公司的最新卖方研究标题，并梳理市场情绪。"
     ],
     "screenshots": [],
     "composerIcon": "./assets/logo.png",

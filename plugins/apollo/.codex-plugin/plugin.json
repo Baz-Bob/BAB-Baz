@@ -1,6 +1,6 @@
 {
   "name": "apollo",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "B2B prospecting, account research, contacts, and outreach lists",
   "author": {
     "name": "Apollo",
@@ -13,15 +13,15 @@
   "interface": {
     "displayName": "Apollo",
     "developerName": "Apollo",
-    "shortDescription": "B2B prospecting, account research, contacts, and outreach lists",
-    "longDescription": "B2B prospecting, account research, contacts, and outreach lists",
-    "category": "Productivity",
+    "shortDescription": "B2B 潜客开发、客户调研、联系人与外联名单",
+    "longDescription": "B2B 潜客开发、客户调研、联系人与外联名单",
+    "category": "Business & Operations",
     "capabilities": [],
     "brandColor": "#E8F028",
     "defaultPrompt": [
-      "Find verified contacts matching this ICP in Apollo and rank the best prospects.",
-      "Research a company in Apollo and identify decision makers for this use case.",
-      "Build an outreach list for this industry with recent growth or hiring signals."
+      "在 Apollo 中找出符合此 ICP 的已验证联系人，并筛选出最优质的潜客。",
+      "在 Apollo 中调研某公司，找出该场景的决策者。",
+      "针对该行业构建外联名单，筛选近期有增长或招聘信号的目标。"
     ],
     "screenshots": [],
     "composerIcon": "./assets/logo.png",

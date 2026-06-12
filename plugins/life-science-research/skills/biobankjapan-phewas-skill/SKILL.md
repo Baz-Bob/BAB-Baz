@@ -1,6 +1,6 @@
 ---
 name: biobankjapan-phewas-skill
-description: Fetch compact BioBank Japan PheWAS summaries for single variants by accepting rsID, GRCh38, or GRCh37 input and resolving to the required GRCh37 query. Use when a user wants concise BBJ association results for one variant
+description: "获取 BioBank Japan PheWAS 单变异体的简明摘要，支持 rsID、GRCh38 或 GRCh37 输入，并自动解析为所需的 GRCh37 查询。适用于需要某一变异体简明 BBJ 关联结果的场景。"
 ---
 
 ## Operating rules

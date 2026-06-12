@@ -1,6 +1,6 @@
 ---
 name: ncbi-blast-skill
-description: Submit, poll, and summarize NCBI BLAST Common URL API jobs (Blast.cgi) for nucleotide or protein sequences. Use when a user wants RID status, BLAST results, or compact top-hit summaries; fetch raw Text/JSON2 only on request.
+description: "通过 NCBI BLAST Common URL API（Blast.cgi）提交、轮询并汇总核苷酸或蛋白质序列的 BLAST 作业。适用于需要 RID 状态、BLAST 结果或简明 top-hit 摘要的场景；仅在明确要求时获取原始 Text/JSON2 数据。"
 ---
 
 ## Operating rules

@@ -1,6 +1,6 @@
 {
   "name": "network-solutions",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "The Network Solutions Domain Search Assistant makes finding an available domain fast, simple, and conversat...",
   "author": {
     "name": "Network Solutions",
@@ -13,8 +13,8 @@
   "apps": "./.app.json",
   "interface": {
     "displayName": "Network Solutions",
-    "shortDescription": "The Network Solutions Domain Search Assistant makes finding an available domain fast, simple, and conversat...",
-    "longDescription": "The Network Solutions Domain Search Assistant makes finding an available domain fast, simple, and conversational. Instead of searching one name at a time, users can describe their idea in plain language and instantly check domain availability across relevant extensions. The assistant helps refine names, suggest alternatives, and quickly identify options that are ready to register.\n\nBuilt to remove friction and frustration from domain discovery, this chat-powered experience keeps users moving forward when names are taken and surfaces smarter, brand-ready options in real time. Whether you\u2019re launching a business, starting a personal project, or exploring new ideas, Network Solutions helps you go from concept to available domain with confidence.",
+    "shortDescription": "Network Solutions 域名搜索助手让查找可用域名变得快速、简单、对话化。",
+    "longDescription": "Network Solutions 域名搜索助手让查找可用域名变得快速、简单、对话化。用户无需逐个搜索，只需用自然语言描述创意，即可即时查询相关后缀的域名可用情况。助手帮助优化名称、推荐备选方案，快速找出可注册的选项。\n\n专为消除域名发现过程中的摩擦与挫败感而设计——当目标名称被占用时，对话式体验推动用户继续前进，并实时呈现更聪明、更具品牌感的可用方案。无论是创业、启动个人项目还是探索新想法，Network Solutions 都能帮你从创意到可用域名，一步到位。",
     "developerName": "Network Solutions",
     "category": "Productivity",
     "capabilities": [],
@@ -22,7 +22,7 @@
     "privacyPolicyURL": "https://www.newfold.com/privacy-center",
     "termsOfServiceURL": "https://legal.newfold.com/TermsOfUse.pdf",
     "defaultPrompt": [
-      "Searching for specific domain"
+      "搜索特定域名"
     ],
     "screenshots": [],
     "composerIcon": "./assets/app-icon.png",

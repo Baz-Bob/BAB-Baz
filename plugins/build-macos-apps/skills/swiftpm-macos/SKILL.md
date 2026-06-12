@@ -1,6 +1,6 @@
 ---
 name: swiftpm-macos
-description: Build, run, and test SwiftPM macOS packages and executables. Use when the repo is package-first or has no Xcode project.
+description: "构建、运行和测试 SwiftPM macOS 包及可执行文件。适用于仓库以包为主或没有 Xcode 项目的场景。"
 ---
 
 # SwiftPM for macOS

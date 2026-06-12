@@ -1,10 +1,6 @@
 ---
 name: twilio-iam-auth-setup
-description: >
-  Set up and manage Twilio authentication credentials: Auth Tokens, API keys
-  (Standard, Main, Restricted), Access Tokens for client-side SDKs, and
-  credential rotation. Use this skill as a prerequisite foundation before
-  making any Twilio API calls.
+description: "设置并管理 Twilio 认证凭据：Auth Token、API Key（标准型、主型、受限型）、客户端 SDK 用 Access Token，以及凭据轮换。在发起任何 Twilio API 调用前，应将此技能作为基础前置步骤。"
 ---
 
 ## Overview

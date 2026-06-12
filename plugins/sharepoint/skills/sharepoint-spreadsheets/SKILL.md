@@ -1,6 +1,6 @@
 ---
 name: sharepoint-spreadsheets
-description: Edit SharePoint-hosted spreadsheet files while preserving workbook structure, formulas, and formatting. Use when the user wants to update a real spreadsheet in SharePoint rather than summarize extracted sheet text.
+description: "编辑 SharePoint 托管的电子表格文件，同时保留工作簿结构、公式和格式。适用于用户希望更新 SharePoint 中真实电子表格（而非仅汇总提取的表格文本）的场景。"
 ---
 
 # SharePoint Spreadsheets

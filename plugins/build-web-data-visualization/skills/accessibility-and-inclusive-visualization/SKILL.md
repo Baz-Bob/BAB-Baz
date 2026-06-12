@@ -1,6 +1,6 @@
 ---
 name: accessibility-and-inclusive-visualization
-description: Make data visualizations accessible and inclusive. Use when the user needs chart or diagram accessibility guidance, text alternatives for complex visuals, color and contrast review, keyboard support, reduced-motion behavior for animation or parallax, or an accessibility QA workflow for exported figures, UML-like diagrams, and dashboards.
+description: "让数据可视化兼顾无障碍和包容性。适用于需要图表或图示无障碍指南、为复杂视觉内容提供文字替代方案、颜色和对比度审查、键盘支持、动画或视差的减少动效行为，或对导出图形、类 UML 图和仪表盘进行无障碍质量检查的场景。"
 ---
 
 # Accessibility and Inclusive Visualization

@@ -1,6 +1,6 @@
 ---
 name: ngs-fastq-qc
-description: Validate FASTQ inputs, run local FastQC/MultiQC QC, interpret QC signals, and optionally execute fastp or Cutadapt trimming branches without overwriting raw reads.
+description: "验证 FASTQ 输入，运行本地 FastQC/MultiQC QC，解读 QC 信号，并可选执行 fastp 或 Cutadapt 修剪，不覆盖原始数据。"
 ---
 
 # FASTQ QC

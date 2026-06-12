@@ -1,21 +1,6 @@
 ---
 name: twilio-enterprise-knowledge
-description: >
-  Add knowledge retrieval to AI agents using Twilio's Enterprise Knowledge
-  product. Enterprise Knowledge is a centralized, searchable repository of your
-  organization's documents, websites, and content — FAQs, support policies,
-  warranty terms, product catalogs. Current models don't have access to how you
-  run your business today. Enterprise Knowledge gives agents a way to query this
-  repository during a conversation and ground their responses in your actual
-  approved source material. This skill covers provisioning a Knowledge Base and
-  uploading knowledge sources from web URLs, PDFs, and raw text, and running
-  semantic search to retrieve relevant chunks at runtime. Enterprise Knowledge is
-  shared across your organization — it captures what your organization knows and
-  how it is meant to run. It is distinct from Conversation Memory
-  (twilio-customer-memory), which is scoped to individual end-customers and
-  captures what you know about a specific person. The two are designed to be
-  combined: enterprise content for business practices, customer memory for
-  personalization.
+description: "使用 Twilio Enterprise Knowledge 产品为 AI 智能体添加知识检索能力。Enterprise Knowledge 是集中式、可搜索的组织文档库，包含网站、内容、常见问题、支持政策、保修条款、产品目录等。现有模型无法了解你的业务运营方式，Enterprise Knowledge 让智能体在对话中查询该库，并以实际审批材料作为响应依据。此技能涵盖知识库配置、从网页 URL、PDF 和原始文本上传知识源，以及运行时语义搜索以检索相关片段。Enterprise Knowledge 在整个组织内共享，记录组织的知识与运营规范，有别于 Conversation Memory（twilio-customer-memory）——后者以单个终端用户为范围，记录特定客户的个人信息。两者可组合使用：企业内容用于业务实践，客户记忆用于个性化。"
 ---
 
 ## Overview

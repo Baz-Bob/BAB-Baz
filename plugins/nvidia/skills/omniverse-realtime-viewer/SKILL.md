@@ -1,6 +1,6 @@
 ---
 name: omniverse-realtime-viewer
-description: "Use as the top-level router for Omniverse Realtime Viewer USD app requests and focused viewer reference documents."
+description: "作为 Omniverse Realtime Viewer USD 应用请求及 Viewer 参考文档的顶层路由使用。"
 version: "0.1.0"
 license: Apache-2.0
 tools:

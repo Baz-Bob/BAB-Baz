@@ -1,6 +1,6 @@
 ---
 name: security-scan
-description: "Use when the user asks for a repository-wide or scoped-path security scan."
+description: "当用户要求对整个仓库或特定路径进行安全扫描时使用。"
 metadata:
   short-description: Run security scan
 ---

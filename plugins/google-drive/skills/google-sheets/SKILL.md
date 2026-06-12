@@ -1,6 +1,6 @@
 ---
 name: google-sheets
-description: Analyze and edit connected Google Sheets with range precision. Use when the user wants to create Google Sheets, find a spreadsheet, inspect tabs or ranges, search rows, plan formulas, create or repair charts, clean or restructure tables, write concise summaries, or make explicit cell-range updates.
+description: "以精确的区域范围分析和编辑已连接的 Google Sheets。适用于需要创建 Google Sheets、查找电子表格、查看标签页或区域、搜索行、规划公式、创建或修复图表、清理或重构表格、撰写简明摘要，或明确更新指定单元格区域的场景。"
 ---
 
 # Google Sheets

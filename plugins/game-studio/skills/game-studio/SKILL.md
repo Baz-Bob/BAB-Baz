@@ -1,6 +1,6 @@
 ---
 name: game-studio
-description: Route early browser-game work. Use when the user needs stack selection and workflow planning across design, implementation, assets, and playtesting before moving to a specialist skill.
+description: "路由浏览器游戏早期工作。当用户需要在进入专项技能前，完成跨设计、实现、资产和测试的技术栈选型与工作流规划时使用。"
 ---
 
 # Game Studio

@@ -1,6 +1,6 @@
 ---
 name: build-zoom-video-sdk-app
-description: Use when using Video SDK.
+description: "使用 Video SDK 时使用。"
 ---
 
 # Build Zoom Video SDK App

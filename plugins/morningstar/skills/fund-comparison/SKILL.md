@@ -1,6 +1,6 @@
 ---
 name: fund-comparison
-description: Use when comparing 2 to 4 funds or ETFs with Morningstar ratings, returns, risk, and holdings data.
+description: "当需要使用 Morningstar 评级、收益率、风险及持仓数据对比 2 至 4 只基金或 ETF 时使用。"
 ---
 
 # Fund Comparison

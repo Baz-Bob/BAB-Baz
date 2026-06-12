@@ -1,6 +1,6 @@
 ---
 name: shadcn
-description: shadcn/ui expert guidance — CLI, component installation, composition patterns, custom registries, theming, Tailwind CSS integration, and high-quality interface design. Use when initializing shadcn, adding components, composing product UI, building custom registries, configuring themes, or troubleshooting component issues.
+description: "shadcn/ui 专家指南——CLI、组件安装、组合模式、自定义注册表、主题、Tailwind CSS 集成和高质量界面设计。在初始化 shadcn、添加组件、组合产品 UI、构建自定义注册表、配置主题，或排查组件问题时使用。"
 metadata:
   priority: 6
   docs:

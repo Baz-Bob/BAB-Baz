@@ -1,6 +1,6 @@
 {
   "name": "quickbooks",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "QuickBooks accounting, invoices, expenses, customers, and payment context",
   "author": {
     "name": "QuickBooks",
@@ -13,18 +13,18 @@
   "apps": "./.app.json",
   "interface": {
     "displayName": "QuickBooks",
-    "shortDescription": "QuickBooks accounting, invoices, expenses, customers, and payment context",
-    "longDescription": "QuickBooks accounting, invoices, expenses, customers, and payment context",
+    "shortDescription": "QuickBooks 账务、发票、费用、客户及付款上下文",
+    "longDescription": "QuickBooks 账务、发票、费用、客户及付款上下文",
     "developerName": "QuickBooks",
-    "category": "Corporate Finance",
+    "category": "Finance",
     "capabilities": [],
     "websiteURL": "https://quickbooks.intuit.com",
     "privacyPolicyURL": "https://www.intuit.com/privacy/statement/",
     "termsOfServiceURL": "https://quickbooks.intuit.com/legal/",
     "defaultPrompt": [
-      "Find overdue QuickBooks invoices and summarize who needs follow-up.",
-      "Pull QuickBooks expenses by category this month and flag anomalies.",
-      "Review QuickBooks customers and recent payments for this account."
+      "找出 QuickBooks 中逾期未付的发票并汇总需要跟进的对象。",
+      "按类别汇总本月 QuickBooks 费用并标出异常项。",
+      "查看该账户的 QuickBooks 客户信息及近期付款记录。"
     ],
     "brandColor": "#2CA01C",
     "composerIcon": "./assets/logo.png",

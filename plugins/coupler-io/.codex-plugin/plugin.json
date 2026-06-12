@@ -1,6 +1,6 @@
 {
   "name": "coupler-io",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Analyze multi-channel marketing, financial, sales, e-commerce, and other business data within Codex by co...",
   "author": {
     "url": "https://www.coupler.io/",
@@ -13,15 +13,15 @@
   "apps": "./.app.json",
   "interface": {
     "displayName": "Coupler.io",
-    "shortDescription": "Analyze multi-channel marketing, financial, sales, e-commerce, and other business data within Codex by co...",
-    "longDescription": "Analyze multi-channel marketing, financial, sales, e-commerce, and other business data within Codex by connecting to your Coupler.io data flows. Fetch and transform raw data from platforms like Google Ads, Facebook, HubSpot, and Salesforce into actionable intelligence for smarter, faster decision-making with accurate, up-to-date business information.\n\nYou can use the Coupler.io connector to:\n\n1. Analyze customer acquisition costs: \"What's our overall customer acquisition cost across all paid channels this quarter compared to last quarter? I need this for the board meeting\"\n2. Review marketing ROI: \"Show me the ROI breakdown by marketing channel for the past 6 months. I need to reallocate our annual budget\"\n3. Identify high-performing campaigns:\"Which campaigns are contributing most to our pipeline revenue? I want to double down on what's working\"\n4. Review sales pipeline: \"Can you pull the sales pipeline report for this month? I need to see how many deals are in each stage and the total value at each stage\"\n5. Analyze conversion rates: \"What are our conversion rates from lead to opportunity and from opportunity to closed-won for the last quarter? How do they compare to our targets?\"\n6. Forecast revenue: \"How many deals are expected to close this month based on their probability scores? What's our forecasted revenue vs our monthly target?\"\n7. Compare quarterly profits: \"Check the profit for this quarter, compare it to last quarter, and provide a breakdown by department\"\n8. Generate cash flow reports: \"Could you provide a cash flow report for the last 30 days, including all incoming and outgoing transactions?\"\n9. Review accounts receivable: \"Share the current accounts receivable status and tell me how many overdue invoices we have and which customers owe the most\"",
-    "category": "Productivity",
+    "shortDescription": "在 Codex 中分析多渠道营销、财务、销售、电商及其他业务数据，通过连接 Coupler.io 数据流实现。",
+    "longDescription": "在 Codex 中分析多渠道营销、财务、销售、电商及其他业务数据，通过连接 Coupler.io 数据流实现。从 Google Ads、Facebook、HubSpot、Salesforce 等平台拉取并转化原始数据，转化为可操作的业务洞察，助力更快、更准的决策。\n\nCoupler.io 连接器支持以下场景：\n\n1. 分析客户获取成本：「本季度与上季度相比，我们在所有付费渠道的整体客户获取成本是多少？我需要为董事会会议准备数据。」\n2. 查看营销 ROI：「请展示过去 6 个月各营销渠道的 ROI 明细，我需要重新分配年度预算。」\n3. 识别高效投放：「哪些投放活动对我们的销售管道收入贡献最大？我想加大在有效方向上的投入。」\n4. 审查销售管道：「能否拉一下本月的销售管道报告？我需要了解各阶段的商机数量和总价值。」\n5. 分析转化率：「上季度从线索到商机、从商机到成交赢单的转化率分别是多少？与目标相比如何？」\n6. 预测营收：「根据概率得分，本月预计有多少商机会成交？预测营收与月度目标的差距是多少？」\n7. 对比季度利润：「请查看本季度利润，与上季度对比，并按部门分类列出明细。」\n8. 生成现金流报告：「能否提供过去 30 天的现金流报告，包含所有收入和支出记录？」\n9. 审查应收账款：「请提供当前应收账款状态，告诉我有多少逾期发票，以及哪些客户欠款最多。」",
+    "category": "Data & Analytics",
     "capabilities": [],
     "websiteURL": "https://www.coupler.io/",
     "privacyPolicyURL": "https://www.coupler.io/privacy-policy",
     "termsOfServiceURL": "https://www.coupler.io/terms-of-use",
     "defaultPrompt": [
-      "Show overall spend, impressions, clicks, and CPC"
+      "展示整体支出、展示量、点击量和每次点击费用"
     ],
     "screenshots": [],
     "composerIcon": "./assets/app-icon.png",

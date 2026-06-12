@@ -1,6 +1,6 @@
 ---
 name: opentargets-skill
-description: Submit compact Open Targets Platform GraphQL requests for target, disease, drug, variant, study, and search data, including associated-disease datasource heatmap matrices. Use when a user wants concise Open Targets summaries or per-datasource evidence context
+description: "向 Open Targets Platform 提交简洁的 GraphQL 请求，查询靶标、疾病、药物、变异体、研究和搜索数据，包括关联疾病数据源热图矩阵。适用于需要简明 Open Targets 摘要或各数据源证据上下文的场景。"
 ---
 
 ## Operating rules

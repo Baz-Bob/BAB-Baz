@@ -1,17 +1,6 @@
 ---
 name: chronograph-gp-meeting-prep
-description: >
-  Prepare an LP to meet with their fund manager (GP): review the fund's latest
-  reporting, surface what changed since last period, and draft the questions
-  worth raising. Use when someone is getting ready for a manager call, quarterly
-  check-in, annual meeting, LPAC meeting, or a re-up decision — for example "I
-  have my quarterly call with this manager next week, help me prep," "what
-  changed in this fund this quarter," "what should I ask them about these marks,"
-  or "what are the red flags in this reporting package." Draws on Chronograph
-  fund and portfolio data when connected — captured reporting such as fund
-  performance, schedules of investments, and portfolio company KPI profiles —
-  and asks the LP to provide anything else it needs, such as a capital account
-  statement, investor letter, or AGM or board deck.
+description: "帮 LP 准备与基金管理人(GP)的会面:回顾基金最新报告、梳理自上期以来的变化、起草值得提的问题。当有人要准备管理人通话、季度沟通、年度会议、LPAC 会议或再投(re-up)决策时使用——比如「下周和这位管理人有季度通话,帮我准备」「这只基金这季度有什么变化」「这些估值我该问他们什么」「这份报告里有哪些 red flag」。连接后会调用 Chronograph 的基金与投资组合数据(如基金业绩、投资明细表、被投公司 KPI 档案等已归集的报告),并会让 LP 补充其它所需材料,如资本账户对账单、投资人信函、AGM 或董事会材料。"
 ---
 
 # Chronograph GP Meeting Prep

@@ -1,11 +1,6 @@
 ---
 name: twilio-taskrouter-routing
-description: >
-  Route tasks to agents using Twilio TaskRouter. Covers Workers, Task
-  Queues, Workflows, Reservations, skills-based routing, and common
-  gotchas (hyphen attributes, HAS operator, reservation cascade). Use this
-  skill for any multi-agent contact center, support queue, or AI agent
-  escalation routing.
+description: "使用 Twilio TaskRouter 将任务路由到坐席。涵盖 Workers、任务队列、工作流、Reservation、基于技能的路由，以及常见问题（连字符属性、HAS 操作符、Reservation 级联）。适用于任何多坐席呼叫中心、客服队列，或 AI 智能体升级路由的场景。"
 ---
 
 ## Overview

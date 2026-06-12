@@ -1,11 +1,6 @@
 ---
 name: twilio-sendgrid-inbound-parse
-description: >
-  Receive inbound email via SendGrid Inbound Parse webhook. Covers MX
-  record setup, parsed vs raw mode, handling attachments, and common
-  pitfalls. Use when building email-to-app workflows like support ticket
-  creation or email processing pipelines. Requires a SendGrid API key
-  (SG.-prefix) — not applicable to the Twilio Email API (comms.twilio.com).
+description: "通过 SendGrid Inbound Parse Webhook 接收入站邮件。涵盖 MX 记录配置、解析模式与原始模式、处理附件，以及常见问题。适用于构建邮件转应用工作流（如支持工单创建或邮件处理流水线）的场景。需要 SendGrid API Key（SG. 前缀）——不适用于 Twilio Email API（comms.twilio.com）。"
 ---
 
 ## Overview

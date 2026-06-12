@@ -1,6 +1,6 @@
 ---
 name: ucp
-description: "Use when the user wants to use the UCP CLI to find, compare, buy, or track products from online merchants, or to set up and troubleshoot the local UCP profile required for merchant-scoped operations. Covers global catalog search (\"find me X under $Y\"), named-merchant transactions (\"buy this from Z.com\"), order tracking, `ucp profile init`, `ucp doctor`, carts, checkout, orders, and UCP setup/help. Falls back to merchant-hosted handoff when direct in-protocol checkout isn't available."
+description: "适用于用户需要使用 UCP CLI 从在线商家查找、比较、购买或追踪商品，或配置和排查本地 UCP Profile（商家级操作的前提）。涵盖全局目录搜索（\"帮我找价格在 $Y 以内的 X\"）、指定商家交易（\"从 Z.com 购买这个\"）、订单追踪、`ucp profile init`、`ucp doctor`、购物车、结账、订单管理和 UCP 配置/帮助。当无法直接在协议内完成结账时，回退到商家托管的跳转链接。"
 compatibility: Requires UCP CLI
 requires_bin: ucp
 command: ucp

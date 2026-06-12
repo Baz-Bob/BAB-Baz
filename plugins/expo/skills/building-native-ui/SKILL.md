@@ -1,6 +1,6 @@
 ---
 name: building-native-ui
-description: Complete guide for building beautiful apps with Expo Router. Covers fundamentals, styling, components, navigation, animations, patterns, and native tabs.
+description: "使用 Expo Router 构建精美应用的完整指南，涵盖基础知识、样式、组件、导航、动画、模式和原生标签页。"
 version: 1.0.1
 license: MIT
 ---

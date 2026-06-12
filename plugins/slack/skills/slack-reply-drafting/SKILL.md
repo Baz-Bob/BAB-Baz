@@ -1,6 +1,6 @@
 ---
 name: slack-reply-drafting
-description: Draft Slack replies from available context. Use when the user wants help finding messages that likely need a response and preparing reply drafts.
+description: "根据可用上下文起草 Slack 回复。当用户需要帮助找出可能待回复的消息并准备回复草稿时触发。"
 ---
 
 # Slack Reply Drafting

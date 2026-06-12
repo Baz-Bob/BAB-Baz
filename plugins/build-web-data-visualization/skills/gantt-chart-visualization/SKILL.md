@@ -1,6 +1,6 @@
 ---
 name: gantt-chart-visualization
-description: Design, critique, route, and implement Gantt charts and schedule visualizations. Use when the user mentions Gantt charts, project schedules, roadmaps with task spans, milestones, dependencies, predecessors, critical path, baselines, WBS, resource plans, capacity timelines, MS Project, Primavera P6, Jira Advanced Roadmaps, GitHub Projects, Smartsheet, monday.com, Asana, ClickUp, Azure DevOps iterations, or importing/exporting project-management data for a timeline chart.
+description: "设计、批评、路由和实现甘特图及排期可视化。适用于用户提及甘特图、项目排期、带任务跨度的路线图、里程碑、依赖关系、前置任务、关键路径、基准线、WBS、资源计划、容量时间线、MS Project、Primavera P6、Jira Advanced Roadmaps、GitHub Projects、Smartsheet、monday.com、Asana、ClickUp、Azure DevOps 迭代，或为时间线图表导入/导出项目管理数据的场景。"
 ---
 
 # Gantt Chart Visualization

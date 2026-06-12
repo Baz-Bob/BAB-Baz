@@ -1,6 +1,6 @@
 ---
 name: deepnote
-description: Use when a task mentions Deepnote, the connected Deepnote app, Deepnote OAuth connection, Deepnote docs, projects, workspaces, notebooks, blocks, integrations, or notebook runs.
+description: "适用于任务涉及 Deepnote、已连接的 Deepnote 应用、Deepnote OAuth 连接、Deepnote 文档、项目、工作区、笔记本、块、集成或笔记本运行的场景。"
 ---
 
 # Deepnote Router

@@ -1,6 +1,6 @@
 ---
 name: gh-address-comments
-description: Address actionable GitHub pull request review feedback. Use when the user wants to inspect unresolved review threads, requested changes, or inline review comments on a PR, then implement selected fixes. Use the GitHub app for PR metadata and flat comment reads, and use the bundled GraphQL script via `gh` whenever thread-level state, resolution status, or inline review context matters.
+description: "处理 GitHub pull request 中的审查反馈。适用于需要查看未解决的审查线程、被要求修改的内容或 PR 内联评论，并逐一落实修复的场景。PR 元数据和普通评论读取使用 GitHub 应用，涉及线程级状态、解决状态或内联审查上下文时，优先通过 `gh` 调用内置 GraphQL 脚本。"
 ---
 
 # GitHub PR Comment Handler

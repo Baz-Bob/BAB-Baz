@@ -1,6 +1,6 @@
 ---
 name: scrollytelling-and-parallax-data-visualization
-description: Design and implement parallax scrolling and scrollytelling data visualizations. Use when the user asks for parallax scrolling, scrollytelling, scroll-driven timelines, sticky graphics, Scrollama, ScrollTrigger, ScrollTimeline, view timelines, rich-media timelines, moviescrollers, scroll-scrubbed charts, staged narrative reveals, or interactive visual stories where scrolling changes a data visualization or media scene.
+description: "设计并实现视差滚动和滚动叙事数据可视化。适用于用户提及视差滚动、滚动叙事、滚动驱动时间线、固定图形、Scrollama、ScrollTrigger、ScrollTimeline、视图时间线、富媒体时间线、movie scroller、滚动擦洗图表、分阶段叙事揭示，或需要通过滚动改变数据可视化或媒体场景的交互式视觉故事的场景。"
 ---
 
 # Scrollytelling and Parallax Data Visualization

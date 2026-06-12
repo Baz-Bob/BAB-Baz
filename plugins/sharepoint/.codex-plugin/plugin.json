@@ -1,6 +1,6 @@
 {
   "name": "sharepoint",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Work with SharePoint using the configured Microsoft SharePoint app connector.",
   "author": {
     "name": "OpenAI",
@@ -19,8 +19,8 @@
   "apps": "./.app.json",
   "interface": {
     "displayName": "SharePoint",
-    "shortDescription": "Summarize SharePoint sites and files",
-    "longDescription": "Use SharePoint to summarize sites, pages, and files, extract owners and status, and plan safe content updates through the connected Microsoft SharePoint app.",
+    "shortDescription": "汇总 SharePoint 站点和文件",
+    "longDescription": "使用 SharePoint 汇总站点、页面和文件，提取所有者和状态，并通过已连接的 Microsoft SharePoint 应用规划安全的内容更新。",
     "developerName": "OpenAI",
     "category": "Productivity",
     "capabilities": [
@@ -31,7 +31,7 @@
     "privacyPolicyURL": "https://www.microsoft.com/en-us/privacy/privacystatement",
     "termsOfServiceURL": "https://www.microsoft.com/en-us/servicesagreement/",
     "defaultPrompt": [
-      "Summarize a SharePoint site or file, identify owners and status, or plan a safe update across documents, spreadsheets, or decks"
+      "汇总 SharePoint 站点或文件、识别所有者和状态，或规划跨文档、电子表格或演示文稿的安全更新"
     ],
     "brandColor": "#038387",
     "composerIcon": "./assets/app-icon.png",

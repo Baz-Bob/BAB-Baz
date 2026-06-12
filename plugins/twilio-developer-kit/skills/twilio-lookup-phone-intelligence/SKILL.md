@@ -1,10 +1,6 @@
 ---
 name: twilio-lookup-phone-intelligence
-description: >
-  Look up phone number intelligence via Twilio Lookup v2 API. Covers number
-  validation, line type detection (mobile/landline/VoIP), SIM swap detection,
-  caller name, identity match, and SMS pumping risk scoring. Use this skill
-  to validate numbers or assess fraud risk before sending messages or calls.
+description: "通过 Twilio Lookup v2 API 查询电话号码情报。涵盖号码验证、线路类型检测（移动/固话/VoIP）、SIM 卡换卡检测、来电号码归属、身份匹配，以及 SMS 刷量风险评分。适用于在发送消息或发起通话前验证号码或评估欺诈风险的场景。"
 ---
 
 ## Overview

@@ -1,6 +1,6 @@
 ---
 name: ngs-dna-variant-calling
-description: Dispatch WGS, WES, or targeted DNA variant requests to germline, somatic, or UMI-panel skills, then plan public nf-core/sarek, GATK4, DeepVariant, samtools, or bcftools workflows.
+description: "将 WGS、WES 或靶向 DNA 变异请求分发到胚系、体细胞或 UMI panel 技能，并规划 nf-core/sarek、GATK4、DeepVariant、samtools 或 bcftools 工作流。"
 ---
 
 # DNA Variant Calling

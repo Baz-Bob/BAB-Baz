@@ -1,6 +1,6 @@
 {
   "name": "sendgrid",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Connector for interacting with the SendGrid email API.",
   "author": {
     "name": "OpenAI",
@@ -13,17 +13,17 @@
   "apps": "./.app.json",
   "interface": {
     "displayName": "SendGrid",
-    "shortDescription": "Connector for interacting with the SendGrid email API.",
+    "shortDescription": "与 SendGrid 邮件 API 交互的连接器。",
     "developerName": "OpenAI",
     "category": "Developer Tools",
     "capabilities": [],
     "websiteURL": "https://sendgrid.com/",
     "privacyPolicyURL": "https://www.twilio.com/legal/privacy",
     "defaultPrompt": [
-      "Review email metrics and summarize deliverability"
+      "查看邮件指标并汇总送达情况"
     ],
     "screenshots": [],
-    "longDescription": "Connector for interacting with the SendGrid email API.",
+    "longDescription": "与 SendGrid 邮件 API 交互的连接器。",
     "composerIcon": "./assets/app-icon.png",
     "logo": "./assets/app-icon.png"
   }

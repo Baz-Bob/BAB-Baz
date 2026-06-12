@@ -1,6 +1,6 @@
 ---
 name: circleci-builds
-description: Diagnose and fix failing CircleCI builds quickly and safely. Use when users ask to investigate failed CircleCI jobs, triage flaky pipelines, identify root causes from logs, and implement minimal fixes in configuration, test setup, or build-related code paths.
+description: "快速、安全地诊断并修复失败的 CircleCI 构建。适用于需要排查失败的 CircleCI 作业、分析不稳定的 pipeline、从日志中定位根因，并在配置、测试设置或构建相关代码路径中实施最小化修复的场景。"
 ---
 
 # CircleCI Builds

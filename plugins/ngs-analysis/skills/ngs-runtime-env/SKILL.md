@@ -1,6 +1,6 @@
 ---
 name: ngs-runtime-env
-description: Check whether public NGS tools and packages already exist before downloading, installing, or running a sequencing pipeline.
+description: "在下载、安装或运行测序流程前，检查公开 NGS 工具和软件包是否已存在。"
 ---
 
 # NGS Runtime Environment

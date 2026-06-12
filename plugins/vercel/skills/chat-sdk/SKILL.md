@@ -1,6 +1,6 @@
 ---
 name: chat-sdk
-description: Vercel Chat SDK expert guidance. Use when building multi-platform chat bots — Slack, Telegram, Microsoft Teams, Discord, Google Chat, GitHub, Linear — with a single codebase. Covers the Chat class, adapters, threads, messages, cards, modals, streaming, state management, and webhook setup.
+description: "Vercel Chat SDK 专家指南。在用单一代码库构建多平台聊天机器人时使用——支持 Slack、Telegram、Microsoft Teams、Discord、Google Chat、GitHub、Linear。涵盖 Chat 类、适配器、会话线程、消息、卡片、弹窗、流式传输、状态管理和 Webhook 设置。"
 metadata:
   priority: 8
   docs:

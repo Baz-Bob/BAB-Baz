@@ -1,6 +1,6 @@
 ---
 name: "yeet"
-description: "Publish local changes to GitHub by confirming scope, committing intentionally, pushing the branch, and opening a draft PR through the GitHub app from this plugin, with `gh` used only as a fallback where connector coverage is insufficient."
+description: "将本地改动发布到 GitHub——确认变更范围、有意识地提交、推送分支，并通过本插件的 GitHub 应用创建草稿 PR；仅在 connector 覆盖不足时以 `gh` 作为兜底。"
 ---
 
 # GitHub Publish Changes

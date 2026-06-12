@@ -1,6 +1,6 @@
 ---
 name: earnings-flash
-description: Rapid first-read earnings flash for a given company
+description: "针对指定公司的财报快报（第一读）"
 ---
 
 Generate a rapid earnings flash for the company specified by the user named in the user's request. If no ticker or company is provided, ask for one before proceeding.

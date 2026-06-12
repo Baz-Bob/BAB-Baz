@@ -1,6 +1,6 @@
 {
   "name": "third-bridge",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Seamlessly incorporate critical context and trusted insights from industry experts as part of your financia...",
   "author": {
     "name": "Third Bridge Group",
@@ -13,16 +13,16 @@
   "apps": "./.app.json",
   "interface": {
     "displayName": "Third Bridge",
-    "shortDescription": "Seamlessly incorporate critical context and trusted insights from industry experts as part of your financia...",
-    "longDescription": "Seamlessly incorporate critical context and trusted insights from industry experts as part of your financial and business analysis. Refocus on extracting high-quality, reliable information by querying Third Bridge\u2019s best-in-class substantial Library of expert content and data.\n\nOur MCP systematically and securely instructs Large Language Models (LLMs) to query insights from our database into their systems, streamlining your workflows and improving your output.",
+    "shortDescription": "在金融和商业分析中无缝融入行业专家的关键洞见与可信见解。",
+    "longDescription": "在金融和商业分析中无缝融入行业专家的关键洞见与可信见解。通过查询 Third Bridge 一流的专家内容与数据资料库，专注提取高质量、高可靠性的信息。\n\n我们的 MCP 系统化、安全地引导大语言模型（LLM）从数据库中提取见解并整合到其工作流中，提升效率，改善输出质量。",
     "developerName": "Third Bridge Group",
-    "category": "Research",
+    "category": "Finance",
     "capabilities": [],
     "websiteURL": "https://www.thirdbridge.com",
     "privacyPolicyURL": "https://www.thirdbridge.com/en-us/about-us/compliance/policies/privacy-policy",
     "termsOfServiceURL": "https://www.thirdbridge.com/en-us/about-us/compliance/policies/third-bridge-mcp-pilot-terms",
     "defaultPrompt": [
-      "Competitive analysis based on Third Bridge expert network"
+      "基于 Third Bridge 专家网络进行竞争分析"
     ],
     "screenshots": [],
     "composerIcon": "./assets/app-icon.png",

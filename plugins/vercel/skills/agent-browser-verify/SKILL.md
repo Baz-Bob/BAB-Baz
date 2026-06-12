@@ -1,6 +1,6 @@
 ---
 name: agent-browser-verify
-description: Automated browser verification for dev servers. Triggers when a dev server starts to run a visual gut-check with agent-browser — verifies the page loads, checks for console errors, validates key UI elements, and reports pass/fail before continuing.
+description: "开发服务器的自动浏览器验证。开发服务器启动时触发，使用 agent-browser 运行视觉快速检查——验证页面加载、检查控制台错误、验证关键 UI 元素，并在继续前报告通过/失败结果。"
 metadata:
   priority: 2
   docs:

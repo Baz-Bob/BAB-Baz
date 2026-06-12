@@ -1,6 +1,6 @@
 ---
 name: ui-toolkit
-description: Use when using Zoom UI Toolkit.
+description: "使用 Zoom UI Toolkit 时使用。"
 ---
 
 # Zoom Video SDK UI Toolkit

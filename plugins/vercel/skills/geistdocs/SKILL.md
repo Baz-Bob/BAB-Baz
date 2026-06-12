@@ -1,6 +1,6 @@
 ---
 name: geistdocs
-description: Expert guidance for Geistdocs, Vercel's documentation template built with Next.js and Fumadocs — MDX authoring, configuration, AI chat, i18n, feedback, deployment. Use when creating documentation sites, configuring geistdocs, writing MDX content, or setting up docs infrastructure.
+description: "Geistdocs 专家指南——基于 Next.js 和 Fumadocs 构建的 Vercel 文档模板，支持 MDX 编写、配置、AI 聊天、国际化、反馈和部署。在创建文档站点、配置 geistdocs、编写 MDX 内容或搭建文档基础设施时使用。"
 metadata:
   priority: 5
   docs:

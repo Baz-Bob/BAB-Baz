@@ -1,6 +1,6 @@
 ---
 name: guidance-tracker
-description: Track management guidance accuracy over time for a given company
+description: "追踪指定公司管理层业绩指引的历史准确性"
 ---
 
 Track management guidance accuracy for the company named in the user's request. If no ticker or company is provided, ask for one before proceeding.

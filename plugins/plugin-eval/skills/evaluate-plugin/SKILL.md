@@ -1,6 +1,6 @@
 ---
 name: evaluate-plugin
-description: Evaluate a local Codex plugin in engineer-friendly language. Use when the user says "evaluate this plugin", "audit this plugin", "why did this score that way", "what should I fix first", "help me benchmark this plugin", or asks for a plugin-wide report before comparing versions.
+description: "以工程师友好的方式评估本地 Codex 插件。适用于用户说「评估这个插件」「审计这个插件」「为什么得了这个分」「我应该先修什么」「帮我对这个插件做基准测试」，或在对比版本前请求全插件报告的场景。"
 ---
 
 # Evaluate Plugin

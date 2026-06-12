@@ -1,6 +1,6 @@
 ---
 name: fa-jobs-to-be-done
-description: Use when the user asks for D&B Finance Analytics workflows such as customer onboarding, credit decisioning, credit limit validation, portfolio risk management, company reports, ownership trees, folder management, or alerts. Use only the D&B Finance Analytics MCP tools for these workflows.
+description: "当用户询问 D&B Finance Analytics 工作流时使用，包括客户入驻、信贷决策、信用额度验证、组合风险管理、公司报告、股权架构、文件夹管理或预警。此类工作流仅使用 D&B Finance Analytics MCP 工具。"
 metadata:
   mcp_server: finance_analytics_mcp_server
   codex_plugin: dnb-finance-analytics

@@ -1,6 +1,6 @@
 {
   "name": "gmail",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Work with Gmail using the configured Gmail app connector.",
   "author": {
     "name": "OpenAI",
@@ -19,10 +19,10 @@
   "apps": "./.app.json",
   "interface": {
     "displayName": "Gmail",
-    "shortDescription": "Read and manage Gmail",
-    "longDescription": "Use Gmail to summarize inbox activity, draft replies, and organize email threads through the connected Gmail app.",
+    "shortDescription": "读取和管理 Gmail",
+    "longDescription": "使用 Gmail 汇总收件箱动态、起草回复，并通过已连接的 Gmail 应用整理邮件会话。",
     "developerName": "OpenAI",
-    "category": "Productivity",
+    "category": "Communication",
     "capabilities": [
       "Interactive",
       "Write"
@@ -31,7 +31,7 @@
     "privacyPolicyURL": "https://policies.google.com/privacy",
     "termsOfServiceURL": "https://policies.google.com/terms",
     "defaultPrompt": [
-      "Summarize inbox, draft replies, or process email threads"
+      "汇总收件箱、起草回复或处理邮件会话"
     ],
     "brandColor": "#EA4335",
     "composerIcon": "./assets/gmail-small.svg",

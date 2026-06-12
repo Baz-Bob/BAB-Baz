@@ -1,6 +1,6 @@
 ---
 name: huggingface-community-evals
-description: Run evaluations for Hugging Face Hub models using inspect-ai and lighteval on local hardware. Use for backend selection, local GPU evals, and choosing between vLLM / Transformers / accelerate. Not for HF Jobs orchestration, model-card PRs, .eval_results publication, or community-evals automation.
+description: "使用 inspect-ai 和 lighteval 在本地硬件上对 Hugging Face Hub 模型运行评估。适用于后端选择、本地 GPU 评估，以及在 vLLM / Transformers / accelerate 之间做选择。不适用于 HF Jobs 编排、模型卡 PR、`.eval_results` 发布或社区评估自动化。"
 ---
 
 # Overview

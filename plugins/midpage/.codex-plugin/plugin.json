@@ -1,6 +1,6 @@
 {
   "name": "midpage",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Legal research, cases, statutes, regulations, and cited research memos",
   "author": {
     "name": "Midpage",
@@ -13,15 +13,15 @@
   "interface": {
     "displayName": "Midpage",
     "developerName": "Midpage",
-    "shortDescription": "Legal research, cases, statutes, regulations, and cited research memos",
-    "longDescription": "Legal research, cases, statutes, regulations, and cited research memos",
-    "category": "Research",
+    "shortDescription": "法律研究、案例、法规、条例与带引用的研究备忘录",
+    "longDescription": "法律研究、案例、法规、条例与带引用的研究备忘录",
+    "category": "Education & Research",
     "capabilities": [],
     "brandColor": "#000000",
     "defaultPrompt": [
-      "Search Midpage for cases relevant to this legal issue and summarize the strongest authorities.",
-      "Find statutes and regulations related to this matter and explain how they apply.",
-      "Draft a research memo from Midpage results with citations and open questions."
+      "在 Midpage 中搜索与此法律问题相关的案例，梳理最有分量的权威依据。",
+      "找出与此事项相关的法规和条例，并说明其适用方式。",
+      "基于 Midpage 检索结果起草一份带引用和待解问题的研究备忘录。"
     ],
     "screenshots": [],
     "composerIcon": "./assets/logo.png",

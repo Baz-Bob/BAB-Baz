@@ -1,14 +1,6 @@
 ---
 name: neon-postgres-egress-optimizer
-description: >-
-  Diagnose and fix excessive Postgres egress (network data transfer) in a codebase.
-  Use when a user mentions high database bills, unexpected data transfer costs,
-  network transfer charges, egress spikes, "why is my Neon bill so high",
-  "database costs jumped", SELECT * optimization, query overfetching,
-  reduce Neon costs, optimize database usage, or wants to reduce data sent
-  from their database to their application. Also use when reviewing query
-  patterns for cost efficiency, even if the user doesn't explicitly mention
-  egress or data transfer.
+description: "诊断并修复代码库中 Postgres 出口流量（网络数据传输）过高的问题。适用场景：用户提到数据库账单高涨、意外的数据传输费用、网络传输费用、出口流量突增、「Neon 账单为何这么贵」、「数据库成本突然增加」、SELECT * 优化、查询过度拉取、降低 Neon 成本、优化数据库使用，或希望减少数据库向应用传输的数据量。即使用户未明确提及出口流量或数据传输，也适用于审查查询模式以提升成本效率。"
 ---
 
 # Postgres Egress Optimizer

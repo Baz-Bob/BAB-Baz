@@ -1,6 +1,6 @@
 ---
 name: deepnote-data-execution
-description: Use when running Deepnote notebooks, inspecting notebook inputs, reviewing integration references and cached table structure, listing run history, or interpreting run status and snapshot outputs through the Deepnote app tools.
+description: "适用于运行 Deepnote 笔记本、检查笔记本输入、查看集成引用和缓存表结构、列出运行历史，或通过 Deepnote 应用工具解读运行状态和快照输出的场景。"
 ---
 
 # Deepnote Data And Execution

@@ -1,6 +1,6 @@
 ---
 name: huggingface-paper-publisher
-description: Publish and manage research papers on Hugging Face Hub. Supports creating paper pages, linking papers to models/datasets, claiming authorship, and generating professional markdown-based research articles.
+description: "在 Hugging Face Hub 上发布和管理研究论文。支持创建论文页面、将论文关联到模型/数据集、认领作者身份，以及生成专业的 Markdown 研究文章。"
 ---
 
 # Overview

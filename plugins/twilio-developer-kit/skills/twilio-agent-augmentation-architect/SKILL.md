@@ -1,11 +1,6 @@
 ---
 name: twilio-agent-augmentation-architect
-description: >
-  Planning skill for augmenting human agents with real-time AI
-  intelligence. Qualifies the developer's use case across coaching,
-  compliance, QA, and routing to recommend the right Conversation Intelligence + Conversation Memory +
-  TaskRouter architecture. Handles both "I want to add AI coaching to
-  my call center" and "configure Conversation Intelligence operators for script adherence."
+description: "用于为人工坐席配备实时 AI 辅助的规划技能。根据开发者在辅导、合规、质检和路由等方面的需求，推荐合适的 Conversation Intelligence + Conversation Memory + TaskRouter 架构。适用于「我想给呼叫中心加 AI 辅导」和「配置 Conversation Intelligence 算子以检查话术合规」等各类需求。层级：发现。"
 tier: discover
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: ngs-scrna-seq
-description: Route single-cell or single-nucleus RNA-seq FASTQs to public count-generation workflows and defer post-count matrix QC, annotation, clustering, and UMAP analysis to the embedded scrna-seq-qc skill.
+description: "将单细胞或单核 RNA-seq FASTQ 路由到公开 count 生成工作流，并将 count matrix 后续的 QC、注释、聚类和 UMAP 分析交给内嵌的 scrna-seq-qc 技能处理。"
 ---
 
 # Single-cell RNA-seq

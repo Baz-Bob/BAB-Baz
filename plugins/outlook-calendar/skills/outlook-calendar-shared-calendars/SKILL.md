@@ -1,6 +1,6 @@
 ---
 name: outlook-calendar-shared-calendars
-description: Safely write to delegated or shared Outlook calendars. Use when the user explicitly wants to create, update, respond to, cancel, delete, or add a small attachment to an event on a shared or delegated Outlook Calendar.
+description: "安全写入委托或共享 Outlook 日历。当用户明确需要在共享或委托 Outlook Calendar 上创建、更新、回复、取消、删除活动，或为活动添加小附件时触发。"
 ---
 
 # Outlook Calendar Shared Calendars

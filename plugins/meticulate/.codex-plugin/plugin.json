@@ -1,6 +1,6 @@
 {
   "name": "meticulate",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Company matching, firmographic lookup, and go-to-market account intelligence",
   "author": {
     "name": "Meticulate"
@@ -12,15 +12,15 @@
   "interface": {
     "displayName": "Meticulate",
     "developerName": "Meticulate",
-    "shortDescription": "Company matching, firmographic lookup, and go-to-market account intelligence",
-    "longDescription": "Company matching, firmographic lookup, and go-to-market account intelligence",
+    "shortDescription": "公司匹配、企业画像查询与市场推广客户情报",
+    "longDescription": "公司匹配、企业画像查询与市场推广客户情报",
     "category": "Productivity",
     "capabilities": [],
     "brandColor": "#7000D8",
     "defaultPrompt": [
-      "Search Meticulate for companies matching this ICP and summarize the strongest fits.",
-      "Look up a company by SFDC account ID and fetch its firmographic summary.",
-      "Find companies similar to this seed company and explain why they are good lookalikes."
+      "在 Meticulate 中搜索符合此 ICP 的公司，梳理最匹配的目标。",
+      "通过 SFDC 客户 ID 查询某公司并获取其企业画像摘要。",
+      "找出与此种子公司相似的企业，并说明相似原因。"
     ],
     "screenshots": [],
     "composerIcon": "./assets/logo.png",

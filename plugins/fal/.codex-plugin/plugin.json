@@ -1,6 +1,6 @@
 {
   "name": "fal",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "AI image and media generation workflows using Fal models",
   "author": {
     "name": "Fal",
@@ -13,20 +13,20 @@
   "apps": "./.app.json",
   "interface": {
     "displayName": "Fal",
-    "shortDescription": "AI image and media generation workflows using Fal models",
-    "longDescription": "AI image and media generation workflows using Fal models",
+    "shortDescription": "使用 Fal 模型进行 AI 图像与媒体生成",
+    "longDescription": "使用 Fal 模型进行 AI 图像与媒体生成工作流",
     "developerName": "Fal",
-    "category": "Creative Production",
+    "category": "Creativity",
     "capabilities": [],
     "websiteURL": "https://fal.ai",
     "defaultPrompt": [
-      "Use Fal to generate an image from this prompt and summarize the selected model settings.",
-      "Find Fal models for image generation or editing and recommend the best fit for this task.",
-      "Run a Fal image edit or upscaling workflow and summarize the output parameters."
+      "用 Fal 根据这段提示词生成图像，并汇总所选模型的参数设置。",
+      "查找适合图像生成或编辑的 Fal 模型，推荐最适合当前任务的方案。",
+      "运行 Fal 图像编辑或放大工作流，并汇总输出参数。"
     ],
     "brandColor": "#D60045",
-    "composerIcon": "./assets/logo.png",
-    "logo": "./assets/logo.png",
+    "composerIcon": "./assets/logo-padded.png",
+    "logo": "./assets/logo-padded.png",
     "screenshots": []
   }
 }

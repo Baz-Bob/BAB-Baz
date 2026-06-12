@@ -1,7 +1,6 @@
 ---
 name: aiq-deploy
-description: |
-  Use when asked to install, deploy, run, validate, troubleshoot, or stop NVIDIA AI-Q Blueprint infrastructure.
+description: "当需要安装、部署、运行、验证、排障或停止 NVIDIA AI-Q Blueprint 基础设施时使用。"
 license: Apache-2.0
 compatibility: |
   Designed for Claude Code, OpenCode, Codex, and Agent Skills-compatible tools. Requires Git, network

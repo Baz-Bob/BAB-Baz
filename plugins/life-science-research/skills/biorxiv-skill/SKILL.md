@@ -1,6 +1,6 @@
 ---
 name: biorxiv-skill
-description: Submit compact bioRxiv and medRxiv API requests for details, publication-linkage, and DOI lookups. Use when a user wants concise preprint metadata summaries
+description: "向 bioRxiv 和 medRxiv API 提交简洁请求，用于详情、发表关联和 DOI 查询。适用于需要简明预印本元数据摘要的场景。"
 ---
 
 ## Operating rules

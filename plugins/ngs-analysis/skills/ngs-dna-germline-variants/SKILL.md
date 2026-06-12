@@ -1,6 +1,6 @@
 ---
 name: ngs-dna-germline-variants
-description: Run or plan deep germline WGS, WES, targeted-panel, cohort, or trio variant-calling workflows with reference-build, known-sites, QC, joint-calling, and annotation checks.
+description: "运行或规划深度胚系 WGS、WES、靶向 panel、队列或三联体变异检测工作流，包含参考基因组版本、已知位点、QC、联合变异检测和注释检查。"
 ---
 
 # Germline DNA Variants

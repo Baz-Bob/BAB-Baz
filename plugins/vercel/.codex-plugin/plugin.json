@@ -1,6 +1,6 @@
 {
   "name": "vercel",
-  "version": "0.21.1",
+  "version": "0.21.2",
   "description": "Build and deploy web apps and agents",
   "author": {
     "name": "Vercel Labs",
@@ -29,8 +29,8 @@
   "apps": "./.app.json",
   "interface": {
     "displayName": "Vercel",
-    "shortDescription": "Build and deploy web apps and agents",
-    "longDescription": "Bring Vercel ecosystem guidance into Codex with curated skills and the connected Vercel app. Packages the upstream vercel/vercel-plugin skills, agents, and commands under the local `vercel` plugin identity for the Codex plugin marketplace.",
+    "shortDescription": "构建和部署 Web 应用与 AI 智能体",
+    "longDescription": "通过精选技能和已连接的 Vercel 应用，将 Vercel 生态系统的指导引入 Codex。将上游 vercel/vercel-plugin 的技能、智能体和命令，以本地 `vercel` 插件身份打包提供给 Codex 插件市场。",
     "developerName": "Vercel Labs",
     "category": "Developer Tools",
     "capabilities": [
@@ -41,12 +41,12 @@
     "privacyPolicyURL": "https://vercel.com/legal/privacy-policy",
     "termsOfServiceURL": "https://vercel.com/legal/terms",
     "defaultPrompt": [
-      "Audit this repo for Vercel deployment risks",
-      "Which Vercel tools fit this app best",
-      "Help wire the Vercel app into this workflow"
+      "审查此仓库的 Vercel 部署风险",
+      "哪些 Vercel 工具最适合这个应用",
+      "帮助将 Vercel 应用接入此工作流"
     ],
-    "composerIcon": "./assets/app-icon.png",
-    "logo": "./assets/app-icon.png",
+    "composerIcon": "./assets/logo-padded.png",
+    "logo": "./assets/logo-padded.png",
     "screenshots": [],
     "brandColor": "#000000"
   }

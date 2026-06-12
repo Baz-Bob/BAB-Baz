@@ -1,6 +1,6 @@
 {
   "name": "united-rentals",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Get the right equipment for the job without guesswork.",
   "author": {
     "name": "United Rentals",
@@ -12,13 +12,13 @@
   "apps": "./.app.json",
   "interface": {
     "displayName": "United Rentals",
-    "shortDescription": "Get the right equipment for the job without guesswork.",
-    "longDescription": "Get the right equipment for the job without guesswork. Share your project details and receive tailored equipment recommendations, along with specifications to support confident selection.",
+    "shortDescription": "告别猜测，精准找到适合工作的设备。",
+    "longDescription": "告别猜测，精准找到适合工作的设备。提供项目详情，即可获得量身定制的设备推荐及规格说明，帮助你做出有把握的选择。",
     "developerName": "United Rentals",
     "category": "Productivity",
     "capabilities": [],
     "defaultPrompt": [
-      "Find the relevant United Rentals inventory or availability"
+      "查找 United Rentals 相关库存或可用设备"
     ],
     "screenshots": [],
     "websiteURL": "https://www.unitedrentals.com",

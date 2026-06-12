@@ -1,6 +1,6 @@
 ---
 name: cloudflare
-description: Comprehensive Cloudflare platform skill covering Workers, Pages, storage (KV, D1, R2), AI (Workers AI, Vectorize, Agents SDK), networking (Tunnel, Spectrum), security (WAF, DDoS), and infrastructure-as-code (Terraform, Pulumi). Use for any Cloudflare development task. Biases towards retrieval from Cloudflare docs over pre-trained knowledge.
+description: "全面覆盖 Cloudflare 平台的综合技能，包括 Workers、Pages、存储（KV、D1、R2）、AI（Workers AI、Vectorize、Agents SDK）、网络（Tunnel、Spectrum）、安全（WAF、DDoS 防护）以及基础设施即代码（Terraform、Pulumi）。适用于任何 Cloudflare 开发任务。优先从 Cloudflare 官方文档检索，而非依赖预训练知识。"
 references:
   - workers
   - pages

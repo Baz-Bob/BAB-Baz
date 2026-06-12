@@ -1,6 +1,6 @@
 ---
 name: deep-security-scan
-description: Use when the user asks for a deep, exhaustive, multi-pass, or variance-reducing repository-wide Codex Security scan. Run repeated independent repository-wide discovery passes with worker-specific threat models, semantically merge candidates, synthesize one canonical validation threat model, then run validation, attack-path analysis, and final reporting once. Repository-wide targets only; do not use for PRs, commits, branch diffs, working-tree diffs, or scoped paths.
+description: "当用户要求对仓库进行深度、穷举、多轮或降低方差的 Codex Security 全量扫描时使用。运行多轮独立的全仓库发现遍历（每轮使用专属威胁模型），语义合并候选项，合成一份规范的验证威胁模型，再统一执行验证、攻击路径分析和最终报告。仅适用于全仓库目标，不用于 PR、提交、分支差异、工作区差异或特定路径扫描。"
 metadata:
   short-description: Run a deeper Codex Security scan
 ---

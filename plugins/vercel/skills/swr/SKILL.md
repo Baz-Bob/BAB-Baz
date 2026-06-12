@@ -1,6 +1,6 @@
 ---
 name: swr
-description: SWR data-fetching expert guidance. Use when building React apps with client-side data fetching, caching, revalidation, mutations, optimistic UI, pagination, or infinite loading using the SWR library.
+description: "SWR 数据获取专家指南。在使用 SWR 库构建 React 应用的客户端数据获取、缓存、重新验证、数据变更、乐观 UI、分页或无限加载时使用。"
 metadata:
   priority: 4
   docs:

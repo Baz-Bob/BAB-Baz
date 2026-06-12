@@ -1,6 +1,6 @@
 ---
 name: comps
-description: Trading comparables analysis with peer multiples and implied valuation
+description: "基于同业估值倍数和隐含估值的交易可比分析"
 ---
 
 Build a trading comparables analysis for the company named in the user's request. If no ticker or company is provided, ask for one before proceeding.

@@ -1,15 +1,6 @@
 ---
 name: physical-ai-infrastructure-setup-and-resilient-scaling
-description: >-
-  Use when the user wants to set up, scale, validate, or harden NVIDIA
-  physical AI infrastructure for synthetic data generation workflows across
-  local MicroK8s or Azure AKS, including Kubernetes clusters, inference endpoint
-  deployment, OSMO deployment, workload submission readiness, and infrastructure
-  failure recovery. Trigger keywords: physical ai infrastructure, resilient
-  scaling, SDG infrastructure, microk8s, azure aks, NVCF deployment,
-  NIM Operator, OSMO deploy, workflow scaling. Don't trigger for: OSMO log
-  summarization or workload-only operations unless infrastructure setup, scaling,
-  validation, or recovery is requested.
+description: "当用户要为合成数据生成(SDG)工作流搭建、扩缩、验证或加固 NVIDIA physical AI 基础设施时使用,覆盖本地 MicroK8s 或 Azure AKS,包括 Kubernetes 集群、推理端点部署、OSMO 部署、工作负载提交就绪、以及基础设施故障恢复。触发词:physical ai infrastructure、resilient scaling、SDG infrastructure、microk8s、azure aks、NVCF deployment、NIM Operator、OSMO deploy、workflow scaling。不要触发:仅 OSMO 日志摘要或纯工作负载操作(除非要求基础设施搭建、扩缩、验证或恢复)。"
 license: Apache-2.0
 version: "1.0.0"
 tools:

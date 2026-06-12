@@ -1,7 +1,6 @@
 ---
 name: website-to-hyperframes
-description: |
-  Capture a website and create a HyperFrames video from it. Use when: (1) a user provides a URL and wants a video, (2) someone says "capture this site", "turn this into a video", "make a promo from my site", (3) the user wants a social ad, product tour, or any video based on an existing website, (4) the user shares a link and asks for any kind of video content. Even if the user just pastes a URL — this is the skill to use.
+description: "抓取网站内容并生成 HyperFrames 视频。适用场景：(1) 用户提供 URL 并希望制作视频；(2) 用户说「抓取这个网站」、「把这个做成视频」、「用我的网站做一个宣传片」；(3) 用户需要基于现有网站制作社媒广告、产品演示或任何视频内容；(4) 用户分享链接并请求制作任何形式的视频。即使用户只是粘贴了一个 URL，也应使用此技能。"
 ---
 
 # Website to HyperFrames

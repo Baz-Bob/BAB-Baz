@@ -1,14 +1,6 @@
 ---
 name: building-mcp-server-on-cloudflare
-description: |
-  Builds remote MCP (Model Context Protocol) servers on Cloudflare Workers
-  with tools, OAuth authentication, and production deployment. Generates
-  server code, configures auth providers, and deploys to Workers.
-
-  Use when: user wants to "build MCP server", "create MCP tools", "remote
-  MCP", "deploy MCP", add "OAuth to MCP", or mentions Model Context Protocol
-  on Cloudflare. Also triggers on "MCP authentication" or "MCP deployment".
-  Biases towards retrieval from Cloudflare docs over pre-trained knowledge.
+description: "在 Cloudflare Workers 上构建远程 MCP（Model Context Protocol）服务器，支持工具定义、OAuth 认证和生产环境部署，自动生成服务端代码、配置认证提供商并完成部署。适用场景：用户想「构建 MCP 服务器」、「创建 MCP 工具」、「远程 MCP」、「部署 MCP」、「给 MCP 加 OAuth」，或在 Cloudflare 上提及 Model Context Protocol。也适用于「MCP 认证」或「MCP 部署」相关需求。优先从 Cloudflare 官方文档检索，而非依赖预训练知识。"
 ---
 
 # Building MCP Servers on Cloudflare

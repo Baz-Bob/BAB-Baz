@@ -1,6 +1,6 @@
 ---
 name: testing-data-visualizations
-description: Test data visualizations and dashboards. Use when the user needs chart or diagram test strategy, screenshot or image diff testing, visual regression, mocked or synthetic chart data, component or unit tests, E2E dashboard QA, interactive UML-like diagram verification, scroll-driven story verification, export verification, or guidance on avoiding brittle over-testing.
+description: "测试数据可视化和仪表盘。适用于需要图表或图示测试策略、截图或图像差异测试、视觉回归测试、模拟或合成图表数据、组件或单元测试、E2E 仪表盘质量检查、交互式类 UML 图验证、滚动叙事验证、导出验证，或避免过度脆弱测试指南的场景。"
 ---
 
 # Testing Data Visualizations

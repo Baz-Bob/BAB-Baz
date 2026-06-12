@@ -1,6 +1,6 @@
 {
   "name": "superhuman",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Connect Codex to the official Superhuman Mail MCP server for email and calendar workflows.",
   "author": {
     "name": "Superhuman",
@@ -20,10 +20,10 @@
   "apps": "./.app.json",
   "interface": {
     "displayName": "Superhuman Mail",
-    "shortDescription": "Search, draft, send, and schedule through Superhuman Mail MCP",
-    "longDescription": "Connect Codex to Superhuman Mail through the official remote MCP server. Once authenticated, Codex can use Superhuman Mail tools for inbox search, thread and message lookup, draft creation, sending, read statuses, labels, Split Inboxes, calendar events, availability, and account personalization.",
+    "shortDescription": "适用于 Gmail 和 Outlook 的高效邮件应用",
+    "longDescription": "为邮件和日历构建强大的工作流与自动化。在 Codex 中搜索收件箱内容、起草符合你风格的邮件回复、查看已读状态、安排会议并发送——无需离开 Codex。",
     "developerName": "Superhuman",
-    "category": "Productivity",
+    "category": "Communication",
     "capabilities": [
       "Interactive",
       "Read",
@@ -33,9 +33,9 @@
     "privacyPolicyURL": "https://superhuman.com/privacy",
     "termsOfServiceURL": "https://superhuman.com/legal/terms",
     "defaultPrompt": [
-      "Use Superhuman Mail to summarize my inbox.",
-      "Draft replies to email that needs me today.",
-      "Find meeting availability and create an event."
+      "@Superhuman Mail 标记过去 24 小时内需要关注的事项",
+      "@Superhuman Mail 将今天的发票转发至 finance@acme.co",
+      "@Superhuman Mail 汇总创始人晚宴的回复情况，并指出哪些人还未打开"
     ],
     "brandColor": "#CE9EC6",
     "composerIcon": "./assets/superhuman-mail-small.svg",

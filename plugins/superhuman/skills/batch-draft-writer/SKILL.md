@@ -1,6 +1,6 @@
 ---
 name: batch-draft-writer
-description: Drafts multiple email replies or follow-ups in batch using the Superhuman Mail MCP server — processing your inbox in bulk rather than one email at a time. Use this skill whenever someone asks to "draft replies to my unread emails", "respond to all my emails", "write follow-ups for my meetings this week", "batch draft responses", "draft emails for all threads that need a reply", "auto-draft my inbox", "help me respond to everything", "write follow-up emails based on my meetings", "process my inbox", "draft responses to these threads", or any variation of wanting multiple emails drafted at once. Also trigger when someone says "I have a bunch of emails to respond to", "help me get through my inbox", "draft a mail merge", "send personalized emails to these people", or wants to create multiple drafts from a single prompt. Trigger broadly — if someone wants more than one email drafted, this skill should activate.
+description: "通过 Superhuman Mail MCP 服务器批量起草多封邮件回复或跟进邮件——批量处理收件箱，而非逐封处理。适用于用户要求\"起草未读邮件的回复\"、\"回复所有邮件\"、\"为本周会议写跟进邮件\"、\"批量起草回复\"、\"为所有需要回复的邮件线程起草\"、\"自动处理收件箱\"、\"帮我回复所有邮件\"、\"根据会议记录写跟进邮件\"、\"处理我的收件箱\"、\"为这些邮件线程起草回复\"，或任何一次想起草多封邮件的场景。还适用于\"我有一堆邮件要回\"、\"帮我清理收件箱\"、\"起草群发邮件\"、\"给这些人发个性化邮件\"，或需要从单个提示词创建多份草稿的情形。触发范围宜宽——只要用户想一次起草多封邮件，本技能即应激活。"
 ---
 
 # Batch Draft & Follow-Up Writer

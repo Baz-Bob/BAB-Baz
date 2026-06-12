@@ -1,6 +1,6 @@
 ---
 name: code-review
-description: Reviews code changes using CodeRabbit AI. Use when user asks for code review, PR feedback, code quality checks, security issues, or requests fix-review cycles.
+description: "使用 CodeRabbit AI 审查代码改动。适用于用户需要代码审查、PR 反馈、代码质量检查、安全问题排查，或需要修复-审查循环的场景。"
 ---
 
 # CodeRabbit Review

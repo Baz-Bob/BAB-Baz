@@ -1,6 +1,6 @@
 ---
 name: outlook-email-inbox-triage
-description: Triage an Outlook inbox into actionable buckets such as urgent, needs reply soon, waiting, and FYI using connected Outlook data. Use when the user asks to triage the inbox, rank what needs attention, find what still needs a reply, or separate important mail from noise.
+description: "使用已连接的 Outlook 数据，将收件箱分类为紧急、待回复、等待中、仅供参考等可操作分组。当用户需要整理收件箱、排列待处理优先级、找出待回复邮件，或将重要邮件与噪音邮件分开时触发。"
 ---
 
 # Outlook Email Inbox Triage

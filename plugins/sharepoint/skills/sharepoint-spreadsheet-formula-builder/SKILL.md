@@ -1,6 +1,6 @@
 ---
 name: sharepoint-spreadsheet-formula-builder
-description: Design, repair, and roll out formulas in SharePoint-hosted workbooks with connector-aware retrieval, validation, and upload discipline. Use when the user wants to add a formula column, fix a broken formula, choose between a fill-down formula and a spill formula, build a lookup or filter formula, or reuse workbook logic safely.
+description: "在 SharePoint 托管的工作簿中设计、修复和部署公式，支持连接器感知的检索、验证和上传规范。适用于添加公式列、修复损坏的公式、在填充公式和溢出公式之间选择、构建查找或筛选公式，或安全复用工作簿逻辑。"
 ---
 
 # SharePoint Spreadsheet Formula Builder

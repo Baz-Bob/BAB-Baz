@@ -1,6 +1,6 @@
 ---
 name: research-note
-description: Generate a professional Word document research note
+description: "生成专业 Word 文档格式的研究报告"
 ---
 
 Generate a professional research note (HTML report) for the company specified by the user named in the user's request. If no ticker or company is provided, ask for one before proceeding.

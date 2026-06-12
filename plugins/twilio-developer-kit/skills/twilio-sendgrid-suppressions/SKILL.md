@@ -1,12 +1,6 @@
 ---
 name: twilio-sendgrid-suppressions
-description: >
-  Manage SendGrid email suppressions: bounces, blocks, spam reports,
-  invalid emails, global unsubscribes, and ASM suppression groups.
-  Covers when and how to remove suppressions, reputation impact, and
-  category-based unsubscribe management. Use when debugging SendGrid
-  delivery issues or building unsubscribe flows. Requires a SendGrid API
-  key (SG.-prefix) — not applicable to the Twilio Email API (comms.twilio.com).
+description: "管理 SendGrid 邮件抑制列表：退信、拦截、垃圾举报、无效邮件、全局退订，以及 ASM 抑制组。涵盖何时及如何移除抑制、信誉影响，以及基于分类的退订管理。适用于调试 SendGrid 投递问题或构建退订流程的场景。需要 SendGrid API Key（SG. 前缀）——不适用于 Twilio Email API（comms.twilio.com）。"
 ---
 
 ## Overview

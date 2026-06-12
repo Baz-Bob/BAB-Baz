@@ -1,6 +1,6 @@
 ---
 name: pubchem-pug-skill
-description: Submit compact PubChem PUG REST requests for compound properties, descriptions, assay summaries, and substance metadata. Use when a user wants concise PubChem summaries
+description: "向 PubChem PUG REST 提交简洁请求，查询化合物属性、描述、检测摘要和物质元数据。适用于需要简明 PubChem 摘要的场景。"
 ---
 
 ## Operating rules

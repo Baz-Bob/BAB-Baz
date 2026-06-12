@@ -1,15 +1,6 @@
 ---
 name: twilio-send-message
-description: >
-  Send messages via Twilio's Programmable Messaging API across all
-  channels — SMS, MMS, RCS, and WhatsApp. Covers text messages, media,
-  rich content (cards, carousels, buttons), template-based sends,
-  Messaging Services, status callbacks, and WhatsApp's 24-hour service
-  window. Use when the user wants to send a message — whether they
-  say "send SMS", "text message", "branded message", "rich message",
-  "WhatsApp message", "RCS message", "notification", or "alert". For
-  picking the right channel for a use case, first consult
-  twilio-messaging-channel-advisor.
+description: "通过 Twilio Programmable Messaging API 跨渠道发送消息——涵盖 SMS、MMS、RCS 和 WhatsApp。支持文本消息、媒体、富媒体内容（卡片、轮播图、按钮）、模板发送、Messaging Services、状态回调，以及 WhatsApp 24 小时服务窗口。无论用户说「发 SMS」、「发短信」、「发品牌消息」、「发富媒体消息」、「发 WhatsApp 消息」、「发 RCS 消息」、「发通知」还是「发告警」，均应使用此技能。如需为用例选择合适渠道，请先参考 twilio-messaging-channel-advisor。"
 ---
 
 ## Overview

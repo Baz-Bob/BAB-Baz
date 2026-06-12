@@ -1,6 +1,6 @@
 ---
 name: wix-manage
-description: "Wix business solution management recipes — REST API operations for configuring and managing Wix business solutions. Routes to: stores, bookings, get-paid, CMS, contacts, forms, media, app-installation, pricing-plans, restaurants, rich-content, sites, blog, calendar, domains, site-properties, ecommerce."
+description: "Wix 商业解决方案管理操作指南——通过 REST API 配置和管理 Wix 商业解决方案。涵盖：商店、预约、收款、CMS、联系人、表单、媒体、应用安装、定价方案、餐厅、富文本内容、站点、博客、日历、域名、站点属性、电商。"
 compatibility: Requires Wix REST API access (API key or OAuth).
 ---
 

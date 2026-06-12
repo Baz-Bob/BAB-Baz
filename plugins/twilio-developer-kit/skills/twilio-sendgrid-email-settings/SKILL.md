@@ -1,12 +1,6 @@
 ---
 name: twilio-sendgrid-email-settings
-description: >
-  Configure SendGrid dynamic templates (Handlebars), tracking settings
-  (opens, clicks, subscriptions), link branding for custom tracking
-  domains, and content types (HTML, plain text, AMP). Use when customizing
-  SendGrid email content, tracking behavior, or branded links. Requires a
-  SendGrid API key (SG.-prefix) — not applicable to the Twilio Email API
-  (comms.twilio.com).
+description: "配置 SendGrid 动态模板（Handlebars）、跟踪设置（打开率、点击率、订阅）、自定义跟踪域名的链接品牌化，以及内容类型（HTML、纯文本、AMP）。适用于自定义 SendGrid 邮件内容、跟踪行为或品牌链接的场景。需要 SendGrid API Key（SG. 前缀）——不适用于 Twilio Email API（comms.twilio.com）。"
 ---
 
 ## Overview

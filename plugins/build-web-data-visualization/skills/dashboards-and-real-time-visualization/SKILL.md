@@ -1,6 +1,6 @@
 ---
 name: dashboards-and-real-time-visualization
-description: Design dashboards and live visualization systems. Use when the user needs monitoring views, streaming charts, coordinated interactions, downsampling, or performance-aware operational visualization.
+description: "设计仪表盘和实时可视化系统。适用于需要监控视图、流式图表、联动交互、数据降采样或性能感知的运营可视化的场景。"
 ---
 
 # Dashboards and Real-Time Visualization

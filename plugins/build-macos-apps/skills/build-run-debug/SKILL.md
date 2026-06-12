@@ -1,6 +1,6 @@
 ---
 name: build-run-debug
-description: Build, run, and debug macOS apps with shell-first Xcode and Swift workflows. Use when launching apps or diagnosing build, startup, or runtime failures.
+description: "使用以 Shell 为主的 Xcode 和 Swift 工作流构建、运行和调试 macOS 应用。适用于启动应用或诊断构建、启动或运行时故障的场景。"
 ---
 
 # Build / Run / Debug

@@ -1,11 +1,6 @@
 ---
 name: twilio-voice-outbound-calls
-description: >
-  Make outbound phone calls via Twilio's Programmable Voice REST API. Covers
-  the full voice platform: calls.create(), answering machine detection (AMD),
-  conference-based agent bridging, call recording, status tracking, and SIP
-  Trunking. Use this skill for outbound calls, sales dialers, or when asking
-  what voice APIs are available.
+description: "通过 Twilio Programmable Voice REST API 发起外呼。涵盖完整语音平台：calls.create()、答录机检测（AMD）、基于 Conference 的坐席桥接、通话录音、状态跟踪，以及 SIP Trunking。适用于外呼、销售拨号器，或询问可用语音 API 的场景。"
 ---
 
 ## Overview

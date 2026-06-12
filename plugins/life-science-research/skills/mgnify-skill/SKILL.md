@@ -1,6 +1,6 @@
 ---
 name: mgnify-skill
-description: Submit compact MGnify API requests for microbiome studies, samples, and biome metadata. Use when a user wants concise MGnify summaries
+description: "向 MGnify API 提交简洁请求，查询微生物组研究、样本和生物群落元数据。适用于需要简明 MGnify 摘要的场景。"
 ---
 
 ## Operating rules

@@ -1,6 +1,6 @@
 ---
 name: ngs-bulk-rnaseq
-description: Dispatch bulk RNA-seq requests to FASTQ-to-count QC or count-matrix differential-expression skills using nf-core/rnaseq, STAR, Salmon, featureCounts, MultiQC, and R/Bioconductor workflows.
+description: "将批量 RNA-seq 请求分发到 FASTQ 转 count QC 或 count matrix 差异表达技能，使用 nf-core/rnaseq、STAR、Salmon、featureCounts、MultiQC 和 R/Bioconductor 工作流。"
 ---
 
 # Bulk RNA-seq

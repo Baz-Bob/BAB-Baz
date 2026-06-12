@@ -1,6 +1,6 @@
 ---
 name: slack-notification-triage
-description: Triage recent Slack activity into a priority queue or task list for the user.
+description: "将近期 Slack 动态整理为优先级队列或用户待办清单。"
 ---
 
 # Slack Notification Triage

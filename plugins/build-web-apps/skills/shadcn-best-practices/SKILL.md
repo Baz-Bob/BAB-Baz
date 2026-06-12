@@ -1,6 +1,6 @@
 ---
 name: shadcn
-description: Manages shadcn components and projects — adding, searching, fixing, debugging, styling, and composing UI. Provides project context, component docs, and usage examples. Applies when working with shadcn/ui, component registries, presets, --preset codes, or any project with a components.json file. Also triggers for "shadcn init", "create an app with --preset", or "switch to --preset".
+description: "管理 shadcn 组件和项目——包括添加、搜索、修复、调试、样式和组合 UI。提供项目上下文、组件文档和使用示例。适用于使用 shadcn/ui、组件注册表、预设、--preset 代码，或任何包含 components.json 文件的项目。也适用于 \"shadcn init\"、\"用 --preset 创建应用\" 或 \"切换到 --preset\" 等场景。"
 ---
 
 # shadcn/ui

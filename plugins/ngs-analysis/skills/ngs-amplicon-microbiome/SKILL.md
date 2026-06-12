@@ -1,6 +1,6 @@
 ---
 name: ngs-amplicon-microbiome
-description: Kick off public 16S, 18S, ITS, COI, or other marker-gene amplicon microbiome workflows using nf-core/ampliseq, QIIME2, DADA2, and Cutadapt.
+description: "使用 nf-core/ampliseq、QIIME2、DADA2 和 Cutadapt 启动公开的 16S、18S、ITS、COI 或其他标记基因扩增子微生物组分析工作流。"
 ---
 
 # Amplicon Microbiome

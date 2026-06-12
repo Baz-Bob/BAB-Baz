@@ -1,6 +1,6 @@
 ---
 name: deal-tracker
-description: Builds a relationship or deal summary using the Superhuman Mail MCP server — pulling together all email history, read receipts, and calendar interactions with a specific person or company to act as a lightweight CRM. Use this skill whenever someone asks to "show me all communication with [person/company]", "what's the status of my deal with [company]", "give me a relationship summary for [person]", "when did I last talk to [person]", "pull up everything about [company]", "track this deal", "who haven't I followed up with", "show me engagement on emails I sent to [person]", "CRM view of [person]", "what's my communication history with [person]", or any variation of wanting a consolidated view of a relationship or deal. Trigger broadly — if someone wants to understand the full picture of their interactions with a person or company, this skill should activate.
+description: "通过 Superhuman Mail MCP 服务器构建人脉或交易摘要——汇总与特定联系人或公司的全部邮件往来、已读回执和日历互动记录，作为轻量 CRM。适用于用户要求\"显示与 [联系人/公司] 的所有沟通\"、\"与 [公司] 的交易进展如何\"、\"给我 [联系人] 的人脉摘要\"、\"我上次和 [联系人] 联系是什么时候\"、\"调出关于 [公司] 的所有信息\"、\"跟踪这笔交易\"、\"哪些联系人我还没跟进\"、\"显示我发给 [联系人] 的邮件的已读情况\"、\"[联系人] 的 CRM 视图\"、\"我和 [联系人] 的沟通历史\"，或任何需要全面了解某段关系或交易的场景。触发范围宜宽——只要用户想了解与某人或某公司互动的全貌，本技能即应激活。"
 ---
 
 # Deal & Relationship Tracker

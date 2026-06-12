@@ -1,6 +1,6 @@
 ---
 name: data-visualization
-description: Route web data visualization work. Use when the user needs chart choice, visual critique, dashboards, maps or geospatial views, Gantt timelines, UML/software diagrams, scrollytelling, reports or exports, testing, accessibility, browser implementation, or concept-first visual design.
+description: "路由 Web 数据可视化工作。适用于需要选择图表类型、视觉批评、仪表盘、地图或地理空间视图、甘特时间线、UML/软件图示、滚动叙事、报告或导出、测试、无障碍、浏览器实现，或以概念为先的视觉设计的场景。"
 ---
 
 # Web Data Visualization

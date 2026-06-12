@@ -1,6 +1,6 @@
 ---
 name: uml-and-software-architecture-visualization
-description: Design, critique, read, write, render, and implement UML and UML-like software diagrams. Use when the user mentions UML, sequence diagrams, class diagrams, activity diagrams, state machines, use case diagrams, component diagrams, deployment diagrams, object diagrams, package diagrams, profile diagrams, timing diagrams, communication diagrams, interaction overview diagrams, composite structure diagrams, ERDs, database schema diagrams, C4, BPMN, swimlanes, flowcharts, network diagrams, application architecture diagrams, software architecture diagrams, diagram-as-code, model-as-code, XMI, UMLDI, PlantUML, Mermaid, Graphviz DOT, D2, Structurizr, DBML, diagrams.net/draw.io, Kroki, or interactive diagram editors and explorers.
+description: "设计、批评、阅读、编写、渲染和实现 UML 及类 UML 软件图示。适用于用户提及 UML、序列图、类图、活动图、状态机、用例图、组件图、部署图、对象图、包图、配置文件图、时序图、通信图、交互概览图、复合结构图、ERD、数据库 schema 图、C4、BPMN、泳道、流程图、网络图、应用架构图、软件架构图、图即代码、模型即代码、XMI、UMLDI、PlantUML、Mermaid、Graphviz DOT、D2、Structurizr、DBML、diagrams.net/draw.io、Kroki，或交互式图示编辑器和浏览器的场景。"
 ---
 
 # UML and Software Architecture Visualization

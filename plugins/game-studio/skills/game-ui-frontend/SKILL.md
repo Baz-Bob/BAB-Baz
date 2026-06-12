@@ -1,6 +1,6 @@
 ---
 name: game-ui-frontend
-description: Design UI surfaces for browser games. Use when the user asks for HUDs, menus, overlays, responsive layouts, or visual direction that must protect the playfield.
+description: "为浏览器游戏设计 UI 界面。当用户需要 HUD、菜单、叠加层、响应式布局，或须保护游戏画面的视觉方向时使用。"
 ---
 
 # Game UI Frontend

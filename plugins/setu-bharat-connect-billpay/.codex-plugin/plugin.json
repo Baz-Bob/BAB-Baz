@@ -1,6 +1,6 @@
 {
   "name": "setu-bharat-connect-billpay",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This app helps you pay your utility bills through simple conversation.",
   "author": {
     "name": "Setu",
@@ -12,13 +12,13 @@
   "apps": "./.app.json",
   "interface": {
     "displayName": "Setu Bharat Connect BillPay ",
-    "shortDescription": "This app helps you pay your utility bills through simple conversation.",
-    "longDescription": "This app helps you pay your utility bills through simple conversation. Instead of navigating apps or filling forms, you can just tell the assistant what you want to do\u2014like paying your electricity, broadband, or other utility bills. The app finds the right biller, fetches the exact bill amount, and guides you through payment step by step. You can check pending bills, view bill amounts before paying, confirm whether a payment was successful and ask for a summary of your bill expenses. For steps that need extra care, such as verification or confirmation, the app clearly guides you through them so nothing happens without your approval. People like this app because it removes friction from routine bill payments. You don\u2019t need to remember biller details or jump between screens\u2014just ask, review, and pay, all in one conversation.",
+    "shortDescription": "通过简单对话帮助你缴纳水电煤等公共事业账单。",
+    "longDescription": "通过简单对话帮助你缴纳水电煤等公共事业账单。无需在应用间跳转或填写表单，直接告诉助手你想做什么——比如缴纳电费、宽带费或其他公用事业账单。应用会自动找到对应账单方、获取准确账单金额，并一步步引导你完成支付。你可以查看待缴账单、在付款前确认金额、确认支付是否成功，以及查看账单支出汇总。对于需要额外核实的步骤（如验证或确认），应用会明确引导，确保每一步都经你同意。用户喜欢这款应用，因为它消除了日常缴费的繁琐——不用记住账单方信息，也不用在多个界面间来回切换，直接问、核对、支付，全程在一个对话里完成。",
     "developerName": "Setu",
-    "category": "Lifestyle",
+    "category": "Finance",
     "capabilities": [],
     "defaultPrompt": [
-      "Check the relevant bill payment context in Setu"
+      "在 Setu 中查询相关账单支付信息"
     ],
     "screenshots": [],
     "websiteURL": "https://setu.co/",

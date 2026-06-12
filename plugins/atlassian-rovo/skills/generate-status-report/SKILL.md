@@ -1,6 +1,6 @@
 ---
 name: generate-status-report
-description: "Generate project status reports from Jira issues and publish to Confluence. When an agent needs to: (1) Create a status report for a project, (2) Summarize project progress or updates, (3) Generate weekly/daily reports from Jira, (4) Publish status summaries to Confluence, or (5) Analyze project blockers and completion. Queries Jira issues, categorizes by status/priority, and creates formatted reports for delivery managers and executives."
+description: "从 Jira 问题生成项目状态报告并发布到 Confluence。适用于：(1) 创建项目状态报告，(2) 汇总项目进度或更新情况，(3) 从 Jira 生成每日/每周报告，(4) 将状态摘要发布到 Confluence，(5) 分析项目阻塞项和完成情况。查询 Jira 问题，按状态/优先级分类，并为交付经理和高管生成格式化报告。"
 ---
 
 # Generate Status Report

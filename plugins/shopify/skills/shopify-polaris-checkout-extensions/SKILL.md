@@ -1,6 +1,6 @@
 ---
 name: shopify-polaris-checkout-extensions
-description: "Build custom functionality that merchants can install at defined points in the checkout flow, including product information, shipping, payment, order summary, and Shop Pay. Checkout UI Extensions also supports scaffolding new checkout extensions using Shopify CLI commands."
+description: "在结账流程的指定节点（包括商品信息、配送、支付、订单摘要和 Shop Pay）构建可供商家安装的自定义功能。Checkout UI Extensions 还支持使用 Shopify CLI 命令脚手架新的结账扩展。"
 compatibility: Requires Node.js
 metadata:
   author: Shopify

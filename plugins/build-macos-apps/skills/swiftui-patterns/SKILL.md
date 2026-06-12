@@ -1,6 +1,6 @@
 ---
 name: swiftui-patterns
-description: Build macOS SwiftUI scenes and components with desktop patterns. Use when shaping windows, commands, toolbars, settings, split views, or inspectors.
+description: "使用桌面端模式构建 macOS SwiftUI 场景和组件。适用于规划窗口、命令、工具栏、设置、分栏视图或检查器的场景。"
 ---
 
 # SwiftUI Patterns

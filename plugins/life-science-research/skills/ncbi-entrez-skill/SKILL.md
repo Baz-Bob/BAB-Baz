@@ -1,6 +1,6 @@
 ---
 name: ncbi-entrez-skill
-description: Submit compact NCBI Entrez E-Utilities requests for PubMed, Gene, Protein, Nucleotide, PMC metadata, and GEO metadata workflows. Use when a user wants concise Entrez search, fetch, summary, or link results; save raw JSON or XML only on request.
+description: "向 NCBI Entrez E-Utilities 提交简洁请求，用于 PubMed、Gene、Protein、Nucleotide、PMC 元数据和 GEO 元数据工作流。适用于需要简明 Entrez 搜索、获取、摘要或链接结果的场景；仅在明确要求时保存原始 JSON 或 XML。"
 ---
 
 ## Operating rules

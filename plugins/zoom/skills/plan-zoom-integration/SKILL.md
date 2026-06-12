@@ -1,6 +1,6 @@
 ---
 name: plan-zoom-integration
-description: Use when planning Zoom integrations.
+description: "规划 Zoom 集成时使用。"
 ---
 
 # /plan-zoom-integration

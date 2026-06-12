@@ -1,6 +1,6 @@
 ---
 name: teams-channel-summarization
-description: Summarize activity from one Microsoft Teams channel or one scoped Teams conversation and return a concise recap or post-ready follow-up.
+description: "汇总某个 Microsoft Teams 频道或特定范围 Teams 对话的动态，返回简洁的摘要或可直接发布的跟进内容。"
 ---
 
 # Teams Channel Summarization

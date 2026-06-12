@@ -1,6 +1,6 @@
 {
   "name": "aiera",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Earnings calls, transcripts, financial events, and market commentary",
   "author": {
     "name": "Aiera",
@@ -13,15 +13,15 @@
   "interface": {
     "displayName": "Aiera",
     "developerName": "Aiera",
-    "shortDescription": "Earnings calls, transcripts, financial events, and market commentary",
-    "longDescription": "Earnings calls, transcripts, financial events, and market commentary",
-    "category": "Research",
+    "shortDescription": "财报电话会议、文字记录、金融事件与市场评论",
+    "longDescription": "财报电话会议、文字记录、金融事件与市场评论",
+    "category": "Finance",
     "capabilities": [],
     "brandColor": "#180830",
     "defaultPrompt": [
-      "Find the latest earnings call transcript for a company in Aiera and summarize key themes.",
-      "Search Aiera events for mentions of a topic across this sector this quarter.",
-      "Compare management commentary from the last two calls for a company."
+      "在 Aiera 中找到某公司最新的财报电话会议记录，并梳理核心主题。",
+      "在 Aiera 中搜索本季度该行业对某议题的提及情况。",
+      "对比某公司最近两次财报电话会议中管理层的表态。"
     ],
     "screenshots": [],
     "composerIcon": "./assets/logo.png",

@@ -1,10 +1,6 @@
 ---
 name: twilio-conversations-classic-api
-description: >
-  Build multi-channel messaging experiences using Twilio Conversations (classic) API.
-  Covers creating conversations, adding participants (SMS, WhatsApp, chat),
-  sending messages, and handling webhooks. Use this skill to manage persistent
-  multi-party or multi-channel conversations beyond single-message SMS/WhatsApp.
+description: "使用 Twilio Conversations（经典）API 构建多渠道消息体验。涵盖创建对话、添加参与者（SMS、WhatsApp、聊天）、发送消息，以及处理 Webhook。适用于管理超越单条 SMS/WhatsApp 的持久化多方或多渠道对话场景。"
 ---
 
 ## Overview

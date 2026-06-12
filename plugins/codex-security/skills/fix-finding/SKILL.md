@@ -1,6 +1,6 @@
 ---
 name: fix-finding
-description: Use when the user explicitly asks to fix and verify a validated or plausible security finding. Do not use as the primary trigger for full PR, commit, branch, patch, or repository scans.
+description: "当用户明确要求修复并验证已确认或疑似的安全问题时使用。不作为完整 PR、提交、分支、补丁或仓库扫描的主触发器。"
 metadata:
   short-description: Fix and verify security findings
 ---

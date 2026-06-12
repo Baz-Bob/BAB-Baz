@@ -1,16 +1,6 @@
 ---
 name: twilio-sendgrid-deliverability-advisor
-description: >
-  Diagnostic and advisory skill for email deliverability problems. Use when
-  a developer asks why emails are going to spam, not reaching the inbox,
-  getting blocked, bouncing, or how to improve sender reputation — with or
-  without a specified platform. Covers SendGrid-specific tooling: SPF, DKIM,
-  DMARC, BIMI, IP warmup, list hygiene, bounce/spam rate thresholds, and
-  Engagement Quality Score (SEQ). Do NOT use for Twilio Email
-  (comms.twilio.com / Account SID + Auth Token) — use
-  twilio-email-deliverability-advisor instead. Do NOT use for general email
-  sending questions — use twilio-sendgrid-email-send (SendGrid) or
-  twilio-email-deliverability-advisor instead.
+description: "邮件投递问题的诊断和顾问技能。当开发者询问邮件进垃圾箱、无法进入收件箱、被拦截、退信，或如何提升发件人信誉时使用——无论是否指定平台。涵盖 SendGrid 专属工具：SPF、DKIM、DMARC、BIMI、IP 暖机、列表卫生、退信/垃圾率阈值，以及互动质量评分（SEQ）。不适用于 Twilio Email（comms.twilio.com / Account SID + Auth Token）——请使用 twilio-email-deliverability-advisor。不适用于通用邮件发送问题——请使用 twilio-sendgrid-email-send（SendGrid）或 twilio-email-deliverability-advisor。层级：发现。"
 tier: discover
 ---
 

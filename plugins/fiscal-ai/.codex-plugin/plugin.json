@@ -1,6 +1,6 @@
 {
   "name": "fiscal-ai",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Financial research, company fundamentals, filings, and market insights from Fiscal AI",
   "author": {
     "name": "Fiscal AI",
@@ -13,16 +13,16 @@
   "apps": "./.app.json",
   "interface": {
     "displayName": "Fiscal AI",
-    "shortDescription": "Financial research, fundamentals, filings, and market insights",
-    "longDescription": "Financial research, company fundamentals, filings, and market insights from Fiscal AI",
+    "shortDescription": "金融研究、基本面数据、财务文件及市场洞察",
+    "longDescription": "来自 Fiscal AI 的金融研究、公司基本面数据、财务文件及市场洞察",
     "developerName": "Fiscal AI",
-    "category": "Financial Markets",
+    "category": "Finance",
     "capabilities": [],
     "websiteURL": "https://fiscal.ai",
     "defaultPrompt": [
-      "Search Fiscal AI for a company and summarize recent financials, filings, and key risks.",
-      "Compare revenue growth, margins, and valuation for this peer set in Fiscal AI.",
-      "Find Fiscal AI insights for this ticker and highlight the most important takeaways."
+      "在 Fiscal AI 中搜索该公司并汇总近期财务数据、申报文件及主要风险。",
+      "在 Fiscal AI 中对比同类公司的营收增速、利润率及估值水平。",
+      "查找该股票代码在 Fiscal AI 中的洞察并标出最重要的结论。"
     ],
     "brandColor": "#1A1B26",
     "composerIcon": "./assets/logo.png",

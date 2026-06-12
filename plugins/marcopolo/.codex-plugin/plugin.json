@@ -1,6 +1,6 @@
 {
   "name": "marcopolo",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "MarcoPolo spins up a secure container where Codex can work with your actual data.",
   "author": {
     "name": "Immersa, Inc.",
@@ -13,8 +13,8 @@
   "apps": "./.app.json",
   "interface": {
     "displayName": "MarcoPolo",
-    "shortDescription": "MarcoPolo spins up a secure container where Codex can work with your actual data.",
-    "longDescription": "MarcoPolo spins up a secure container where Codex can work with your actual data. Connect to your databases, APIs, S3, lakehouses, CRMs, Jira, logs and much more\u2014using scoped credentials that are never exposed to the model. \n\nCodex gets DuckDB, Python, a shell, and a set of tools to explore, query, transform, and analyze data across systems. The workspace persists over time, so that you can build on your work. \n\nPrep a report, understand your data, debug an issue, or review the latest metrics right here in the conversation.",
+    "shortDescription": "MarcoPolo 启动一个安全容器，让 Codex 可以直接处理你的真实数据。",
+    "longDescription": "MarcoPolo 启动一个安全容器，让 Codex 可以直接处理你的真实数据。通过限定范围的凭据连接数据库、API、S3、数据湖仓、CRM、Jira、日志等各类系统——模型始终无法接触到原始凭据。\n\nCodex 可使用 DuckDB、Python、Shell 及一套工具，跨系统探索、查询、转换和分析数据。工作区持久保存，支持在之前工作基础上继续深入。\n\n直接在对话中准备报告、理解数据、排查问题或查看最新指标。",
     "developerName": "Immersa, Inc.",
     "category": "Developer Tools",
     "capabilities": [],
@@ -22,7 +22,7 @@
     "privacyPolicyURL": "https://marcopolo.dev/privacy-policy",
     "termsOfServiceURL": "https://marcopolo.dev/terms-and-conditions",
     "defaultPrompt": [
-      "Available data sources to query or update"
+      "列出可查询或更新的数据源"
     ],
     "screenshots": [],
     "composerIcon": "./assets/app-icon.png",

@@ -1,11 +1,6 @@
 ---
 name: twilio-security-compliance-hipaa
-description: >
-  Configure Twilio accounts for HIPAA compliance. Covers BAA requirements,
-  HIPAA Project designation (self-service and support), eligible services
-  list, per-product requirements (Voice, SMS, ConversationRelay, Conversation Intelligence,
-  Flex, Verify), message redaction, and what is NOT eligible. Use this
-  skill when developers are building healthcare workflows on Twilio.
+description: "为满足 HIPAA 合规要求配置 Twilio 账户。涵盖 BAA 要求、HIPAA Project 指定（自助服务和客服支持）、合规服务列表、各产品要求（Voice、SMS、ConversationRelay、Conversation Intelligence、Flex、Verify）、消息脱敏，以及不适用的场景。适用于在 Twilio 上构建医疗健康工作流的开发者。"
 ---
 
 ## Overview

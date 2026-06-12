@@ -1,13 +1,6 @@
 ---
 name: twilio-sendgrid-engagement-quality
-description: >
-  Monitor email program health with SendGrid Engagement Quality (SEQ)
-  scores. Covers the SEQ API endpoints, the 5 scoring metrics
-  (engagement recency, open rate, bounce classification, bounce rate,
-  spam rate), eligibility requirements, and interpreting scores for
-  deliverability improvement. Use when diagnosing SendGrid deliverability
-  issues or monitoring sender reputation. Requires a SendGrid API key
-  (SG.-prefix) — not applicable to the Twilio Email API (comms.twilio.com).
+description: "通过 SendGrid 互动质量评分（SEQ）监控邮件项目健康状况。涵盖 SEQ API 接口、五项评分指标（互动时效性、打开率、退信分类、退信率、垃圾举报率）、资格要求，以及如何解读评分以改善投递率。适用于诊断 SendGrid 投递问题或监控发件人信誉的场景。需要 SendGrid API Key（SG. 前缀）——不适用于 Twilio Email API（comms.twilio.com）。"
 ---
 
 ## Overview

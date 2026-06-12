@@ -1,6 +1,6 @@
 ---
 name: fund-screener
-description: Use when screening funds or ETFs by Morningstar category, ratings, fees, assets, returns, or risk.
+description: "当需要按 Morningstar 类别、评级、费率、规模、收益率或风险筛选基金或 ETF 时使用。"
 ---
 
 # Fund Screener

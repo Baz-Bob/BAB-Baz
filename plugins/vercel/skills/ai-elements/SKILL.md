@@ -1,6 +1,6 @@
 ---
 name: ai-elements
-description: AI Elements component library guidance — pre-built React components for AI interfaces built on shadcn/ui. Use when building chat UIs, message displays, tool call rendering, streaming responses, reasoning panels, or any AI-native interface with the AI SDK.
+description: "AI Elements 组件库指南——基于 shadcn/ui 构建的预置 React 组件，专为 AI 界面设计。在使用 AI SDK 构建聊天 UI、消息展示、工具调用渲染、流式响应、推理面板或任何 AI 原生界面时使用。"
 metadata:
   priority: 5
   docs:

@@ -1,6 +1,6 @@
 ---
 name: pharmgkb-skill
-description: Submit compact PharmGKB API requests for genes, variants, clinical annotations, dosing guidelines, and search. Use when a user wants concise PharmGKB summaries
+description: "向 PharmGKB API 提交简洁请求，查询基因、变异体、临床注释、用药指南和搜索。适用于需要简明 PharmGKB 摘要的场景。"
 ---
 
 ## Operating rules
