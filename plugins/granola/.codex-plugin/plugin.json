@@ -1,6 +1,6 @@
 {
   "name": "granola",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Granola MCP connects your meeting history to Codex so your assistant can pull real context from past conv...",
   "author": {
     "name": "Granola",
@@ -25,7 +25,7 @@
       "总结 Hearthbase 项目迄今为止发生了什么"
     ],
     "screenshots": [],
-    "composerIcon": "./assets/app-icon.png",
-    "logo": "./assets/app-icon.png"
+    "composerIcon": "./assets/logo.png",
+    "logo": "./assets/logo.png"
   }
 }

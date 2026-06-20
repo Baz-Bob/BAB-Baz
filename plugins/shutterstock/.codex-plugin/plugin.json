@@ -1,6 +1,6 @@
 {
   "name": "shutterstock",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Search licensed stock images, videos, music, and creative assets",
   "author": {
     "name": "Shutterstock",
@@ -27,8 +27,9 @@
       "为本次社交媒体发布整理一份 Shutterstock 素材候选清单。"
     ],
     "brandColor": "#FF6F4A",
-    "composerIcon": "./assets/logo-padded.png",
-    "logo": "./assets/logo-padded.png",
+    "composerIcon": "./assets/logo.png",
+    "logo": "./assets/logo.png",
+    "logoDark": "./assets/logo-dark.png",
     "screenshots": []
   }
 }

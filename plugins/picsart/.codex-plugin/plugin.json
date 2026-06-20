@@ -1,6 +1,6 @@
 {
   "name": "picsart",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Image editing, creative assets, and design workflows from Picsart",
   "author": {
     "name": "Picsart",
@@ -25,8 +25,8 @@
       "生成 5 张符合品牌调性的产品图，并推荐最适合 Instagram 的宽高比。"
     ],
     "brandColor": "#C209C8",
-    "composerIcon": "./assets/logo-padded.png",
-    "logo": "./assets/logo-padded.png",
+    "composerIcon": "./assets/logo.png",
+    "logo": "./assets/logo.png",
     "screenshots": []
   }
 }

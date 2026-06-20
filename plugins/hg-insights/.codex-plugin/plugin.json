@@ -1,6 +1,6 @@
 {
   "name": "hg-insights",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Access HG Insights revenue growth intelligence, account data, buyer intent, technographics, and GTM signals from Codex.",
   "author": {
     "name": "HG Insights",
@@ -35,7 +35,8 @@
       "用 HG Insights 的技术图谱、支出数据和购买信号丰富这些目标账户的信息。"
     ],
     "screenshots": [],
-    "composerIcon": "./assets/app-icon.png",
-    "logo": "./assets/app-icon.png"
+    "composerIcon": "./assets/logo.png",
+    "logo": "./assets/logo.png",
+    "logoDark": "./assets/logo-dark.png"
   }
 }

@@ -1,6 +1,6 @@
 {
   "name": "hubspot",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "Work with your HubSpot data to analyze patterns, create and update records, and manage your CRM operations.",
   "author": {
     "name": "HubSpot",
@@ -38,7 +38,7 @@
       "找出 CRM 中数据陈旧或缺失的记录"
     ],
     "screenshots": [],
-    "composerIcon": "./assets/app-icon.png",
-    "logo": "./assets/app-icon.png"
+    "composerIcon": "./assets/logo.png",
+    "logo": "./assets/logo.png"
   }
 }

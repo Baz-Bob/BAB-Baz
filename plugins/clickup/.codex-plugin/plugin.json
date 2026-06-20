@@ -1,6 +1,6 @@
 {
   "name": "clickup",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Turn Codex into your ClickUp command center.",
   "repository": "https://github.com/openai/plugins",
   "license": "MIT",
@@ -16,8 +16,8 @@
       "判断「Sprint 14：简化 UI」是否存在进度风险"
     ],
     "screenshots": [],
-    "composerIcon": "./assets/app-icon.png",
-    "logo": "./assets/app-icon.png",
+    "composerIcon": "./assets/logo.png",
+    "logo": "./assets/logo.png",
     "developerName": "ClickUp"
   },
   "author": {

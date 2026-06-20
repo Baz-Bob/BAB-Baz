@@ -1,6 +1,6 @@
 {
   "name": "ranked-ai",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Ranked AI provides industry leading AI SEO & PPC software, with a fully managed service integrated into it.",
   "author": {
     "name": "Ranked AI, LLC",
@@ -25,7 +25,8 @@
       "显示项目的排名情况"
     ],
     "screenshots": [],
-    "composerIcon": "./assets/app-icon.png",
-    "logo": "./assets/app-icon.png"
+    "composerIcon": "./assets/logo.png",
+    "logo": "./assets/logo.png",
+    "logoDark": "./assets/logo-dark.png"
   }
 }
