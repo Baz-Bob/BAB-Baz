@@ -1,7 +1,7 @@
 {
   "name": "picsart",
   "version": "1.0.3",
-  "description": "Image editing, creative assets, and design workflows from Picsart",
+  "description": "Generate videos, images, and audio",
   "author": {
     "name": "Picsart",
     "url": "https://picsart.com"
@@ -13,8 +13,8 @@
   "apps": "./.app.json",
   "interface": {
     "displayName": "Picsart",
-    "shortDescription": "来自 Picsart 的图像编辑、创意素材及设计工作流",
-    "longDescription": "来自 Picsart 的图像编辑、创意素材及设计工作流",
+    "shortDescription": "生成视频、图片和音频",
+    "longDescription": "用一个 Picsart 账户，借助 140+ 个 AI 模型生成高质量的视频、图片和音频。\n试试这样的提示：\n\n@Picsart ，为我们的产品发布制作一段 10 秒的电影感视频广告\n@Picsart ，把这张产品照片变成一段 6 秒的竖屏视频\n@Picsart ，为新品发布生成三张照片级的主视觉图\n@Picsart ，为产品演示制作一段 15 秒的器乐配乐",
     "developerName": "Picsart",
     "category": "Creativity",
     "capabilities": [],

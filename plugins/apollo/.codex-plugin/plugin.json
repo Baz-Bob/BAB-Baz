@@ -1,7 +1,7 @@
 {
   "name": "apollo",
   "version": "1.0.2",
-  "description": "B2B prospecting, account research, contacts, and outreach lists",
+  "description": "Prospecting and outbound execution in Apollo",
   "author": {
     "name": "Apollo",
     "url": "https://www.apollo.io"
@@ -13,8 +13,8 @@
   "interface": {
     "displayName": "Apollo",
     "developerName": "Apollo",
-    "shortDescription": "B2B 潜客开发、客户调研、联系人与外联名单",
-    "longDescription": "B2B 潜客开发、客户调研、联系人与外联名单",
+    "shortDescription": "在 Apollo 中进行潜客挖掘与外联执行",
+    "longDescription": "Apollo 的 MCP 连接器让 ChatGPT 能在你的 Apollo 工作空间内安全作业，加速潜客挖掘与外联执行。利用 Apollo 的数据检索并甄别客户与联系人、丰富记录、归纳关键背景，并按团队的规则与权限采取行动（如创建名单、记录备注、生成任务，以及使用序列起草或组装外联内容）。专为速度与可控而设计：ChatGPT 仅提取你所要求的内容、遵守工作空间权限，并产出可供审阅、个性化和发送的成果。",
     "category": "Business & Operations",
     "capabilities": [],
     "brandColor": "#E8F028",

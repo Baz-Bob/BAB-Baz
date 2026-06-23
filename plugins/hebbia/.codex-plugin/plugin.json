@@ -1,7 +1,7 @@
 {
   "name": "hebbia",
   "version": "1.0.3",
-  "description": "Document research, evidence-backed answers, and project analysis from Hebbia",
+  "description": "Institutional research and financial workflows",
   "author": {
     "name": "Hebbia",
     "url": "https://www.hebbia.ai"
@@ -13,8 +13,8 @@
   "apps": "./.app.json",
   "interface": {
     "displayName": "Hebbia",
-    "shortDescription": "文档研究、带引用的答案与项目分析",
-    "longDescription": "基于 Hebbia 的文档研究、带证据支撑的答案与项目分析",
+    "shortDescription": "机构级研究与金融工作流",
+    "longDescription": "将 Hebbia 的机构级智能带入 ChatGPT 与 Codex。Hebbia MCP 服务器让你能够调用所在机构的知识与优质公开信息，在交易与投资上做出更好的决策，并运行从研究到报告、幻灯片和财务模型的各类金融工作流。",
     "developerName": "Hebbia",
     "category": "Business & Operations",
     "capabilities": [],

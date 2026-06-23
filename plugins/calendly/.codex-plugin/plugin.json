@@ -1,7 +1,7 @@
 {
   "name": "calendly",
   "version": "1.0.2",
-  "description": "Search Calendly events and availability so Codex can reason about meetings and scheduling.",
+  "description": "Scheduling links, availability, and bookings",
   "author": {
     "name": "Calendly",
     "url": "https://calendly.com"
@@ -20,8 +20,8 @@
   "apps": "./.app.json",
   "interface": {
     "displayName": "Calendly",
-    "shortDescription": "搜索 Calendly 会议、活动及可用时间。",
-    "longDescription": "Calendly 将 Codex 接入你的日程安排工作流，让你可以查看即将到来的会议、查阅活动详情、分析可用时间段，并汇总与会者的后续跟进事项。",
+    "shortDescription": "排程链接、可用时段与预约",
+    "longDescription": "将 Calendly 引入 ChatGPT，通过简单提示执行排程操作。创建和更新事件类型、生成排程链接、调整可用时段、预约或取消会议等——尽在 ChatGPT 中完成。",
     "developerName": "Calendly",
     "category": "Productivity",
     "capabilities": [],

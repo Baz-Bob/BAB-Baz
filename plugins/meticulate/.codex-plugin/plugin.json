@@ -1,7 +1,7 @@
 {
   "name": "meticulate",
   "version": "1.0.2",
-  "description": "Company matching, firmographic lookup, and go-to-market account intelligence",
+  "description": "Research companies and similar targets",
   "author": {
     "name": "Meticulate"
   },
@@ -12,8 +12,8 @@
   "interface": {
     "displayName": "Meticulate",
     "developerName": "Meticulate",
-    "shortDescription": "公司匹配、企业画像查询与市场推广客户情报",
-    "longDescription": "公司匹配、企业画像查询与市场推广客户情报",
+    "shortDescription": "研究公司及相似目标",
+    "longDescription": "Meticulate 帮助销售与市场拓展团队直接在 ChatGPT 中研究公司。上传一份公司名单或描述你关注的客户，即可识别公司、寻找相似目标、提取关键业务信息，并跨客户回答结构化的研究问题。",
     "category": "Productivity",
     "capabilities": [],
     "brandColor": "#7000D8",

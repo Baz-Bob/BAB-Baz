@@ -1,7 +1,7 @@
 {
   "name": "dnb-finance-analytics",
   "version": "1.0.2",
-  "description": "Credit origination, portfolio management, company reports, and workflow tools from D&B Finance Analytics.",
+  "description": "Commercial credit origination and risk workflows",
   "author": {
     "name": "Dun & Bradstreet",
     "url": "https://www.dnb.com/"
@@ -25,8 +25,8 @@
   "skills": "./skills/",
   "interface": {
     "displayName": "D&B Finance Analytics",
-    "shortDescription": "信贷发起、组合风险、公司报告及文件夹管理工作流。",
-    "longDescription": "通过 D&B Finance Analytics 内嵌的 AI 决策层，为商业信贷发起和组合管理工作流赋能。Dun & Bradstreet 将 D&B 商业图谱与专有客户数据及信贷政策相结合，帮助评估申请、设定信用额度、组织组合文件夹，并识别组合风险与机遇。",
+    "shortDescription": "商业信贷发起与风险工作流",
+    "longDescription": "借助 D&B Finance Analytics 内嵌的 AI 决策层，驱动商业信贷发起与投资组合管理工作流。\n\nDun & Bradstreet 将 D&B Commercial Graph 与专有客户数据和信贷政策相连接，帮助评估申请、设定授信额度，并发掘投资组合中的风险与机会。",
     "developerName": "Dun & Bradstreet",
     "category": "Finance",
     "capabilities": [

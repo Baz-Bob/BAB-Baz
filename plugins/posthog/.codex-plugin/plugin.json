@@ -1,7 +1,7 @@
 {
   "name": "posthog",
   "version": "0.1.2",
-  "description": "Query product analytics and manage feature flags, experiments, and errors in PostHog.",
+  "description": "Analyze product data and manage experiments",
   "author": {
     "name": "PostHog",
     "url": "https://posthog.com"
@@ -26,8 +26,8 @@
   "apps": "./.app.json",
   "interface": {
     "displayName": "PostHog",
-    "shortDescription": "查询分析数据、Feature Flag、实验及错误信息",
-    "longDescription": "将 PostHog 接入 ChatGPT 和 Codex。用自然语言提问产品分析问题并执行 HogQL 查询、创建和管理 Feature Flag、启动并读取实验结果、分类排查错误追踪问题、浏览会话回放和问卷、查看 LLM 分析数据、构建数据看板——所有操作均基于你真实的 PostHog 数据。连接 PostHog 应用后，助手可在你的代码和业务决策的背景下分析产品，并在运行时动态发现合适的 PostHog 工具和技能，而不依赖过时的静态知识。",
+    "shortDescription": "分析产品数据并管理实验",
+    "longDescription": "PostHog 让你的 AI 智能体直接访问产品分析、功能开关、实验、错误跟踪、调研问卷、日志和 LLM 分析。在对话中即可就数据提问、创建洞察、切换功能开关、分析错误、检索文档等。",
     "developerName": "PostHog",
     "category": "Data & Analytics",
     "capabilities": [

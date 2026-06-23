@@ -1,7 +1,7 @@
 {
   "name": "rox",
   "version": "1.0.3",
-  "description": "Access Rox revenue agents, account intelligence, and sales workflow automation from Codex.",
+  "description": "Analyze sales data from Rox workspaces",
   "author": {
     "name": "Rox Data Corp",
     "url": "https://www.rox.com"
@@ -21,8 +21,8 @@
   "apps": "./.app.json",
   "interface": {
     "displayName": "Rox",
-    "shortDescription": "通过 Codex 使用 Rox 收入代理和客户智能功能。",
-    "longDescription": "Rox 将 Codex 接入收入代理工作流，提供客户智能分析、潜在客户挖掘、CRM 上下文、推荐行动及销售流程自动化。",
+    "shortDescription": "分析 Rox 工作空间中的销售数据",
+    "longDescription": "Rox 帮助用户查找并分析来自其 Rox 工作空间的已认证销售数据，包括客户、交易、联系人、备注、邮件、会议、文档、组织架构图和 Slack 活动。该应用提供引导式数据接口：用户可以发现可用的数据函数、查看每个函数的 schema 与工作流指引，然后调用只读函数来回答销售与客户情报相关的问题。",
     "developerName": "Rox Data Corp",
     "category": "Productivity",
     "capabilities": [],

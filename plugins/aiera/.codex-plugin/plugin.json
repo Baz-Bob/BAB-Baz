@@ -1,7 +1,7 @@
 {
   "name": "aiera",
   "version": "1.0.2",
-  "description": "Earnings calls, transcripts, financial events, and market commentary",
+  "description": "Institutional financial data and events",
   "author": {
     "name": "Aiera",
     "url": "https://www.aiera.com"
@@ -13,8 +13,8 @@
   "interface": {
     "displayName": "Aiera",
     "developerName": "Aiera",
-    "shortDescription": "财报电话会议、文字记录、金融事件与市场评论",
-    "longDescription": "财报电话会议、文字记录、金融事件与市场评论",
+    "shortDescription": "机构级金融数据与事件",
+    "longDescription": "访问 Aiera 提供的机构级金融数据，包括实时企业事件、监管文件、公司刊物、券商研究等。",
     "category": "Finance",
     "capabilities": [],
     "brandColor": "#180830",

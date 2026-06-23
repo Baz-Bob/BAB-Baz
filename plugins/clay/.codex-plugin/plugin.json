@@ -1,7 +1,7 @@
 {
   "name": "clay",
   "version": "1.0.2",
-  "description": "Find, enrich, and organize GTM accounts, contacts, and prospecting workflows from Clay.",
+  "description": "Find and engage prospects",
   "author": {
     "name": "Clay",
     "url": "https://www.clay.com"
@@ -21,8 +21,8 @@
   "apps": "./.app.json",
   "interface": {
     "displayName": "Clay",
-    "shortDescription": "查找和丰富 GTM 客户、联系人与潜客信息。",
-    "longDescription": "Clay 将 Codex 与你的 GTM 工作流打通，帮助你从 Clay 数据中查找潜客、丰富线索、梳理客户背景并整理外联信号。",
+    "shortDescription": "寻找并触达潜在客户",
+    "longDescription": "寻找并触达潜在客户",
     "developerName": "Clay",
     "category": "Business & Operations",
     "capabilities": [],

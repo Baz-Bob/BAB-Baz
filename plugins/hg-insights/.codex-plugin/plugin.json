@@ -1,7 +1,7 @@
 {
   "name": "hg-insights",
   "version": "1.0.3",
-  "description": "Access HG Insights revenue growth intelligence, account data, buyer intent, technographics, and GTM signals from Codex.",
+  "description": "Prospect data and revenue intelligence",
   "author": {
     "name": "HG Insights",
     "url": "https://hginsights.com"
@@ -20,8 +20,8 @@
   "apps": "./.app.json",
   "interface": {
     "displayName": "HG Insights",
-    "shortDescription": "通过 Codex 使用 HG Insights 的收入智能和 GTM 信号。",
-    "longDescription": "HG Insights 将 Codex 接入收入增长智能平台，提供市场规模评估、账户优先级排序、技术图谱分析、支出数据、买家意向洞察及 GTM 规划支持。",
+    "shortDescription": "潜客数据与营收情报",
+    "longDescription": "HG Insights——Revenue Growth Intelligence 让销售团队即时访问全面的潜客数据。\n获取任意公司的技术栈、企业基本信息、决策者联系人、IT 支出洞察与合同情报。\n只需按公司名称或域名提问，即可发掘由 HG Insights 数据驱动的可执行销售情报。\n需要 HG Insights 的 RGI Developers 或 RGI Agents 账户。",
     "developerName": "HG Insights",
     "category": "Productivity",
     "capabilities": [],

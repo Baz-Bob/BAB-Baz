@@ -1,7 +1,7 @@
 {
   "name": "zoominfo",
   "version": "1.0.2",
-  "description": "B2B company intelligence, contacts, and go-to-market signals",
+  "description": "Prospecting and account research with ZoomInfo",
   "author": {
     "name": "ZoomInfo",
     "url": "https://www.zoominfo.com"
@@ -13,8 +13,8 @@
   "interface": {
     "displayName": "ZoomInfo",
     "developerName": "ZoomInfo",
-    "shortDescription": "B2B 公司情报、联系人与市场推广信号",
-    "longDescription": "B2B 公司情报、联系人与市场推广信号",
+    "shortDescription": "用 ZoomInfo 进行潜客挖掘与客户研究",
+    "longDescription": "在 ChatGPT 内访问 ZoomInfo 的数据与 AI 背景信息。潜客挖掘、客户研究、已核实联系人、购买信号等功能，现已直接呈现在你的对话中。",
     "category": "Business & Operations",
     "capabilities": [],
     "brandColor": "#E81818",

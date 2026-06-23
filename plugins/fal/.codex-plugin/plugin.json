@@ -1,7 +1,7 @@
 {
   "name": "fal",
   "version": "1.0.3",
-  "description": "AI image and media generation workflows using Fal models",
+  "description": "Generate and manage media with Fal models",
   "author": {
     "name": "Fal",
     "url": "https://fal.ai"
@@ -13,8 +13,8 @@
   "apps": "./.app.json",
   "interface": {
     "displayName": "Fal",
-    "shortDescription": "使用 Fal 模型进行 AI 图像与媒体生成",
-    "longDescription": "使用 Fal 模型进行 AI 图像与媒体生成工作流",
+    "shortDescription": "用 Fal 模型生成与管理媒体",
+    "longDescription": "Fal 通过一个 OpenAI 应用连接器，并配合专注于生产的技能（涵盖模型推荐、schema 检查、定价、异步任务、文件上传和媒体生成），将图像、视频、音频、3D、训练和编辑工作流带入 Codex。",
     "developerName": "Fal",
     "category": "Creativity",
     "capabilities": [],

@@ -1,7 +1,7 @@
 {
   "name": "actively",
   "version": "1.0.3",
-  "description": "Account intelligence and prospecting signals from Actively",
+  "description": "Account agents for GTM intelligence",
   "author": {
     "name": "Actively",
     "url": "https://www.actively.ai"
@@ -13,8 +13,8 @@
   "apps": "./.app.json",
   "interface": {
     "displayName": "Actively",
-    "shortDescription": "来自 Actively 的客户智能和潜在客户信号",
-    "longDescription": "来自 Actively 的客户智能和潜在客户信号",
+    "shortDescription": "面向 GTM 情报的客户智能体",
+    "longDescription": "借助 Actively 赢得更多交易——直接调用始终在线的每客户智能体，帮你推进下一步最佳行动。Actively 的每客户智能体会综合你所有的内部背景（如 CRM 数据、通话记录、邮件）与外部信号，输出可执行的情报。专为需要深入、情境化客户认知的 SDR、AE、AM 和营收主管设计，从会议准备、交易策略到区域优先级排序无所不包。",
     "developerName": "Actively",
     "category": "Business & Operations",
     "capabilities": [],
