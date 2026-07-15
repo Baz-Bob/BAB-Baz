@@ -1,8 +1,6 @@
 ---
 name: track-findings
 description: "在 Linear、Jira、GitHub issue 中跟踪已验证的 Codex Security 发现项,或起草 GitHub 安全公告(security advisory)。适用于单个发现项,或一次明确选定、最多 25 个、以 Linear/Jira/GitHub issue 形式跟踪的发现项批次。包含查重、精确预览、需审批方可写入及回读。不要用于扫描或修复。"
-metadata:
-  short-description: Track security findings
 ---
 
 # Track Findings
@@ -33,7 +31,7 @@ Jira mode is defined in:
 
 Linear requires the native [$linear](app://asdk_app_69a089a326dc8191b32a3f2553f5be2c) app. Stop if it is unavailable or disconnected.
 
-Jira requires the native [$atlassian-rovo](app://connector_692de805e3ec8191834719067174a384) app. Reuse needs read access but not write access. Create and update need both. Stop if the app is unavailable, disconnected, cannot read the destination, or cannot perform the approved mutation. Do not fall back to a legacy Jira connector, CLI, direct REST, browser automation, or Computer Use.
+Jira requires the native [$atlassian](app://connector_692de805e3ec8191834719067174a384) app. Reuse needs read access but not write access. Create and update need both. Stop if the app is unavailable, disconnected, cannot read the destination, or cannot perform the approved mutation. Do not fall back to a legacy Jira connector, CLI, direct REST, browser automation, or Computer Use.
 
 For GitHub, prefer the native [$github](app://connector_76869538009648d5b282a4bb21c3d157) app. The app is optional. Authenticated GitHub CLI (`gh`) access is also allowed, but only when the user explicitly chooses the current CLI identity and exact destination.
 

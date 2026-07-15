@@ -1,6 +1,6 @@
 ---
 name: teams
-description: "通过已连接的 Teams 数据，汇总 Microsoft Teams 对话、分类未读或近期动态、起草跟进消息，并管理 Planner 任务。适用于查看聊天或频道内容、识别负责人和后续步骤、准备安全的回复或帖子，或将 Teams 跟进事项转换为 Microsoft Planner 任务。"
+description: "通过已连接的 Teams 数据，搜索 Microsoft Teams 聊天或频道、分类未读或近期动态、起草跟进消息，并管理 Planner 任务。"
 ---
 
 # Teams

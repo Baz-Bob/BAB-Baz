@@ -1,8 +1,6 @@
 ---
 name: finding-discovery
 description: "当 Codex 已处于安全扫描的发现阶段，或用户明确要求在仓库或代码变更中发现候选安全问题时使用。不作为完整 PR、提交、分支、补丁或仓库扫描的主触发器。"
-metadata:
-  short-description: Discover security findings
 ---
 
 # Security Finding Discovery
@@ -17,6 +15,10 @@ The path references in this skill are the default locations for this phase.
 If the user explicitly provides a different path for a required input or output, use the user-provided path instead of the corresponding default path referenced in this skill.
 If a required input is still missing, stop and ask the user for it before continuing.
 Use the shared scan artifact path conventions in `../../references/scan-artifacts.md`.
+
+## SECURITY.md Guidance Gate
+
+Read `../../references/security-guidance.md` and resolve the applicable policy before inspecting each source file. A delegated file-review worker must do the same before reading its assigned source.
 
 ### Code Diff Workflow
 If the scan target is for a targeted code-diff:
